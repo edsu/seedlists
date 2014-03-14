@@ -44,7 +44,10 @@ def write_yaml(project, data):
             })
         for key, vals in seed_info['attributes'].items():
             key = key.replace('_', ' ').lower()
-            seed[key] = vals
+            if len(vals) == 1:
+                seed[key] = vals[0]
+            else:
+                seed[key] = vals
         seeds.append(seed)
     yaml.safe_dump(seeds, open(yaml_file, 'w'), default_flow_style=False)
     print yaml_file
