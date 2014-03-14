@@ -1,0 +1,5516 @@
+{
+  "http://www.clarin.com": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,clarin,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,clarin,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Argentinian newspaper covering in depth the enthroning of the new Argentinian Pope."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Peri\u00f3dico Clar\u00edn"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://atheism.about.com/od/benedictxvi/i/RatzingerNazi.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,about,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,about,atheism,)/od/benedictxvi/i/ratzingernazi.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://atheism.about.com/contact/Austin-Cline-5577.htm"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Was Pope Benedict XVI (Joseph Ratzinger) A Nazi? Why Join the Hitler Youth? "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ratzingerbenedettoxvi.com": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ratzingerbenedettoxvi,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ratzingerbenedettoxvi,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Non-official site built by Amedeo Lomonaco, celebrating the life and legacy of Benedict XVI."
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "TU ES PETRUS"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicnews.com/index.html": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,catholicnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,catholicnews,www,)/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Reporting on issues that affect Catholics."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic News Service"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://abcnews.go.com/International/pope-benedict-xvi-final-sunday-blessing-papal-conclave/story?id=18580005": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,go,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,go,abcnews,)/international/pope-benedict-xvi-final-sunday-blessing-papal-conclave/story?id=18580005", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://abcnews.go.com/Site/page?id=3068843"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Papal Conclave 2013 Not Politics as Usual"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bitno.net/teme/papa-benedikt-xvi": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(net,bitno,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,bitno,www,)/teme/papa-benedikt-xvi", 
+    "attributes": {
+      "Description": [
+        "http://www.bitno.net/kontakt/"
+      ], 
+      "Language": [
+        "Croatian"
+      ], 
+      "Type_of_Site": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://jyllands-posten.dk/international/article5199491.ece": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,jyllands-posten,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,jyllands-posten,)/international/article5199491.ece", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.trouw.nl/tr/nl/12435/Paus-Benedictus-XVI-treedt-terug": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,trouw,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,trouw,www,)/tr/nl/12435/paus-benedictus-xvi-treedt-terug", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Collection of articles published by the national newspaper Trouw\r\n(contact: info@persgroep.nl)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Paus Benedictus XVI treedt terug"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/2013/mar/13/jorge-mario-bergoglio-pope-francis": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/2013/mar/13/jorge-mario-bergoglio-pope-francis", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.guardian.co.uk/help/contact-us"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Jorge Mario Bergoglio: from railway worker's son to Pope Francis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://benedictxvi.einnews.com": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,einnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,einnews,benedictxvi,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "A service for Global Professionals \r\n\r\nContact:\r\nhttp://www.einnews.com/contact\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI News Today"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/telegram/450849": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/telegram/450849", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Nyhedsbureau: Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/telegram/450848": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/telegram/450848", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/pope-benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/pope-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.guardian.co.uk/help/contact-us\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.biography.com/people/pope-benedict-xvi-15045109?page=2": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,biography,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,biography,www,)/people/pope-benedict-xvi-15045109?page=2", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.biography.com/support"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI biography"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1900349/vatikanet-vil-speede-pave-valg-i-vejret": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1900349/vatikanet-vil-speede-pave-valg-i-vejret", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Vatikanet vil speede pave-valg i vejret"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vatican.va/news_services/or/or_spa/index.html": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(va,vatican,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,vatican,www,)/news_services/or/or_spa/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Spanish edition of the Vatican newspaper (weekly release).\r\n\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "L'Osservatore Romano, Spanish edition"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/telegram/450846": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/telegram/450846", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage f\u00f8r tid"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/benedicts-message-go-to-jesus": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/benedicts-message-go-to-jesus", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "This article focuses on the centrality of Jesus Christ in the pastoral teaching of Benedict XVI."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict's Message: Go to Jesus"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bt.dk/udland/ikke-sket-siden-1415-paven-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,bt,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,bt,www,)/udland/ikke-sket-siden-1415-paven-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Ikke sket siden 1415: Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://dossiers.nieuws.nl/buitenland/paus_benedictus_xvi": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,nieuws,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,nieuws,dossiers,)/buitenland/paus_benedictus_xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "(contact: info@nieuws.nl)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Dossier Paus Benedictus XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholic.org/hf/faith/story.php?id=50111": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,catholic,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,catholic,www,)/hf/faith/story.php?id=50111", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.catholic.org/about/contactus.php"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "NEW POPE: Who is this man named Bergoglio?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sg.news.yahoo.com/women-shadows-vatican-conclave-081740842.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,news,sg,)/women-shadows-vatican-conclave-081740842.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\n-"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Women in the shadows in Vatican conclave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/americanpapist": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/americanpapist", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "A Facebook page for the Catholic community.  Their about page describes them as following:  \r\n\"We follow Catholic controversies, foster community, and organize on behalf of worthy causes. If you are a papist (i.e. proud to be Catholic) join us!\"\r\n\r\nThey are currently covering anything dealing with the Papacy."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "AmericanPapist"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitchy.com/2013/03/13/habemus-papam-new-pope-is-cardinal-jorge-mario-bergoglio-from-argentina": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,twitchy,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitchy,)/2013/03/13/habemus-papam-new-pope-is-cardinal-jorge-mario-bergoglio-from-argentina", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://twitchy.com/about/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Habemus Papam! New pope is Cardinal Jorge Mario Bergoglio from Argentina; Reaction rolls in [pics]; Update: Pope Francis I"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.diocese-frejus-toulon.com/Renonciation-du-Pape-Benoit-XVI.html": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(com,diocese-frejus-toulon,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,diocese-frejus-toulon,www,)/renonciation-du-pape-benoit-xvi.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Diocese of Toulon folder. The Holy Father announced Monday, February 11: he leaves the seat of St. Peter next Thursday, February 28 at 20:00"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Waiver of Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1895299/den-nye-pave-bliver-valgt-palmesoendag": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1895299/den-nye-pave-bliver-valgt-palmesoendag", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Den nye pave bliver valgt palmes\u00f8ndag"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/Nyheder/Ligetil/Dagens_fokus/Udland/2013/02/11123847.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/ligetil/dagens_fokus/udland/2013/02/11123847.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyhederne.tv2.dk/article.php/id-64349496:sataniske-odds-p%C3%A5-topateist-som-ny-pave.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2,nyhederne,)/article.php/id-64349496:sataniske-odds-p%c3%a5-topateist-som-ny-pave.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        " Nyhederne - bedst p\u00e5 breaking      Tip os     Video     Nyhedsliste     Politik     Krimi     Regioner     Indland     Udland     MERE      Far truet med kniv, mens mor og b\u00f8rn gemte sig     Ekspert: Danmark under massivt hackerangreb     Kvinde kunne ikke finde ud af Rold Skov  Sataniske odds p\u00e5 top-ateist som ny pave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wimbeurskens.nl/mens/data/358/Paus-treedt-af.html": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,wimbeurskens,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,wimbeurskens,www,)/mens/data/358/paus-treedt-af.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Blog by Wim Beurskens\r\n(contact: mail@wimbeurskens.nl)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Paus treedt af"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nytimes.com/video/landing/a-new-pope/100000002115893/index.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,nytimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nytimes,www,)/video/landing/a-new-pope/100000002115893/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.nytimes.com/content/help/contact/directory.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "A New Pope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://message.snopes.com/showthread.php?t=84267": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,snopes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,snopes,message,)/showthread.php?t=84267", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "A conversation thread on Snopes discussing the Pope's resignation (though the topic does stray occasionally but tends to come back to the original subject)."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Snope's: Pope Benedict in shock resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.abc.es/sociedad/20130312/alminuto-abci-directo-conclave-papa-vaticano-201303120732.html": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,abc,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,abc,www,)/sociedad/20130312/alminuto-abci-directo-conclave-papa-vaticano-201303120732.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Spanish newspaper and third news publication in the country in terms of readers. Right-wing."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "ABC especial Papa"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.metroxpress.dk/nyheder/obama-om-historisk-pavevalg-han-kmper-for-de-fattige/qefmcn!FONKcLTb4lK8YgCPnjzpgQ": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,metroxpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,metroxpress,www,)/nyheder/obama-om-historisk-pavevalg-han-kmper-for-de-fattige/qefmcn!fonkcltb4lk8ygcpnjzpgq", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Obama om historisk pavevalg: Han k\u00e6mper for de fattige"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.revistaecclesia.com": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,revistaecclesia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,revistaecclesia,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Spanish digital magazine devoted to religious issues.\r\n\r\nContact number for resource: 0034 913 439 703\r\n\r\nDoesn't regard http://www.revistaecclesia.com/category/especiales-ecclesia/conclave-marzo-2013/ \r\n as a proper URL, so entered the short version."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Revista Ecclesia"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristeligt-dagblad.dk/artikel/502017:Paven-og-Vatikanet--Bag-navnet--Den-foerste-pave-Frans": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristeligt-dagblad,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristeligt-dagblad,www,)/artikel/502017:paven-og-vatikanet--bag-navnet--den-foerste-pave-frans", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Newspaper article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Bag navnet: Den f\u00f8rste pave Frans"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/popes-words-will-endure": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/popes-words-will-endure", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "This article stresses the prolific theological writings of Pope Benedict and their impact in the world."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope\u2019s Words Will Endure"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://popebenedictxvinews.blogspot.sg": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(sg,blogspot,", 
+    "nomination_score": 1, 
+    "surt": "http://(sg,blogspot,popebenedictxvinews,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\n\r\nContact:\r\nblostopher@gmail.com"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Benedict Blog"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://laicosdeapie.blogspot.com.es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,com,blogspot,laicosdeapie,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Laicos de a pie"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1918348/kardinaler-kraever-hemmelig-rapport-udleveret-inden-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1918348/kardinaler-kraever-hemmelig-rapport-udleveret-inden-pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Kardinaler kr\u00e6ver hemmelig rapport udleveret inden pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.papalencyclicals.net/Ben16/index.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(net,papalencyclicals,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,papalencyclicals,www,)/ben16/index.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nwebmaster@papalencyclicals.net\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI  April 19, 2005 - present"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/CatholicNewsSvc": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/catholicnewssvc", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Catholic News Service, a leading news agency that reports on Catholic news."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic News Svc"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristeligt-dagblad.dk/artikel/497993:Udland--Paven": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristeligt-dagblad,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristeligt-dagblad,www,)/artikel/497993:udland--paven", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article\r\nPaven tr\u00e6der tilbage f\u00f8r tid"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage f\u00f8r tid"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.publico.es/internacional/452122/bergoglio-oculto-la-complicidad-del-episcopado-argentino-con-la-junta-militar-del-dictador-videla": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,publico,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,publico,www,)/internacional/452122/bergoglio-oculto-la-complicidad-del-episcopado-argentino-con-la-junta-militar-del-dictador-videla", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Piece of news belonging to the Spanish newspaper P\u00fablico, a left-wing Spanish publication, critical with the papal election.\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "P\u00fablico"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.npr.org/blogs/thetwo-way/2013/02/11/171680715/pope-benedict-xvi-is-resigning": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,npr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,npr,www,)/blogs/thetwo-way/2013/02/11/171680715/pope-benedict-xvi-is-resigning", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI Is Resigning "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.geekosystem.com/new-pope-announces-papacy-twitter": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,geekosystem,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,geekosystem,www,)/new-pope-announces-papacy-twitter", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.geekosystem.com/about/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "New Pope Announces Papacy Via Twitter, Enables Cruise Control for Cool"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.channelnewsasia.com/stories/afp_world/view/1259715/1/.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,channelnewsasia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,channelnewsasia,www,)/stories/afp_world/view/1259715/1/.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.channelnewsasia.com/about/contactus.htm"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Hoping for a pope on rainy second day of conclave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rkk.nl/conclaaf-2013": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,rkk,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,rkk,www,)/conclaaf-2013", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News items collected by the Roman Catholic broadcasting corporation"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Conclaaf 2013"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/pages/The-Benedict-XVI-Fan-Club/228706360868": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/pages/the-benedict-xvi-fan-club/228706360868", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\n?"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Benedict XVI Fan Club (Facebook)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thetimes.co.uk/tto/faith/article3684715.ece": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,thetimes,www,)/tto/faith/article3684715.ece", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttps://login.thetimes.co.uk/links/contact"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The life and times of Pope Benedict XVI "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://benedictxvi.tv": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(tv,benedictxvi,", 
+    "nomination_score": 1, 
+    "surt": "http://(tv,benedictxvi,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Speeches, events, clips\r\n\r\nContact:\r\nhttp://benedictxvi.tv/site/contact-us/"
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "Benedict XVI TV "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.isgeschiedenis.nl/nieuws/biografie-jorge-mario-bergoglio-paus-franciscus/?utm_source=rss&utm_medium=rss&utm_campaign=biografie-jorge-mario-bergoglio-paus-franciscus": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,isgeschiedenis,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,isgeschiedenis,www,)/nieuws/biografie-jorge-mario-bergoglio-paus-franciscus/?utm_source=rss&utm_medium=rss&utm_campaign=biografie-jorge-mario-bergoglio-paus-franciscus", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        " IS Geschiedenis  Dagelijkse historische achtergronden bij het nieuws   HomeLanden   NederlandFrankrijkGroot-Brittanni\u00ebRuslandChinaVerenigde StatenAlle landenTijdperken   1946-nu1900-19451800-19001700-18001500-17001000-1500500-10003000 v.Chr. tot 500 n. Chr.Meer tijdperkenThema\u2019s   Oorlog en RevolutieMacht en PolitiekNederlandse geschiedenisWetenschap, kunst en cultuurKoloniaal verledenSport en entertainmentReligieMidden OostenBeschavingenAlle thema\u2019sPersonen   Adolf HitlerAletta JacobsChe GuevaraChristoffel ColumbusElizabeth I van EngelandErasmusGaius Julius CaesarHuis HabsburgHuis van Oranje-NassauJeanne d\u2019ArcNapoleon BonaparteWillem van OranjeMeer personenRubrieken   Amerikaanse presidentApocalyps en natuurrampenCitaat uit het nieuwsGeschiedenis van KerstmisGeschiedenis van Oud en NieuwGrootste militaire confrontatiesInvloedrijke mannen uit de geschiedenisHistorische fotoHistorische jarigeHistorische receptenHistorische uitdrukkingenOpmerkelijke verhalenSterke vrouwenVandaag in de geschiedenisWinactieMeer rubriekenInformatie   Adverteren op IsGeschiedenisContactLicentieIsGeschiedenis.nl in de mediaLinksNieuwsbriefOver onsPartnersRedactieVacaturesTijdvakken   De Canon van Nederland10 tijdvakken van de commissie-De RooyDossier oudheidDossier middeleeuwenDossier Nieuwe Tijd (1500-1800)Verdieping   Archeologie MagazineElsevier \u2013 Speciale EditiesGeschiedenis MagazineHistorisch Tijdschrift AanzetJaarboek Parlementaire GeschiedenisKeesings Historisch ArchiefLeidschriftMeer artikelen  .Follow Us!  IsGeschiedenis > Nieuws > Buitenlands nieuws > Biografie Jorge Mario Bergoglio: paus Franciscus   Biografie Jorge Mario Bergoglio: paus Franciscus"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.redescristianas.net": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(net,redescristianas,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,redescristianas,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News agency aggregating content from over 200 Catholic groups, communities and movements in Spain.\r\n\r\nContact: webmaster@redescristianas.net\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Redes Cristianas"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholictv.com/pope-benedict-xvi.aspx": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,catholictv,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,catholictv,www,)/pope-benedict-xvi.aspx", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.catholictv.com/utility/contact-us.aspx"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Papal programming"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/onfaith": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/onfaith", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "The Washington Post's religion blog."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "On Faith"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.news.va/en/sites/benedetto-xvi-en": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(va,news,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,news,www,)/en/sites/benedetto-xvi-en", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\ninfo@news.va"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The final days of Benedict XVI's pontificate"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.conferenciaepiscopal.es/index.php/monografico-benedictoxvi.html": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(es,conferenciaepiscopal,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,conferenciaepiscopal,www,)/index.php/monografico-benedictoxvi.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "This website maintained by the Conference of Catholic Bishops of Spain contains a relation of the life and legacy of Pope Benedict XVI."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Monogr\u00e1fico sobre el Santo Padre Benedicto XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicreview.org": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,catholicreview,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,catholicreview,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Media website from the Archdiocese of Baltimore."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Review"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rcf.fr/radio/rcfnational/emission/413605/485114": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(fr,rcf,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,rcf,www,)/radio/rcfnational/emission/413605/485114", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Special edition francophones Christian radios : Pauline Torsiac enlighten you on the resignation of Pope Benedict XVI for reasons of health, announced today February 28th, 2013"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Special Edition resignation of Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rawstory.com/rs/tag/pope-benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,rawstory,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,rawstory,www,)/rs/tag/pope-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Articles\r\n\r\nContact:\r\nhttp://www.rawstory.com/rs/contact-us/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/globalt/benedikt-xvi-frygtes-at-paavirke-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/globalt/benedikt-xvi-frygtes-at-paavirke-pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Benedikt XVI frygtes at p\u00e5virke pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.heraldsun.com.au/technology/pope-soars-to-top-of-the-charts-on-twitter/story-fn7celvh-1226597222777": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(au,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(au,com,heraldsun,www,)/technology/pope-soars-to-top-of-the-charts-on-twitter/story-fn7celvh-1226597222777", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.heraldsun.com.au/help/contactus"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Francis soars to top of the charts on Twitter"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.laprensa.com.ar": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(ar,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(ar,com,laprensa,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Argentinian newspaper covering the enthroning of the new Argentinian Pope."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "La Prensa Argentina"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sg.news.yahoo.com/pope-readies-final-audience-resignation-eve-030219429.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,news,sg,)/pope-readies-final-audience-resignation-eve-030219429.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\npermissions@yahoo-inc.com."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope readies for final audience on resignation eve"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wtae.com/news/national/Too-tired-to-go-on-Pope-Benedict-resigns/-/9681152/18492862/-/c3jda5z/-/index.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,wtae,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wtae,www,)/news/national/too-tired-to-go-on-pope-benedict-resigns/-/9681152/18492862/-/c3jda5z/-/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.wtae.com/tv/about\r\n", 
+        "\r\nSpeculation begins on who will replace pope"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Too tired to go on, Pope Benedict resigns   ", 
+        "Too tired to go on, Pope Benedict resigns      Speculation begins on who will replace pope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicvote.org": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,catholicvote,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,catholicvote,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "A conservative website about Catholic issues with opinion pieces and a blog."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Vote"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ewtn.com/pope/life/index.asp": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,ewtn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ewtn,www,)/pope/life/index.asp", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.ewtn.com/general/contact.asp"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pontificate of Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/P1/orientering/indslag/2013/03/11/155818_1.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/p1/orientering/indslag/2013/03/11/155818_1.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Radio programme from the national Danish broadcast "
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicnews.com": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,catholicnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,catholicnews,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Media website for the Catholic News Service, reporting on Catholic news and issues."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic News Service"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/Nyheder/Udland/2013/02/28/0228205100.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/udland/2013/02/28/0228205100.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Benedikt XVI er officielt ikke l\u00e6ngere pave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://evangelizadorasdelosapostoles.wordpress.com": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,wordpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wordpress,evangelizadorasdelosapostoles,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Interesting blog with a feminist angle to religion.\r\n\r\n\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Grupo ecum\u00e9nico feminista"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.foxnews.com/topics/world/pope-benedict-xvi.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,foxnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foxnews,www,)/topics/world/pope-benedict-xvi.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://help.foxnews.com/index.html\r\nldepartment@foxnews.com"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://digital2.library.unt.edu/nomination/papal2013/add": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(edu,unt,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,unt,library,digital2,)/nomination/papal2013/add", 
+    "attributes": {
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Ikke sket siden 1415: Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.jutarnji.hr/posljednja-opca-audijencija-benedikta-xvi--u-vatikanu-se-ocekuje-stotine-tisuca-vjernika/1087730": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(hr,jutarnji,", 
+    "nomination_score": 1, 
+    "surt": "http://(hr,jutarnji,www,)/posljednja-opca-audijencija-benedikta-xvi--u-vatikanu-se-ocekuje-stotine-tisuca-vjernika/1087730", 
+    "attributes": {
+      "Description": [
+        "redakcija@jutarnji.hr"
+      ], 
+      "Language": [
+        "Croatian"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristendom.dk/artikel/498795:Synspunkt--Nonne--Paven-er-en-stor-mand--som-traeder-stille-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristendom,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristendom,www,)/artikel/498795:synspunkt--nonne--paven-er-en-stor-mand--som-traeder-stille-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "website article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Nonne: Paven er en stor mand, som tr\u00e6der stille tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nos.nl/dossier/472871-terugtreden-paus-benedictus": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,nos,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,nos,)/dossier/472871-terugtreden-paus-benedictus", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Articles collected by the Dutch PBS"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Dossier Terugtreden paus Benedictus"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ktotv.com/cms/benoit_XVI": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(com,ktotv,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ktotv,www,)/cms/benoit_xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "After his resignation, KTO (french catholic television) offers to review the latest videos on Pope Benedict XVI and to review a selection of old videos of his pontificate"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "The Pontificate of Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://paparatzinger2-blograffaella.blogspot.sg": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(sg,blogspot,", 
+    "nomination_score": 1, 
+    "surt": "http://(sg,blogspot,paparatzinger2-blograffaella,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nraffaella.blogpaparatzinger@gmail.com "
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "Papa Ratzinger blog 2 [2008-2009] "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/Nyheder/Ligetil/Dagens_fokus/Udland/2013/02/11134830.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/ligetil/dagens_fokus/udland/2013/02/11134830.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article aimed at young readers"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "S\u00e5dan bliver en ny pave valgt"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.theglobeandmail.com/news/world/jorge-mario-bergoglio-man-of-contrasts/article9757801": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,theglobeandmail,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,theglobeandmail,www,)/news/world/jorge-mario-bergoglio-man-of-contrasts/article9757801", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.theglobeandmail.com/help/contact-us/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Jorge Mario Bergoglio, man of contrasts"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.uscatholic.org": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,uscatholic,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,uscatholic,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Media website for U.S. Catholic, a general interest religious magazine."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "U.S. Catholic"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.avvenire.it/PAPA/Pagine/default.aspx": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(it,avvenire,", 
+    "nomination_score": 1, 
+    "surt": "http://(it,avvenire,www,)/papa/pagine/default.aspx", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Website sponsored by the Catholic Church in Italy contains multiple analyses, videos, photographies, and commentaries related to Benedict XVI's papacy."
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "La Scelta di Benedetto"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://internacional.elpais.com/tag/conclave/a": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,elpais,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,elpais,internacional,)/tag/conclave/a", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Special conclave coverage by the leading newspaper in Spain"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Especial C\u00f3nclave El Pa\u00eds"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Pope_Benedict_XVI": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/pope_benedict_xvi", 
+    "attributes": {
+      "Description": [
+        "Wiki\r\n\r\nContact:\r\nhttp://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Type_of_Site": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1921216/obama-pavevalg-viser-latinamerikas-voksende-betydning": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1921216/obama-pavevalg-viser-latinamerikas-voksende-betydning", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Obama: Pavevalg viser Latinamerikas voksende betydning"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.refdag.nl/kerkplein/kerknieuws/liveblog_paus_benedictus_treedt_terug_1_714343": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,refdag,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,refdag,www,)/kerkplein/kerknieuws/liveblog_paus_benedictus_treedt_terug_1_714343", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Liveblog: Paus Benedictus treedt terug"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Pope_Francis": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/pope_francis", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://en.wikipedia.org/wiki/Wikipedia:Contact_us"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Francis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicnews.sg/index.php?option=com_content&view=article&id=8430:asian-church-leaders-react-to-popes-resignation&catid=330:february-24-2013-vol-63-no-04&Itemid=78": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(sg,catholicnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(sg,catholicnews,www,)/index.php?option=com_content&view=article&id=8430:asian-church-leaders-react-to-popes-resignation&catid=330:february-24-2013-vol-63-no-04&itemid=78", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article \r\n\r\nContact:\r\nhttp://www.catholicnews.sg/index.php?option=com_content&view=article&id=2443&Itemid=81\r\n\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Asian Church leaders react to pope\u2019s resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ekstrabladet.dk/nyheder/samfund/article1936771.ece": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,ekstrabladet,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,ekstrabladet,)/nyheder/samfund/article1936771.ece", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Ny pave er valgt"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/opinions/five-myths-about-picking-a-pope/2013/02/22/d9d85364-7b77-11e2-9a75-dab0201670da_story.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/opinions/five-myths-about-picking-a-pope/2013/02/22/d9d85364-7b77-11e2-9a75-dab0201670da_story.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttps://ssl.washingtonpost.com/actmgmt/help/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Five myths about picking a pope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://especialconclave.archimadrid.org": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(org,archimadrid,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,archimadrid,especialconclave,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Contact number for resource: 0034 913 439 703\r\n", 
+        "Special conclave-related information edited by the Madrilian Archdiocese."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Especial c\u00f3nclave Archidi\u00f3cesis de Madrid"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/globalt/paven-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/globalt/paven-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "news article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/benedict-christs-envoy": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/benedict-christs-envoy", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "This piece highlights the inseparability of Pope Benedict's ministry and his fidelity to the teachings of Jesus Christ."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict, Christ's Envoy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.theage.com.au/world/jesuit-pope-a-first-for-gods-marines-20130314-2g25k.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(au,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(au,com,theage,www,)/world/jesuit-pope-a-first-for-gods-marines-20130314-2g25k.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.theage.com.au/support/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Jesuit Pope a first for 'God's Marines'"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/telegram/454339": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/telegram/454339", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Obama om historisk pavevalg: Han k\u00e6mper for de fattige"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/search?q=%23poperesigns&src=hash": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/search?q=%23poperesigns&src=hash", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "The social media site Twitter has a hashtag of \"#poperesigns\" which people are continuously posting on. I don't know what all is possible for tracking this site or keeping any records of it but I thought it might be interesting."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Twitter results for #poperesigns"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bishop-accountability.org/news2013/01_02/2013_02_11_Wooden_CitingHealth.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,bishop-accountability,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,bishop-accountability,www,)/news2013/01_02/2013_02_11_wooden_citinghealth.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\nstaff@BishopAccountability.org\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Citing Health Reasons, Pope Benedict Announces He Will Resign"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/person/pave-benedict-xvi": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/person/pave-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "article collection"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pave Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blog.vecernji.hr/tomasevic": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(hr,vecernji,", 
+    "nomination_score": 1, 
+    "surt": "http://(hr,vecernji,blog,)/tomasevic", 
+    "attributes": {
+      "Description": [
+        "vecernji@vecernji.hr"
+      ], 
+      "Language": [
+        "Croatian"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/thenextpope": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/thenextpope", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttps://ssl.washingtonpost.com/actmgmt/help/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Vatican in Transition"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blog.timesunion.com/rudnick/why-the-popes-resignation-matters-to-protestants/3105/#comments": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,timesunion,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,timesunion,blog,)/rudnick/why-the-popes-resignation-matters-to-protestants/3105/#comments", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "A Baptist Reverend gives an opinion on this blog about why the Pope's resignation will impact Protestants."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Why the Pope\u2019s resignation matters to Protestants"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.modkraft.dk/artikel/topl%C3%B8s-protest-mod-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,modkraft,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,modkraft,www,)/artikel/topl%c3%b8s-protest-mod-pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Topl\u00f8s protest mod pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sg.news.yahoo.com/church-uncharted-waters-pope-resigns-022652098.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,news,sg,)/church-uncharted-waters-pope-resigns-022652098.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article\r\nBy Dario THUBURN | AFP News \u2013 Thu, Feb 14, 2013\r\n\r\nPossible contact: \r\n\r\nhttp://help.yahoo.com/l/sg/yahoo/news_global/submitsource.html;_ylt=AsK.fX.lToKK0nWbAO_pd3BGLXtG?from_url=&last_url=\r\n\r\nYahoo! Asia Pacific Pte. Ltd. \r\n60 Anson Road, #13-01 Mapletree Anson, Singapore 079914 "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope urges end to hypocrisy at final mass"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bbc.co.uk/news/world-21701046": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,www,)/news/world-21701046", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.bbc.co.uk/feedback/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Francis "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyheder.dk.msn.com/paven-tr%C3%A6der-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,dk,nyheder,)/paven-tr%c3%a6der-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fr.lourdes-france.org/evenement/lettre-mgr-brouwet-demission-pape": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(org,lourdes-france,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,lourdes-france,fr,)/evenement/lettre-mgr-brouwet-demission-pape", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Website TV Lourdes : February 13, 2013, Bishop Nicolas Brouwet wrote to the people of his diocese of Tarbes on the occasion of the announcement of the resignation of Pope Benedict XVI. He invites them to prayer"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Resignation of Pope : Bishop  Brouwet  of Tarbes and Lourdes, wrote a letter to the people of his diocese  to pray"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ctvnews.ca/world/who-is-jorge-mario-bergoglio-the-new-pope-1.1194474": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(ca,ctvnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(ca,ctvnews,www,)/world/who-is-jorge-mario-bergoglio-the-new-pope-1.1194474", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.ctvnews.ca/more/contact-ctv-news"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Who is Jorge Mario Bergoglio, the new Pope?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vidanueva.es/conclave-2013": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,vidanueva,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,vidanueva,www,)/conclave-2013", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Christian news site offering special monographic coverage."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "C\u00f3nclave 2013 Vida Nueva"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://deburchtsion.blogspot.nl/2013/02/is-benedictus-opvolger-de-laatste-paus_28.html": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,blogspot,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,blogspot,deburchtsion,)/2013/02/is-benedictus-opvolger-de-laatste-paus_28.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Part 2 of 2\r\n(contact: burchtsion.742@gmail.com)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Is Benedictus' opvolger de laatste paus? Deel 2"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.independent.co.uk/news/world/europe/jorge-mario-bergoglio-first-latin-american-first-jesuit-and-first-pope-francis-to-lead-the-worlds-catholics-8532365.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,independent,www,)/news/world/europe/jorge-mario-bergoglio-first-latin-american-first-jesuit-and-first-pope-francis-to-lead-the-worlds-catholics-8532365.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.independent.co.uk/service/contact-us-759589.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Jorge Mario Bergoglio: first Latin American, first Jesuit and first Pope Francis to lead the world's Catholics "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.christianpost.com/news/online-rumor-claims-pope-resigned-over-arrest-warrant-in-sex-abuse-scandal-90366": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,christianpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,christianpost,www,)/news/online-rumor-claims-pope-resigned-over-arrest-warrant-in-sex-abuse-scandal-90366", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\nhttp://www.christianpost.com/aboutus/contactus.html\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Online Rumor Claims Pope Resigned Over Arrest Warrant in Sex Abuse Scandal"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/globalt/pavevalg-indhylles-i-sexskandaler-0": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/globalt/pavevalg-indhylles-i-sexskandaler-0", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "news article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pavevalg indhylles i sexskandaler"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristeligt-dagblad.dk/artikel/500396:Udland--Kardinaler-forbereder-sig-til-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristeligt-dagblad,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristeligt-dagblad,www,)/artikel/500396:udland--kardinaler-forbereder-sig-til-pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Kardinaler forbereder sig til pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elmundo.es/especiales/Nuevo_Papa/index.html": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,elmundo,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,elmundo,www,)/especiales/nuevo_papa/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Special coverage by El Mundo, Spain's second leading newspaper."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Especial Nuevo Papa El Mundo"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/religion/the-pope": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/religion/the-pope", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.telegraph.co.uk/topics/about-us/3489870/Contact-Telegraph-Media-Group.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ecdq.tv/fr/videos/7b7a53e239400a13bd6be6c91c4f6c4e": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(tv,ecdq,", 
+    "nomination_score": 1, 
+    "surt": "http://(tv,ecdq,www,)/fr/videos/7b7a53e239400a13bd6be6c91c4f6c4e", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Video catholic church Quebec : on the occasion of the papal resignation announcement, Archbishop of Quebec G\u00e9rald C. Lacroix invites his diocesan prayer to give thanks for the eight years of the pontificate of Benedict XVI and seek the inspiration of the Holy Spirit for the election of his successor"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Waiver of Benedict XVI: call to prayer"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/Pontifex": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/pontifex", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\n-", 
+        "Official Twitter page of His Holiness Pope Benedict XVI\r\nVatican City \r\n\r\nContact:\r\ninfo@news.va"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict XVI@Pontifex ", 
+        "Pontifex@Pontifex  (Twitter Account)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://dmnewsi.com/2013/02/21/pope-benedict-retired-after-inquiry-into-vatican-gay-officials": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,dmnewsi,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dmnewsi,)/2013/02/21/pope-benedict-retired-after-inquiry-into-vatican-gay-officials", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\ndmn@usa.com\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "POPE BENEDICT RETIRED AFTER INQUIRY INTO \u2018VATICAN GAY OFFICIALS\u2019"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/benedict-and-clergy-sexual-abuse-decisive-and-aggressive-action": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/benedict-and-clergy-sexual-abuse-decisive-and-aggressive-action", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "This piece brings attention to the continuous efforts of Benedict XVI concerning the sexual abuse crisis in the Church."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict and Clergy Sexual Abuse: Decisive and Aggressive Action"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.zenit.org/en/columns/benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,zenit,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,zenit,www,)/en/columns/benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.zenit.org/en/contacts/new"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/CatholicReview": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/catholicreview", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Catholic Review, a media website covering Catholic issues.  Published by the Archdiocese of Baltimore."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Review"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristendom.dk/emner/Pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristendom,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristendom,www,)/emner/pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "article collection"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/vatican?gl=GB&hl=en-GB": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/vatican?gl=gb&hl=en-gb", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Various videos\r\n\r\nContact:\r\ninfo@news.va"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Vatican (YouTube)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/news_va_en": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/news_va_en", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Official Twitter feed for Vatican media.  According to their description includes \"CTV, Osservatore Romano, Pontifical Council for Social Communications, Vatican Radio, Press Office, Vatican website, V.I.S.\""
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Vatican News"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://iglesiaydictadura.wordpress.com/?s=contacto&submit=Buscar": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,wordpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wordpress,iglesiaydictadura,)/?s=contacto&submit=buscar", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Very interesting blog, unravelling the shady connections between the Jesuit pope and Videla's dictatorship in Argentina.\r\n\r\nContact can be established by commenting on the blog."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Iglesia y Dictadura"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.times-standard.com/digitalextras/ci_22599814/americans-are-divided-over-pope-benedict-xvis-legacy": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,times-standard,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,times-standard,www,)/digitalextras/ci_22599814/americans-are-divided-over-pope-benedict-xvis-legacy", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\nContact:\r\nhttp://www.times-standard.com/contactus"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Americans are divided over Pope Benedict XVI's legacy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1921292/eksperter-om-ny-pave-derfor-blev-han-valgt": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1921292/eksperter-om-ny-pave-derfor-blev-han-valgt", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Eksperter om ny pave: Derfor blev han valgt"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.jesuitas.org.ar/argentina": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(ar,org,", 
+    "nomination_score": 1, 
+    "surt": "http://(ar,org,jesuitas,www,)/argentina", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "This web serves as a meeting point for Jesuits from Argentina and Uruguay, and though at the present date it doesn't contain much information about the enthroning it will be updated in all probability soon.\r\n\r\nContact with the Jesuits can be established through a web form on the site."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Argentinian Jesuit Congregation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.todayonline.com/world/europe/pope-benedict-resign-report": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,todayonline,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,todayonline,www,)/world/europe/pope-benedict-resign-report", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article dated 11 Feb 13\r\n\r\nContact:\r\nhttp://www.mediacorp.sg/en/contactus\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict to resign: Report"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.examiner.com/article/pope-resigns-an-atheist-s-reflections": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,examiner,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,examiner,www,)/article/pope-resigns-an-atheist-s-reflections", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Examiner article written by Staks Rosch (http://www.examiner.com/atheism-in-national/staks-rosch [also has some interesting articles that he has written about this topic]) about the Pope's resignation as told from the view of an aetheist. "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope resigns: An atheist\u2019s reflections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.americancatholic.org": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,americancatholic,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,americancatholic,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "American Catholic is a website from Franciscan Media which includes a number of Catholic news publications, articles, information, and merchandise.  "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "American Catholic"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://religion.blogs.cnn.com/category/catholic-church/pope-benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,blogs,religion,)/category/catholic-church/pope-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Various posts on CNN Belief blog\r\n\r\n\r\nContact:\r\nhttp://edition.cnn.com/feedback/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Complete coverage: Pope resigns"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.13tv.es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,13tv,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,13tv,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Spanish television channel closely related to the Church. Has been providing special coverage of the papal transition process since Ratzinger's renunciation."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "13 TV"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.frandzen.dk/2013/02/paven-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,frandzen,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,frandzen,www,)/2013/02/paven-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "blog post"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/benedict-xvi-a-pope-for-all-of-us": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/benedict-xvi-a-pope-for-all-of-us", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Article highlights the core aspects of Pope Benedict's papacy."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict XVI: A Pope for All of Us "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vatican.va/holy_father/benedict_xvi/index_it.htm": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(va,vatican,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,vatican,www,)/holy_father/benedict_xvi/index_it.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Government"
+      ], 
+      "Description": [
+        "Official Vatican website on the life and papacy of Benedict XVI."
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "Benedictus XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fyens.dk/article/2245480:Udland--Nyhedsbureau--Paven-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,fyens,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,fyens,www,)/article/2245480:udland--nyhedsbureau--paven-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Nyhedsbureau: Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/news_va_es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/news_va_es", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Vatican Twitter, in Spanish."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Twitter en espa\u00f1ol de la Santa Sede"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.channelnewsasia.com/stories/afp_world/view/1259807/1/.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,channelnewsasia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,channelnewsasia,www,)/stories/afp_world/view/1259807/1/.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.channelnewsasia.com/about/contactus.htm"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Argentina's Bergoglio elected first Latin American pope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://deburchtsion.blogspot.nl/2013/02/is-benedictus-opvolger-de-laatste-paus.html": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,blogspot,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,blogspot,deburchtsion,)/2013/02/is-benedictus-opvolger-de-laatste-paus.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Part 1 of 2\r\n(contact: burchtsion.742@gmail.com)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Is Benedictus' opvolger de laatste paus? Deel 1"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blog.jeunes-cathos.fr/2013/02/le-pape-benoit-xvi-renonce-a-son-pontificat": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(fr,jeunes-cathos,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,jeunes-cathos,blog,)/2013/02/le-pape-benoit-xvi-renonce-a-son-pontificat", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Blog of young catholics : This Monday, February 11, 2013, Pope Benedict XVI has waived the ministry of the Bishop of Rome, the cardinals load assigned by April 19, 2005. 28 February 2013 to 20 hours, the seat of St. Peter is vacant and the conclave to elect the new Pope will be convened"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Pope Benedict XVI waives his pontificate"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://es.radiovaticana.va": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(va,radiovaticana,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,radiovaticana,es,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News and other religious-oriented content in Spanish, elaborated by the Radio Channel of the Holy See.\r\n\r\nContact number: 0039 06 69 88 44 63\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Spanish and Latin American programming by Vatican Radio"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://vaticaninsider.lastampa.it/en": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(it,lastampa,", 
+    "nomination_score": 1, 
+    "surt": "http://(it,lastampa,vaticaninsider,)/en", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Vatican Insider is a project run by the daily newspaper La Stampa.\r\n\r\nContact:\r\ninfo-vaticaninsider@lastampa.it\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Vatican Insider (English)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bt.dk/udland/bombe-i-kirken-derfor-traekker-paven-sig-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,bt,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,bt,www,)/udland/bombe-i-kirken-derfor-traekker-paven-sig-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Bombe i kirken: Derfor tr\u00e6kker paven sig tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyhederne.tv2.dk/article.php/id-64349496:sataniske-odds-p%C3%A5-topateist-som-ny-pave.html?rss": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2,nyhederne,)/article.php/id-64349496:sataniske-odds-p%c3%a5-topateist-som-ny-pave.html?rss", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Sataniske odds p\u00e5 top-ateist som ny pave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyhederne.tv2.dk/article.php/id-65222024:kardinaler-g%C3%B8r-klar-til-pavevalg.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2,nyhederne,)/article.php/id-65222024:kardinaler-g%c3%b8r-klar-til-pavevalg.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Kardinaler g\u00f8r klar til pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fla.de/artikel/Paven-traeder-tilbage-foer-tid-1085f.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(de,fla,", 
+    "nomination_score": 1, 
+    "surt": "http://(de,fla,www,)/artikel/paven-traeder-tilbage-foer-tid-1085f.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage f\u00f8r tid"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholicculture.org/news/headlines/index.cfm?storyid=17059": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,catholicculture,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,catholicculture,www,)/news/headlines/index.cfm?storyid=17059", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "+ Other news links\r\n\r\nContact:\r\nhttp://www.catholicculture.org/contact/\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Emotional tribute to Pope Benedict at final public Mass"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://knowyourmeme.com/memes/events/pope-benedict-xvis-resignation": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,knowyourmeme,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,knowyourmeme,)/memes/events/pope-benedict-xvis-resignation", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Site explaining the current meme of reactions to the Pope's resignation. Consists of contributions from various individuals about their opinions using various other internet memes to create pictures, videos, and comments. Meme originally posted by \"Don\" (http://knowyourmeme.com/users/don). (General contact information can be found here: http://knowyourmeme.com/about)"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Know Your Meme: Pope Benedict XVI's Resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/tagged/Pave%20Benedikt%20XVI": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/tagged/pave%20benedikt%20xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "article collection"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pave Benedikt XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://stephanpastis.wordpress.com/2013/02/12/in-case-you-havent-heard": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,wordpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wordpress,stephanpastis,)/2013/02/12/in-case-you-havent-heard", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContacts:\r\nPearlsBeforeSwineSpeeches@gmail.com , pearlscomic@gmail.com"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "In Case You Haven\u2019t Heard"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.asiaone.com/News/Latest%2BNews/Singapore/Story/A1Story20130213-401840.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,asiaone,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,asiaone,www,)/news/latest%2bnews/singapore/story/a1story20130213-401840.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\nhttp://www.asiaone.com/commcare/\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "News shocks Catholics in S'pore "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/PopeBenedict16": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/popebenedict16", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Facebook Account\r\n\r\nContact:\r\nhttp://www.facebook.com/help/contact/?id=173545232710000"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ratzingerfanclub.com": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,ratzingerfanclub,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ratzingerfanclub,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nNil"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Pope Benedict XVI Fan Club"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.zenit.org/es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(org,zenit,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,zenit,www,)/es", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Newssite aspiring to recreate worldly evenys as seen through the eyes of Rome."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Zenit"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.digtriad.com/news/article/269567/176/Pope-Benedict-XIV-Giving-Up-Twitter-Account": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,digtriad,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,digtriad,www,)/news/article/269567/176/pope-benedict-xiv-giving-up-twitter-account", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\nhttp://www.digtriad.com/company/contact/default.aspx"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XIV Giving Up Twitter Account"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.independent.co.uk/news/world/europe/in-pictures-pope-benedict-xvi-gives-final-sunday-blessing-8508455.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,independent,www,)/news/world/europe/in-pictures-pope-benedict-xvi-gives-final-sunday-blessing-8508455.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "The Independent picture desk selects the best images from St Peter's Square\r\n\r\nContact:\r\nhttp://www.independent.co.uk/service/contact-us-759589.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "In Pictures: Pope Benedict XVI gives final Sunday blessing "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cristianosgays.com": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,cristianosgays,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cristianosgays,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Pro-homosexual Christian blog. Interesting."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Cristianos gays"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vecernji.hr/tema/papa+Benedikt+XVI.": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(hr,vecernji,", 
+    "nomination_score": 1, 
+    "surt": "http://(hr,vecernji,www,)/tema/papa+benedikt+xvi.", 
+    "attributes": {
+      "Description": [
+        "vecernji@vecernji.hr"
+      ], 
+      "Language": [
+        "Croatian"
+      ], 
+      "Type_of_Site": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://loudenoms.co.uk/2013/02/12/papal-names": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,loudenoms,)/2013/02/12/papal-names", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://loudenoms.co.uk/about/contact/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Papal Names"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.koat.com/news/pope": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,koat,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,koat,www,)/news/pope", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Site of various articles, links etc\r\n\r\nContact:\r\ne-mail to hearsttelevisionnotice@hearst.com\r\nor\r\nsending a letter via the U.S. Mail to: \r\nHearst Television Inc.\r\nDirector of Digital Content\r\n300 West 57th Street\r\nNew York, NY 10019\r\n\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI Resignation & Papal Election / The Papacy - A Time of Change"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.crisismagazine.com": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,crisismagazine,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,crisismagazine,www,)", 
+    "attributes": {}, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/religion/the-pope/9863563/Pope-Benedict-XVI-resigns-World-leaders-react.html": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/religion/the-pope/9863563/pope-benedict-xvi-resigns-world-leaders-react.html", 
+    "attributes": {
+      "Description": [
+        "Quotes from different world leaders on the resignation of Pope Benedict XVI."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI resigns: World leaders react"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1895092/pave-benedikt-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1895092/pave-benedikt-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pave Benedikt tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.patheos.com/blogs/thecrescat/2013/02/when-a-pope-resigning-is-a-good-thing.html": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(com,patheos,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,patheos,www,)/blogs/thecrescat/2013/02/when-a-pope-resigning-is-a-good-thing.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Blog entry written by The Crescat (http://www.patheos.com/blogs/thecrescat/author/thecrescat) which voices an opinion about the Pope's retirement and how they are coping with the news (mainly in a positive light)."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "When A Pope Resigning Is A Good Thing\u2026"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.erzdioezese-wien.at/content/schwerpunkte/benediktxvi": {
+    "nominators": [
+      "A.P. - Austrian National Library"
+    ], 
+    "domain_surt": "http://(at,erzdioezese-wien,", 
+    "nomination_score": 1, 
+    "surt": "http://(at,erzdioezese-wien,www,)/content/schwerpunkte/benediktxvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Schwerpunktthema Papst Benedikt XVI. auf der Website der Erzdi\u00f6zese Wien"
+      ], 
+      "Language": [
+        "German"
+      ], 
+      "Title": [
+        "Papst Benedikt XVI."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nordjyske.dk/nyheder/benedikt-xvi-er-officielt-ikke-laengere-pave/a86178ba-2f72-4747-88cd-d1b5b399727c/4/1513": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,nordjyske,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,nordjyske,)/nyheder/benedikt-xvi-er-officielt-ikke-laengere-pave/a86178ba-2f72-4747-88cd-d1b5b399727c/4/1513", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "news article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Benedikt XVI er officielt ikke l\u00e6ngere pave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://seletlumieretv.org/benoitxvi": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(org,seletlumieretv,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,seletlumieretv,)/benoitxvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Folder canadian television : Pope Benedict XVI's speech announcing his resignation"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Pope Benedict XVI announces his resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/news/pope-benedict-resignation": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/news/pope-benedict-resignation", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Section\r\n\r\nContact:\r\nhttp://www.huffingtonpost.com/contact/\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI Resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lastampa.it/esteri/vatican-insider/en": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(it,lastampa,", 
+    "nomination_score": 1, 
+    "surt": "http://(it,lastampa,www,)/esteri/vatican-insider/en", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News website run by the Italian newspaper La Stampa covering the Vatican."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Vatican Insider"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://m.b.dk/?article=24392418-Paven-traeder-tilbage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,m,)/?article=24392418-paven-traeder-tilbage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/the-barque-is-not-mine": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/the-barque-is-not-mine", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "The article reflects on the vicarious role of the Roman Pontiff vis-a-vis Jesus Christ, His Church, and Saint Peter the Apostle."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "\u2018The Barque Is Not Mine\u2019"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bt.dk/udland/hurtigt-pavevalg-er-et-politisk-signal": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,bt,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,bt,www,)/udland/hurtigt-pavevalg-er-et-politisk-signal", 
+    "attributes": {
+      "Description": [
+        "News article"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Title": [
+        "urtigt pavevalg er et politisk signal"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/VaticanInsider": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/vaticaninsider", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Vatican Insider \"a project run by the Italian newspaper La Stampa, providing information and news about the Vatican and religious issues in general.\""
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Vatican Insider "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vatican.va/holy_father/benedict_xvi/index.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(va,vatican,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,vatican,www,)/holy_father/benedict_xvi/index.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Various Pages\r\n\r\nhttp://www.vatican.va/phome_en.htm\r\n\r\nhttp://www.vatican.va/holy_father/benedict_xvi/biography/index_en.htm\r\n\r\nhttp://www.vatican.va/latest/sub_index/latest_index_en.htm\r\n\r\nPossible Contact:\r\nlev@lev.va\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Benedictus XVI  Joseph Ratzinger"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/globalt/pave-frans-tabte-forrige-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/globalt/pave-frans-tabte-forrige-pavevalg", 
+    "attributes": {
+      "Description": [
+        "News article"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Title": [
+        "Pave Frans tabte forrige pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.theblaze.com/news/papal-conclave": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,theblaze,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,theblaze,www,)/news/papal-conclave", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\n copyright@theblaze.com"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Papal Conclave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fyens.dk/article/2263743:Udland--Obama-om-historisk-pavevalg--Han-kaemper-for-de-fattige": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,fyens,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,fyens,www,)/article/2263743:udland--obama-om-historisk-pavevalg--han-kaemper-for-de-fattige", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Obama om historisk pavevalg: Han k\u00e6mper for de fattige"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/pope-benedict-xvi-vs.-secularism": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/pope-benedict-xvi-vs.-secularism", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Article discusses the central role that the papacy of Benedict XVI has had in the cultural wars of the Western Hemisphere and beyond."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI vs. Secularism"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.religionenlibertad.com": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,religionenlibertad,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,religionenlibertad,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Spanish newssite providing in-depth analysis of current events.\r\n\r\nContact number: 0034 91 594 09 22 \r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Religi\u00f3n en libertad"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://danas.net.hr/specijal/odlazak-pape-benedikta-xvi": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(hr,net,", 
+    "nomination_score": 1, 
+    "surt": "http://(hr,net,danas,)/specijal/odlazak-pape-benedikta-xvi", 
+    "attributes": {
+      "Description": [
+        "urednik@portal.net.hr"
+      ], 
+      "Language": [
+        "Croatian"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bbc.co.uk/news/world-europe-21451090": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,www,)/news/world-europe-21451090", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Various articles, profile etc\r\n\r\nContact:\r\nhttp://news.bbc.co.uk/newswatch/ifs/hi/feedback/default.stm"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict holds last public Mass"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/CatholicUniv": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/catholicuniv", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Catholic University of America."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic University"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.channelnewsasia.com/stories/singaporelocalnews/view/1253722/1/.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,channelnewsasia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,channelnewsasia,www,)/stories/singaporelocalnews/view/1253722/1/.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Article\r\n\r\nContact:\r\nhttp://www.channelnewsasia.com/about/contactus.htm\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Church in S'pore surprised by Pope Benedict XVI's sudden resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.snapnetwork.org/us_an_open_letter_to_pope_benedict_xvi": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(org,snapnetwork,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,snapnetwork,www,)/us_an_open_letter_to_pope_benedict_xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "An open latter addressed to Pope Benedict XVI from Survivors Network of those Abused by Priests (SNAP)."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "US - An Open Letter to Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://videnskab.dk/miljo-naturvidenskab/pavevalg-sadan-laver-vatikanet-hvid-rog": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,videnskab,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,videnskab,)/miljo-naturvidenskab/pavevalg-sadan-laver-vatikanet-hvid-rog", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "popular science article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pavevalg: S\u00e5dan laver Vatikanet hvid r\u00f8g"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/CatholicVote": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/catholicvote", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Another Facebook page.  Their about information states \"The misson of CatholicVote.org is to educate and inspire Americans of all faiths to prioritize the issues of life, faith, and family.\""
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "CatholicVote (CV)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.periodistadigital.com/religion": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,periodistadigital,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,periodistadigital,www,)/religion", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Online Spanish news site covering religious topics."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Religi\u00f3n Digital"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://columnafeyrazon.blogspot.com.es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,com,blogspot,columnafeyrazon,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Mexican blog commenting the most important religious-oriented news of the week with philosophical zest.\r\n\r\nContact: lfvaldes@gmail.com\r\n\r\n"
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Columna Fe y Raz\u00f3n"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://benoit-et-moi.fr": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(fr,benoit-et-moi,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,benoit-et-moi,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://beatriceweb.eu/contact/index.html"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Benoit et moi"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.paus2013.blogspot.nl": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,blogspot,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,blogspot,paus2013,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "(contact: secretariaat@roerkerken.nl)"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Paus2013, over de abdicatie, het conclaaf en Paus ?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vatican.va/holy_father/benedict_xvi/index_sp.htm": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(va,vatican,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,vatican,www,)/holy_father/benedict_xvi/index_sp.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Compiled by the Holy See. Spanish version of a multilingual resource."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Monograph in Spanish of ex-Pope Benedict XVIth's contribution"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.eglise.catholique.fr/actualites-et-evenements/dossiers/renonciation-de-benoit-xvi-a-la-charge-pontificale/renonciation-de-benoit-xvi-a-la-charge-pontificale.html": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(fr,catholique,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,catholique,eglise,www,)/actualites-et-evenements/dossiers/renonciation-de-benoit-xvi-a-la-charge-pontificale/renonciation-de-benoit-xvi-a-la-charge-pontificale.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Folder on the official website of the Catholic Church in France : Monday, February 11, Pope Benedict XVI has waived the ministry of the Bishop of Rome, the cardinals load assigned by April 19, 2005. 28 February 2013 to 20 hours, the seat of St. Peter is vacant. The conclave to elect the new Pope will be convened"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Waiver of Benedict XVI to the Pontifical load"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fr.gloria.tv/?media=398531": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(tv,gloria,", 
+    "nomination_score": 1, 
+    "surt": "http://(tv,gloria,fr,)/?media=398531", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Video : Pope Benedict XVI announced his resignation"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Pope Benedict XVI announced his resignation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://life.nationalpost.com/category/holy-post": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,nationalpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nationalpost,life,)/category/holy-post", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.nationalpost.com/contact/index.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Holy Post"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.smh.com.au/digital-life/digital-life-news/papal-parodies-flood-the-twittersphere-20130314-2g1te.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(au,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(au,com,smh,www,)/digital-life/digital-life-news/papal-parodies-flood-the-twittersphere-20130314-2g1te.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.smh.com.au/support/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Papal parodies flood the Twittersphere"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bt.dk/udland/naeppe-hvid-roeg-i-pavevalg-de-foerste-par-dage": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,bt,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,bt,www,)/udland/naeppe-hvid-roeg-i-pavevalg-de-foerste-par-dage", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        " N\u00e6ppe hvid r\u00f8g i pavevalg de f\u00f8rste par dage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fla.de/artikel/Paven-traeder-tilbage-1085d.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(de,fla,", 
+    "nomination_score": 1, 
+    "surt": "http://(de,fla,www,)/artikel/paven-traeder-tilbage-1085d.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://rv.va": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(va,rv,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,rv,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Website for Vatican Radio, reporting on news from the Vatican."
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "Radio Vaticana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.forbes.com/profile/pope-benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,forbes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,forbes,www,)/profile/pope-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.forbes.com/fdc/contact.html"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thinkprogress.org/politics/2013/02/11/1568171/what-did-pope-benedict-do-anyway/?mobile=nc": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(org,thinkprogress,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,thinkprogress,)/politics/2013/02/11/1568171/what-did-pope-benedict-do-anyway/?mobile=nc", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Blog entry about the Pope's resignation (also has a string of interesting and comments)."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "What Did Pope Benedict Do, Anyway?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://dnevnik.hr/lbin/tags.php?tag=papa-dao-ostavku": {
+    "nominators": [
+      "Inge Rudomino - National and University Library in Zagreb"
+    ], 
+    "domain_surt": "http://(hr,dnevnik,", 
+    "nomination_score": 1, 
+    "surt": "http://(hr,dnevnik,)/lbin/tags.php?tag=papa-dao-ostavku", 
+    "attributes": {
+      "Description": [
+        "dnevnik@dnevnik.hr"
+      ], 
+      "Language": [
+        "Croatian"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/TheBostonPilot": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/thebostonpilot", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Boston Pilot, \"America's Oldest Catholic Newspaper.\""
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Pilot"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.larazon.es/damesuplementos/EdicionEspecial/20130310ESPECIALCONCLAVE/index.html": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,larazon,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,larazon,www,)/damesuplementos/edicionespecial/20130310especialconclave/index.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Special coclave-related monographic publication by one of Spain's leading newspapers."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Especial C\u00f3nclave La Raz\u00f3n"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.jesuit.org.sg/html/prayer/popeintentions.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(sg,org,", 
+    "nomination_score": 1, 
+    "surt": "http://(sg,org,jesuit,www,)/html/prayer/popeintentions.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nPossible Contact:\r\nhttp://www.stignatius.org.sg/offices/contact-us.php\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Holy Father's Prayer Intentions for 2013 "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyhederne.tv2.dk/article.php/id-65208817:nu-er-benedikt-xvi-ikke-pave-mere.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2,nyhederne,)/article.php/id-65208817:nu-er-benedikt-xvi-ikke-pave-mere.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Nu er Benedikt XVI ikke pave mere"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.excelsior.com.mx/especial/transicion-en-la-iglesia-catolica-renuncia-benedicto-xvi": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(mx,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(mx,com,excelsior,www,)/especial/transicion-en-la-iglesia-catolica-renuncia-benedicto-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Mexican newssite providing in-depth coverage of the Papal election."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Excelsior"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://infocatolica.com/blog/sacroprofano.php": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(com,infocatolica,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,infocatolica,)/blog/sacroprofano.php", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Blog belonging to the Informaci\u00f3n Cat\u00f3lica newsgroup, authored by an Argentinian journalist acting as correspondant in the Vatican."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Sacro y profano"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/teacher-of-truth": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/teacher-of-truth", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "It contains a brief analysis of the doctrinal teachings of Pope Benedict XVI"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Teacher of Truth"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vis.va/vissolr/index.php?lang=es": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(va,vis,", 
+    "nomination_score": 1, 
+    "surt": "http://(va,vis,www,)/vissolr/index.php?lang=es", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News release in Spanish. Possibly just a translation of original site."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Vatican Information Service"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.jv.dk/artikel/1533077:Udland--Pavevalg-kan-vaere-lige-rundt-om-hjoernet": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,jv,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,jv,www,)/artikel/1533077:udland--pavevalg-kan-vaere-lige-rundt-om-hjoernet", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Pavevalg kan v\u00e6re lige rundt om hj\u00f8rnet"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.jv.dk/artikel/1530953:Udland--Paven-traeder-tilbage---for-kirkens-bedste": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,jv,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,jv,www,)/artikel/1530953:udland--paven-traeder-tilbage---for-kirkens-bedste", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage \u00bbfor kirkens bedste\u00ab"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://borsen.dk/nyheder/generelt/artikel/1/251695/paven_traeder_tilbage.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,borsen,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,borsen,)/nyheder/generelt/artikel/1/251695/paven_traeder_tilbage.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://therealsingapore.com/content/papal-lesson-pap": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,therealsingapore,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,therealsingapore,)/content/papal-lesson-pap", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Copied Article from\r\nhttp://anyhowhantam.blogspot.sg/2013/02/a-papal-lesson-for-pap.html\r\n\r\nPossible Contact:\r\nadmin@therealsingapore.com\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "A PAPAL LESSON FOR THE PAP?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/catholicbloggs": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/catholicbloggs", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed of the top Catholic bloggers."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Blogs"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.aleteia.org/es/especial/especial-conclave-hacia-la-eleccion-de-un-nuevo-papa-304002?gclid=COHD3_v-9rUCFUbMtAodUnIAYg": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(org,aleteia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,aleteia,www,)/es/especial/especial-conclave-hacia-la-eleccion-de-un-nuevo-papa-304002?gclid=cohd3_v-9rucfubmtaoduniayg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Christian-based newssite with special in-depth coverage of the papal transition process."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Aleteia"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vaticancrimes.us/2013/02/italy-president-receives-request-to-not.html": {
+    "nominators": [
+      "Bryn Wolanski - Kent State University"
+    ], 
+    "domain_surt": "http://(us,vaticancrimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,vaticancrimes,www,)/2013/02/italy-president-receives-request-to-not.html", 
+    "attributes": {
+      "Description": [
+        "An open letter sent to the President of Italy written by Kevin D. Annett, Secretary of the International Tribunal into Crimes of Church and State. Has the English translation of the letter along with copies of the original Italian version."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Italy President receives request to deny Pope Benedict XVI immunity on Feb 23"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE1906586/britisk-topkatolik-er-under-anklage-foer-pavevalg": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece1906586/britisk-topkatolik-er-under-anklage-foer-pavevalg", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Britisk topkatolik er under anklage f\u00f8r pavevalg"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/USCatholic": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/uscatholic", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the US Catholic, a general interest religious magazine."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "US Catholic magazine"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cope.es/Menu/Actualidad/Religion": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,cope,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,cope,www,)/menu/actualidad/religion", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News site of the leading Spanish right-wing radio information channel."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Cope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/PopeB16FanClub": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/popeb16fanclub", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\n?"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "BenedictXVIFanClub @PopeB16FanClub (Twitter)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.benediktxvi.ru": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(ru,benediktxvi,", 
+    "nomination_score": 1, 
+    "surt": "http://(ru,benediktxvi,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nratzinform@gmail.com"
+      ], 
+      "Language": [
+        "Russian"
+      ], 
+      "Title": [
+        "\u0411\u0435\u043d\u0435\u0434\u0438\u043a\u0442 XVI   Ratzinger-Inform"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rebelion.org/mostrar.php?tipo=1&id=159": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(org,rebelion,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,rebelion,www,)/mostrar.php?tipo=1&id=159", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Compilation of articles related to the Pope."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Rebeli\u00f3n"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://islamhispania.blogspot.com.es/search?q=papa": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(es,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(es,com,blogspot,islamhispania,)/search?q=papa", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Portal of the Islamic community in Spain. The extension proposed gathers the hits resulting from conducting the search of the word \"pope\" in the internal searchbox of the site. Proposed in other to grasp a different religious community's viewpoint on this process."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Portal del Islam en espa\u00f1a"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/CatholicMemebase?group_id=0": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/catholicmemebase?group_id=0", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "A Facebook page with a series of memes created about Catholic issues."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Catholic Memes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://jyllands-posten.dk/international/europa/article5249749.ece": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,jyllands-posten,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,jyllands-posten,)/international/europa/article5249749.ece", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News article"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Sp\u00e6ndingen udl\u00f8st - en ny pave er valgt"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://es.gaudiumpress.org": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(org,gaudiumpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,gaudiumpress,es,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News site embracing the cause of a new evangelization.\r\nContact can be established through a web form."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Gaudium Press"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/vatican": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/vatican", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttps://www.youtube.com/t/contact_us"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Vatican"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.channelnewsasia.com/stories/afp_world/view/1256434/1/.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,channelnewsasia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,channelnewsasia,www,)/stories/afp_world/view/1256434/1/.html", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "\r\n\r\nContact:\r\nhttp://www.channelnewsasia.com/about/contactus.htm"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope decree allows earlier conclave: Vatican"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.popebenedictonline.org": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,popebenedictonline,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,popebenedictonline,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "\r\nPossible Contact:\r\nhttp://www.popebenedictonline.org/php/showGuestBook.php?linkid=8\r\n\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://es.apocalisselaica.net": {
+    "nominators": [
+      "Mar P\u00e9rez Morillo - Biblioteca Nacional de Espa\u00f1a"
+    ], 
+    "domain_surt": "http://(net,apocalisselaica,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,apocalisselaica,es,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News aggregator offering an off-mainstream interesting viewpoint on church-related events."
+      ], 
+      "Language": [
+        "Spanish"
+      ], 
+      "Title": [
+        "Apocalipsis Secular"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lejourduseigneur.com/Web-TV/Evenements/Habemus-papam": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(com,lejourduseigneur,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,lejourduseigneur,www,)/web-tv/evenements/habemus-papam", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Folder on the papal succession on a site of programming broadcast French television"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "The Lord's day: waiting for the new Pope"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/onfaith": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/onfaith", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Twitter feed for the Washington Post's blog On Faith."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "On Faith"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.catholique-larochelle.cef.fr/Benoit-XVI-renonce-a-son?var_recherche=d%C3%A9mission%20beno%C3%AEt%20XVI": {
+    "nominators": [
+      "Favoreau Philippe - Institut national de l'audiovisuel"
+    ], 
+    "domain_surt": "http://(fr,cef,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,cef,catholique-larochelle,www,)/benoit-xvi-renonce-a-son?var_recherche=d%c3%a9mission%20beno%c3%aet%20xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Description": [
+        "Video : reaction and speech of Bernard Housset, Bishop of La Rochelle and Saintes Monday, February 11, 2013"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "Pope renounces his pontificate"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://petercanisiusmichaeldavidkang.com/category/pope-benedict-xvi": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,petercanisiusmichaeldavidkang,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,petercanisiusmichaeldavidkang,)/category/pope-benedict-xvi", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "Various entries\r\n\r\nContact:\r\nhttp://petercanisiusmichaeldavidkang.com/about/"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict XVI "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ekstrabladet.dk/nyheder/samfund/article1918457.ece": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,ekstrabladet,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,ekstrabladet,)/nyheder/samfund/article1918457.ece", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Paven tr\u00e6der tilbage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thebostonpilot.com": {
+    "nominators": [
+      "Malea Walker - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,thebostonpilot,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thebostonpilot,www,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Media website for the Boston Pilot, \"America's oldest Catholic newspaper.\"  Published by the Archdiocese of Boston."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Boston Pilot"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncregister.com/site/article/pope-benedict-sees-beauty-at-the-service-of-truth": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,ncregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ncregister,www,)/site/article/pope-benedict-sees-beauty-at-the-service-of-truth", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "This article addresses the inseparable connection between truth and beauty, as taught by the Church."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope Benedict Sees Beauty at the Service of Truth "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://popebenedictxvifanclub.com": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,popebenedictxvifanclub,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,popebenedictxvifanclub,)", 
+    "attributes": {
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Description": [
+        "\r\nContact:\r\n?"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "The Pope Benedict XVI Fan Club"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.la-croix.com/lacroixsearch/search?keyword=benoit+xvi&keyword_operator=": {
+    "nominators": [
+      "Dante Figueroa - Law Library of Congress"
+    ], 
+    "domain_surt": "http://(com,la-croix,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,la-croix,www,)/lacroixsearch/search?keyword=benoit+xvi&keyword_operator=", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "This page maintained by La Croix, a newspaper maintained by the Catholic Church in France, contains a large number of articles and commentaries on the life and legacy of Pope Benedict XVI."
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Title": [
+        "None"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.repubblica.it/topics/news/dimissioni_papa_benedetto_xvi-52419653": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(it,repubblica,", 
+    "nomination_score": 1, 
+    "surt": "http://(it,repubblica,www,)/topics/news/dimissioni_papa_benedetto_xvi-52419653", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Section & Articles\r\n\r\nContact:\r\nhttp://www.servizioclienti.repubblica.it/index.php?page=servizio_page\r\n"
+      ], 
+      "Language": [
+        "Italian"
+      ], 
+      "Title": [
+        "Le dimissioni del Papa"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/Nyheder/Temaer/2013/Paven/index.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/temaer/2013/paven/index.htm", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "News subsite on the election of a new pope"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Title": [
+        "Ny Pave"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nl.wikipedia.org/wiki/Paus_Franciscus": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,nl,)/wiki/paus_franciscus", 
+    "attributes": {
+      "Type_of_Site": [
+        "Other"
+      ], 
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Paus Franciscus"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cbsnews.com/2718-202_162-2083/change-at-the-vatican": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,cbsnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cbsnews,www,)/2718-202_162-2083/change-at-the-vatican", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Follow the latest news on Pope Benedict XVI's resignation, the papal conclave of the College of Cardinals, and the first days of a new pope\r\n\r\nContact:\r\nhttp://www.cbsnews.com/htdocs/feedback/fb_news_form.shtml"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Change at the Vatican"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sglinks.com/pages/11091070-pope-urges-end-to-hypocrisy-at-final-mass": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,sglinks,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,sglinks,)/pages/11091070-pope-urges-end-to-hypocrisy-at-final-mass", 
+    "attributes": {
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Description": [
+        "Links\r\n\r\nContact:\r\ncontact@sglinks.com\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Pope urges end to hypocrisy at final mass"
+      ]
+    }, 
+    "nomination_count": 1
+  }
+}

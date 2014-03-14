@@ -1,0 +1,3583 @@
+{
+  "http://firstread.msnbc.msn.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,msnbc,firstread,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politicalpartytime.org": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,politicalpartytime,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,politicalpartytime,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/blogs/the-fix": {
+    "nominators": [
+      "Christian Flynn - Institute of Politics"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/blogs/the-fix", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ], 
+      "Description": [
+        "Chris Cillizza is the best political blogger out there.  "
+      ], 
+      "Title": [
+        "The Fix"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blogs.wsj.com/washwire": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,wsj,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wsj,blogs,)/washwire", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dos.state.pa.us/portal/server.pt/community/bureau_of_commissions%2C_elections_and_legislation/12363": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,pa,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,pa,state,dos,www,)/portal/server.pt/community/bureau_of_commissions%2c_elections_and_legislation/12363", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Pennsylvania Department of State: Voting and Elections "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.theatlantic.com/politics/archive/2012/05/with-dashboard-obama-campaign-aims-to-bridge-online-and-off/257606": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,theatlantic,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,theatlantic,www,)/politics/archive/2012/05/with-dashboard-obama-campaign-aims-to-bridge-online-and-off/257606", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncsl.org/legislatures-elections/elections/voter-id-state-requirements.aspx": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,ncsl,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,ncsl,www,)/legislatures-elections/elections/voter-id-state-requirements.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/2011/11/07/election-2012-news_n_1080725.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/2011/11/07/election-2012-news_n_1080725.html", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ok.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ok,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ok,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Oklahoma State Election Board"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/rnc": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/rnc", 
+    "attributes": {
+      "election_category": [
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.state.tx.us/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,tx,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,tx,state,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Texas Secretary of State: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.realclearpolitics.com": {
+    "nominators": [
+      "Leslie Donnell - Harvard University"
+    ], 
+    "domain_surt": "http://(com,realclearpolitics,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,realclearpolitics,www,)", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ], 
+      "Description": [
+        "RealClearPolitics (RCP) is an independent, non-partisan media company that is the trusted source for the best news, analysis and commentary"
+      ], 
+      "Title": [
+        "Real Clear Politics"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gec.guam.net": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(net,guam,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,guam,gec,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Guam Election Commission"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rollcall.com/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,rollcall,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,rollcall,www,)/politics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.people-press.org/campaign-2012": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(org,people-press,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,people-press,www,)/campaign-2012", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Public Opinion/Polling"
+      ], 
+      "Description": [
+        "Pew Research Center's reports, commentary, and analysis of public opinion relating to the election."
+      ], 
+      "Title": [
+        "Pew Research Center for the People & the Press: Campaign 2012"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moneyline.cq.com/pml/home.do": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,cq,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cq,moneyline,)/pml/home.do", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://election.dos.state.fl.us": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,fl,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,fl,state,dos,election,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Florida Division of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.alabama.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,alabama,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,alabama,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Alabama Secretary of State Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://littlegreenfootballs.com/tag/Election+2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,littlegreenfootballs,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,littlegreenfootballs,)/tag/election+2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.azsos.gov/election": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,azsos,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,azsos,www,)/election", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Arizona Office of the Secretary of State: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ceepur.org/es-pr/Paginas/default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,ceepur,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,ceepur,www,)/es-pr/paginas/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Comisi\u00f3n Estatal de Elecciones de Puerto Rico"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fivethirtyeight.blogs.nytimes.com": {
+    "nominators": [
+      "Luke Gaudreau - Harvard University: John F. Kennedy School of Government", 
+      "Christian Flynn - Institute of Politics", 
+      "Valerie Weis - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(com,nytimes,", 
+    "nomination_score": 3, 
+    "surt": "http://(com,nytimes,blogs,fivethirtyeight,)", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Influence Tracking", 
+        "Public Opinion/Polling", 
+        "Special Election Coverage"
+      ], 
+      "Description": [
+        "FiveThirtyEight\u2019s mission is to help New York Times readers cut through the clutter of this data-rich world. The blog is devoted to rigorous analysis of politics, polling, public affairs, sports, science and culture, largely through statistical means. In addition, FiveThirtyEight provides forecasts of upcoming presidential, Congressional and gubernatorial elections through the use of its proprietary prediction models.\r\n\r\nFiveThirtyEight was founded by Nate Silver in March 2008, and was licensed by The Times in August 2010. It is produced in conjunction with The Times\u2019s graphic and interactive journalists and its team of political editors, correspondents and polling experts.", 
+        "FiveThirtyEight\u2019s mission is to help New York Times readers cut through the clutter of this data-rich world. The blog is devoted to rigorous analysis of politics, polling, public affairs, sports, science and culture, largely through statistical means. In addition, FiveThirtyEight provides forecasts of upcoming presidential, Congressional, and gubernatorial elections through the use of its proprietary prediction models. ", 
+        "Nate Silver of the New York Times, predicts presidential electoral vote results."
+      ], 
+      "Title": [
+        "Five Thirty Eight", 
+        "FiveThirtyEight", 
+        "FiveThirtyEight Blog"
+      ]
+    }, 
+    "nomination_count": 3
+  }, 
+  "http://www.ncsl.org/legislatures-elections/elections/elections-in-the-digital-world.aspx": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,ncsl,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,ncsl,www,)/legislatures-elections/elections/elections-in-the-digital-world.aspx", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/news/elections-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/news/elections-2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thedailybeast.com/articles/2012/05/28/romney-s-safest-vp-pick-portman-plus-9-safeties-from-ryan-to-rubio.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thedailybeast,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thedailybeast,www,)/articles/2012/05/28/romney-s-safest-vp-pick-portman-plus-9-safeties-from-ryan-to-rubio.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.opensecrets.org": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,opensecrets,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,opensecrets,www,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fundrace.huffingtonpost.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,fundrace,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/elections/ed/us/trends": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/elections/ed/us/trends", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sbe.virginia.gov/cms/Index.html": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,virginia,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,virginia,sbe,www,)/cms/index.html", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Virginia State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elections.ny.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ny,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ny,elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "New York State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/RickSantorum": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/ricksantorum", 
+    "attributes": {
+      "Candidate_Name": [
+        "Rick Santorum"
+      ], 
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.ga.gov/Elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ga,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ga,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Georgia Secretary of State: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cnn.com/POLITICS/index.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,www,)/politics/index.html", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/us-elections-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/us-elections-2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.redstate.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,redstate,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,redstate,www,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blogs.hbr.org/cs/2012/11/the_power_of_a_woman_with_a_me.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,hbr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,hbr,blogs,)/cs/2012/11/the_power_of_a_woman_with_a_me.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.ca.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ca,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ca,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "California Department of State: California Elections and Voter Information "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.csmonitor.com/USA/Politics/The-Vote": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,csmonitor,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,csmonitor,www,)/usa/politics/the-vote", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cjr.org/swing_states_project": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,cjr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cjr,www,)/swing_states_project", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Fact Checking", 
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.iowapolitics.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,iowapolitics,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,iowapolitics,www,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://2012.presidential-candidates.org": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,presidential-candidates,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,presidential-candidates,2012,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thinkprogress.org/tag/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,thinkprogress,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,thinkprogress,)/tag/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.quinnipiac.edu/institutes-and-centers/polling-institute": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(edu,quinnipiac,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,quinnipiac,www,)/institutes-and-centers/polling-institute", 
+    "attributes": {
+      "Comment": [
+        "should pick up the subdomains for the various states tracked"
+      ], 
+      "election_category": [
+        "Public Opinion/Polling"
+      ], 
+      "Description": [
+        "Prominent polling institute providing public opinion poll results, trends, and reports for election 2012 nationally and regionally (particularly the North East)."
+      ], 
+      "Title": [
+        "Quinnipiac University Polling Institute"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://techpresident.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,techpresident,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,techpresident,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.prioritiesusaaction.org": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(org,prioritiesusaaction,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,prioritiesusaaction,www,)", 
+    "attributes": {
+      "Candidate_Name": [
+        "Barack Obama"
+      ], 
+      "Party_Name": [
+        "Democrat"
+      ], 
+      "Description": [
+        "Super PAC supporting Barack Obama's re-election campaign."
+      ], 
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Title": [
+        "Priorities USA Action"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://online.wsj.com/public/page/news-politics-campaign.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,wsj,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wsj,online,)/public/page/news-politics-campaign.html", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://election.princeton.edu": {
+    "nominators": [
+      "Valerie Weis - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(edu,princeton,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,princeton,election,)", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ], 
+      "Description": [
+        "Run by Professor Sam Wang predicts presidential election results"
+      ], 
+      "Title": [
+        "Princeton Election Consortium"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.unionleader.com/section/News0605": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,unionleader,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,unionleader,www,)/section/news0605", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sos.mt.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,mt,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,mt,sos,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Montana Secretary of State: Elections and Government Services"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nytimes.com/2012/11/07/business/pitfalls-of-spending-on-politics.html?smid=tw-share": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nytimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nytimes,www,)/2012/11/07/business/pitfalls-of-spending-on-politics.html?smid=tw-share", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://elect.ky.gov": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(gov,ky,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ky,elect,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://influenceexplorer.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,influenceexplorer,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,influenceexplorer,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://restoreourfuture.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,restoreourfuture,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,restoreourfuture,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.gallup.com/poll/election.aspx": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,gallup,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,gallup,www,)/poll/election.aspx", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/RNC": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/rnc", 
+    "attributes": {
+      "election_category": [
+        "Other", 
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://elections.delaware.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,delaware,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,delaware,elections,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Commissioner of Elections for the State of Delaware"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nationalreview.com/campaign-spot": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nationalreview,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nationalreview,www,)/campaign-spot", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/newtgingrich": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/newtgingrich", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thehill.com/homenews/campaign": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(com,thehill,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thehill,)/homenews/campaign", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "News Coverage"
+      ], 
+      "Description": [
+        "The Hill's news coverage and analysis of the 2012 presidential and congressional campaigns."
+      ], 
+      "Title": [
+        "The Hill 2012 Campaign news"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://crooksandliars.com/taxonomy/term/7531": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,crooksandliars,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,crooksandliars,)/taxonomy/term/7531", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://hawaii.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,hawaii,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,hawaii,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "State of Hawaii: Office of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sec.state.ma.us/ele": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,ma,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,ma,state,sec,www,)/ele", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Secretary of the Commonwealth of Massachusetts: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thedailybeast.com/articles/2012/05/29/michael-tomasky-on-mitt-romney-s-economic-failure-in-massachusetts.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thedailybeast,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thedailybeast,www,)/articles/2012/05/29/michael-tomasky-on-mitt-romney-s-economic-failure-in-massachusetts.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://soswy.state.wy.us/Elections/Elections.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,wy,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,wy,state,soswy,)/elections/elections.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Wyoming Secretary of State: Elections "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.c-span.org/Campaign2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,c-span,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,c-span,www,)/campaign2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/BarackObama": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/barackobama", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://talkingpointsmemo.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,talkingpointsmemo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,talkingpointsmemo,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.politickerny.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,politickerny,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,politickerny,www,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blog.lib.umn.edu/cspg/smartpolitics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(edu,umn,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,umn,lib,blog,)/cspg/smartpolitics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/barackobamadotcom": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/barackobamadotcom", 
+    "attributes": {
+      "Candidate_Name": [
+        "Barack Obama"
+      ], 
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sdsos.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,sdsos,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,sdsos,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "South Dakota Secretary of State: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.colbertsuperpac.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,colbertsuperpac,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,colbertsuperpac,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rasmussenreports.com/public_content/politics/elections/election_2012/election_2012_presidential_election/generic_presidential_ballot/election_2012_generic_presidential_ballot": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,rasmussenreports,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,rasmussenreports,www,)/public_content/politics/elections/election_2012/election_2012_presidential_election/generic_presidential_ballot/election_2012_generic_presidential_ballot", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/mention-machine": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/mention-machine", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Other", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/?category=us-election-staff-picks#!/who_to_follow/interests/us-election-staff-picks": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/?category=us-election-staff-picks#!/who_to_follow/interests/us-election-staff-picks", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.arkansas.gov/elections/Pages/default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,arkansas,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,arkansas,sos,www,)/elections/pages/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Arkansas Secretary of State: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pollingreport.com/wh12gen.htm": {
+    "nominators": [
+      "Leslie Donnell - Harvard University"
+    ], 
+    "domain_surt": "http://(com,pollingreport,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,pollingreport,www,)/wh12gen.htm", 
+    "attributes": {
+      "Description": [
+        "An independent, nonpartisan resource\r\non trends in American public opinion.\r\n"
+      ], 
+      "Title": [
+        "Polling Report"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rightwingwatch.org/category/topics/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,rightwingwatch,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,rightwingwatch,www,)/category/topics/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thecaucus.blogs.nytimes.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nytimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nytimes,blogs,thecaucus,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://caucuses.desmoinesregister.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,desmoinesregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,desmoinesregister,caucuses,)", 
+    "attributes": {
+      "election_category": [
+        "Campaign/Election Events", 
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.njelections.org": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,njelections,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,njelections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "New Jersey Division of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politicalticker.blogs.cnn.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,blogs,politicalticker,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nymag.com/print/?/news/features/gop-primary-heilemann-2012-3": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nymag,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nymag,)/print/?/news/features/gop-primary-heilemann-2012-3", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blog.twitter.com/2012/01/answer-and-dodge-results-for-fox-debate.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,blog,)/2012/01/answer-and-dodge-results-for-fox-debate.html", 
+    "attributes": {
+      "election_category": [
+        "Campaign/Election Events", 
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://rothenbergpoliticalreport.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,rothenbergpoliticalreport,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,rothenbergpoliticalreport,)", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thehousemajoritypac.com": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(com,thehousemajoritypac,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thehousemajoritypac,www,)", 
+    "attributes": {
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Party_Name": [
+        "Democrat"
+      ], 
+      "Description": [
+        "Super PAC dedicated to winning back the House majority for the Democats."
+      ], 
+      "Title": [
+        "The House Majority PAC"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/DemocraticVideo": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/democraticvideo", 
+    "attributes": {
+      "election_category": [
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politics.blogs.foxnews.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,foxnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foxnews,blogs,politics,)", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://abcnews.go.com/politics/otus": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,go,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,go,abcnews,)/politics/otus", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.mo.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,mo,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,mo,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Missouri Secretary of State: Elections "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.state.nm.us/default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,nm,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,nm,state,sos,www,)/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "New Mexico Secretary of State"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.npr.org/sections/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,npr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,npr,www,)/sections/politics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.propublica.org/series/campaign-2012": {
+    "nominators": [
+      "Heather McMullen - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(org,propublica,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,propublica,www,)/series/campaign-2012", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cjr.org/campaign_desk": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,cjr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cjr,www,)/campaign_desk", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://2012.talkingpointsmemo.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,talkingpointsmemo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,talkingpointsmemo,2012,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.wv.gov/elections/Pages/default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,wv,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,wv,sos,www,)/elections/pages/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "West Virginia Secretary of State: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nationaljournal.com/features/restoration-calls/in-nothing-we-trust-20120419?page=1": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nationaljournal,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nationaljournal,www,)/features/restoration-calls/in-nothing-we-trust-20120419?page=1", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kssos.org/elections/elections.html": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,kssos,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,kssos,www,)/elections/elections.html", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Kansas Secretary of State: Elections & Legislative"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moritzlaw.osu.edu/electionlaw": {
+    "nominators": [
+      "Bruce Johnson - Moritz College of Law"
+    ], 
+    "domain_surt": "http://(edu,osu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,osu,moritzlaw,)/electionlaw", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.politico.com/2012-election": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,politico,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,politico,www,)/2012-election", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.slate.com/articles/news_and_politics.html": {
+    "nominators": [
+      "Leslie Donnell - Harvard University"
+    ], 
+    "domain_surt": "http://(com,slate,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,slate,www,)/articles/news_and_politics.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ], 
+      "Title": [
+        "Slate Magazine - Politics"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.motherjones.com/politics/2012/09/watch-full-secret-video-private-romney-fundraiser": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,motherjones,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,motherjones,www,)/politics/2012/09/watch-full-secret-video-private-romney-fundraiser", 
+    "attributes": {
+      "election_category": [
+        "Analysis"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/MittRomney": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/mittromney", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://election2012.meltwater.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,meltwater,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,meltwater,election2012,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.maine.gov/sos/cec/elec": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,maine,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,maine,www,)/sos/cec/elec", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Maine Bureau of Corporations, Elections & Commissions "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/wp-srv/special/politics/campaign-finance": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/wp-srv/special/politics/campaign-finance", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politicalwire.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,politicalwire,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,politicalwire,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.state.co.us/pubs/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,co,state,sos,www,)/pubs/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Colorado Secretary of State: Elections & Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/ronpaul2008dotcom": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/ronpaul2008dotcom", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.americancrossroads.org": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(org,americancrossroads,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,americancrossroads,www,)", 
+    "attributes": {
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Party_Name": [
+        "Republican Party"
+      ], 
+      "Description": [
+        "Super PAC opposing various Democrat candidates, particularly Barack Obama."
+      ], 
+      "Title": [
+        "American Crossroads Super PAC"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/RonPaulAL": {
+    "nominators": [
+      "Mike Breedlove - Alabama Dept. of Archives and History"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/ronpaulal", 
+    "attributes": {
+      "Candidate_Name": [
+        "Ron Paul"
+      ], 
+      "Party_Name": [
+        "Libertarian"
+      ], 
+      "Description": [
+        "Alabama for Ron Paul Facebook Page"
+      ], 
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Title": [
+        "Alabama for Ron Paul Facebook Page"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.unskewedpolls.com": {
+    "nominators": [
+      "Abbie Grotke - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,unskewedpolls,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,unskewedpolls,www,)", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ], 
+      "Description": [
+        "\"Unskewed\" polling results for the Election 2012. "
+      ], 
+      "Title": [
+        "Unskewed Polls"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://elections.utah.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,utah,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,utah,elections,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Utah Lieutenant Governor's Office: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://algop.org": {
+    "nominators": [
+      "Mike Breedlove - Alabama Dept. of Archives and History"
+    ], 
+    "domain_surt": "http://(org,algop,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,algop,)", 
+    "attributes": {
+      "Comment": [
+        "The Alabama Republican Party seeks to elect Mitt Romney and defeat Barack Obama"
+      ], 
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Description": [
+        "Website of the Alabama Republican Party"
+      ], 
+      "Title": [
+        "Alabama Republican Party"
+      ], 
+      "Candidate_Name": [
+        "Romney"
+      ], 
+      "Party_Name": [
+        "Republican"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cfr.org/projects/world/campaign-2012/pr1576": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(org,cfr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cfr,www,)/projects/world/campaign-2012/pr1576", 
+    "attributes": {
+      "Comment": [
+        "be sure to harvest the content from the links on the right panel (issue trackers, speeches, videos, blog, etc.)"
+      ], 
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "News Coverage"
+      ], 
+      "Description": [
+        "Council on Foreign Relations site compiling documents and speeches from the 2012 presidential campaign about foreign policy. Also expert analysis of plans and videos discussing major issues the new president will face."
+      ], 
+      "Title": [
+        "Campaign 2012 and Foreign Policy Issues"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://caffertyfile.blogs.cnn.com/category/2012-election": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,blogs,caffertyfile,)/category/2012-election", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/mittromney": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/mittromney", 
+    "attributes": {
+      "Candidate_Name": [
+        "Mitt Romney"
+      ], 
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ct.gov/sots/cwp/view.asp?a=3&q=415810": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ct,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ct,www,)/sots/cwp/view.asp?a=3&q=415810", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Connecticut Secretary of the State: Elections and Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gawker.com/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,gawker,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,gawker,)/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sos.nh.gov/Elections.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,nh,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,nh,sos,)/elections.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "New Hampshire Secretary of State: Elections Division "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://letmypeoplevote2012.com": {
+    "nominators": [
+      "Abbie Grotke - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,letmypeoplevote2012,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,letmypeoplevote2012,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Description": [
+        "Voter ID law education site."
+      ], 
+      "Title": [
+        "Let My People Vote"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.americansamoaelectionoffice.org": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,americansamoaelectionoffice,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,americansamoaelectionoffice,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "American Samoa Government Elections Office"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.la.gov/tabid/68/Default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,la,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,la,sos,www,)/tabid/68/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Louisiana Secretary of State: Elections: Geaux Vote!"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.gallup.com/tag/Election%2b2012.aspx": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,gallup,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,gallup,www,)/tag/election%2b2012.aspx", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thedailyshow.com/videos/tag/Indecision%202012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thedailyshow,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thedailyshow,www,)/videos/tag/indecision%202012", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.270towin.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,270towin,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,270towin,www,)", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.state.mn.us/index.aspx?page=4": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,mn,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,mn,state,sos,www,)/index.aspx?page=4", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Minnesota Office of the Secretary of State: Elections & Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thestate.com/primary": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thestate,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thestate,www,)/primary", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.concordmonitor.com/primary2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,concordmonitor,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,concordmonitor,www,)/primary2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/news/pollster": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/news/pollster", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.aei.org/topic/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,aei,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,aei,www,)/topic/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thedailybeast.com/election.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thedailybeast,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thedailybeast,www,)/election.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.hks.harvard.edu/news-events/news/election-2012": {
+    "nominators": [
+      "Valerie Weis - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(edu,harvard,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,harvard,hks,www,)/news-events/news/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thegreenpapers.com/P12": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,thegreenpapers,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thegreenpapers,www,)/p12", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pollingreport.com/2012.htm": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,pollingreport,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,pollingreport,www,)/2012.htm", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.foxnews.com/politics/index.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,foxnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foxnews,www,)/politics/index.html", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.ne.gov/elec": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ne,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ne,sos,www,)/elec", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Nebraska Secretary of State: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pbs.org/newshour/topic/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,pbs,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,pbs,www,)/newshour/topic/politics", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.factcheck.org": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,factcheck,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,factcheck,www,)", 
+    "attributes": {
+      "election_category": [
+        "Fact Checking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.colbertnation.com/video/tags/Indecision%2B2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,colbertnation,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,colbertnation,www,)/video/tags/indecision%2b2012", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://elect.ky.gov/Pages/default.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ky,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ky,elect,)/pages/default.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Kentucky State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.scvotes.org": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,scvotes,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,scvotes,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Description": [
+        "From the South Carolina State Election Commission"
+      ], 
+      "Title": [
+        "SCVotes.org: South Carolina's Voter Information Resource"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bloomberg.com/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,bloomberg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bloomberg,www,)/politics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vermont-elections.org": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,vermont-elections,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,vermont-elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Vermont Secretary of State: Elections & Campaign Finance Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thebreakthrough.org/index.php/voices/the-public-square/out-of-order": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,thebreakthrough,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,thebreakthrough,)/index.php/voices/the-public-square/out-of-order", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://elections.firedoglake.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,firedoglake,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,firedoglake,elections,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.clubforgrowth.org": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(org,clubforgrowth,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,clubforgrowth,www,)", 
+    "attributes": {
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Party_Name": [
+        "Republican"
+      ], 
+      "Description": [
+        "\"National network of thousands of pro-growth Americans, from all walks of life, who believe that prosperity and opportunity come through economic freedom.\" Also runs Club for Growth PAC and Club for Growth Action (a super PAC), which support various Republican candidates, particularly in the primaries against other Republicans."
+      ], 
+      "Title": [
+        "Club for Growth"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/politics", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://electiongrams.com": {
+    "nominators": [
+      "Abbie Grotke - Library of Congress"
+    ], 
+    "domain_surt": "http://(com,electiongrams,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,electiongrams,)", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ], 
+      "Description": [
+        "Election photos on Instagram. From NBC News."
+      ], 
+      "Title": [
+        "Electiongrams"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://prospect.org/blog/vox-pop": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,prospect,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,prospect,)/blog/vox-pop", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/RonPaul": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/ronpaul", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.project-syndicate.org/commentary/mitt-romney-faces-the-facts-by-jonathan-schell": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,project-syndicate,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,project-syndicate,www,)/commentary/mitt-romney-faces-the-facts-by-jonathan-schell", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sos.iowa.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,iowa,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,iowa,sos,)", 
+    "attributes": {
+      "Comment": [
+        "Seems hard to nominate just the elections content - no obvious direct URL. Recommend trying to grab the whole site. "
+      ], 
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Iowa Secretary of State: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/elections/ed/us/ontheground": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/elections/ed/us/ontheground", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://dailykos.com": {
+    "nominators": [
+      "Staff - HKS"
+    ], 
+    "domain_surt": "http://(com,dailykos,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailykos,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ], 
+      "Title": [
+        "DailyKos"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thecable.foreignpolicy.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,foreignpolicy,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foreignpolicy,thecable,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/politics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/2chambers": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/2chambers", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/elections/ed/us/results": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/elections/ed/us/results", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.youtube.com/user/politics": {
+    "nominators": [
+      "Andrea Goethals - Harvard Library"
+    ], 
+    "domain_surt": "http://(com,youtube,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,youtube,www,)/user/politics", 
+    "attributes": {
+      "election_category": [
+        "Campaign/Election Events", 
+        "News Coverage"
+      ], 
+      "Description": [
+        "YouTube's 2012 elections hub"
+      ], 
+      "Title": [
+        "YouTube Politics"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.votesmart.org": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,votesmart,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,votesmart,www,)", 
+    "attributes": {
+      "election_category": [
+        "Fact Checking", 
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.weeklystandard.com/politics-and-government": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,weeklystandard,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,weeklystandard,www,)/politics-and-government", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ipsos-na.com/news-polls/us/2012-election": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,ipsos-na,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ipsos-na,www,)/news-polls/us/2012-election", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.ms.gov/elections.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ms,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ms,sos,www,)/elections.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Secretary of State, State of Missouri: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.wa.gov/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,wa,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,wa,sos,www,)/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Washington Secretary of State: Elections & Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.majority2012.com": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(com,majority2012,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,majority2012,www,)", 
+    "attributes": {
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Party_Name": [
+        "Democrat"
+      ], 
+      "Description": [
+        "Super PAC dedicated to retaining the Democratic majority in the Senate in 2012."
+      ], 
+      "Title": [
+        "Majority PAC"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://2012election.foreignpolicy.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,foreignpolicy,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foreignpolicy,2012election,)", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.barackobama.com/state/al": {
+    "nominators": [
+      "Mike Breedlove - Alabama Dept. of Archives and History"
+    ], 
+    "domain_surt": "http://(com,barackobama,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,barackobama,www,)/state/al", 
+    "attributes": {
+      "Candidate_Name": [
+        "Barack Obama"
+      ], 
+      "Party_Name": [
+        "Democrat"
+      ], 
+      "Description": [
+        "Website devoted to electing Barack Obama and Joe Biden in 2012 in Alabama"
+      ], 
+      "election_category": [
+        "Advocacy"
+      ], 
+      "Title": [
+        "Obama/Biden Alabama"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elections.ri.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ri,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ri,elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "State of Rhode Island Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://projects.wsj.com/super-pacs": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(com,wsj,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wsj,projects,)/super-pacs", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ], 
+      "Description": [
+        "Wall St. Journal project to track the amount of super PAC spending in the 2012 election."
+      ], 
+      "Title": [
+        "How Much Are Super PACs Spending?"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.politifact.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,politifact,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,politifact,www,)", 
+    "attributes": {
+      "election_category": [
+        "Fact Checking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elections.il.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,il,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,il,elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Illinois State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.michigan.gov/sos/0,1607,7-127-1633---,00.html": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,michigan,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,michigan,www,)/sos/0,1607,7-127-1633---,00.html", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Secretary of State: Elections in Michigan"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.policymic.com/article/list?category_id=2&topic=2012%20Elections": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,policymic,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,policymic,www,)/article/list?category_id=2&topic=2012%20elections", 
+    "attributes": {
+      "election_category": [
+        "News Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gab.wi.gov/elections-voting": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,wi,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,wi,gab,)/elections-voting", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "State of Wisconsin Government Accountability Board: Elections & Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.desmoinesregister.com/interactive/article/20120103/NEWS/301030069/Iowa-caucuses-social-media-highlights": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,desmoinesregister,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,desmoinesregister,www,)/interactive/article/20120103/news/301030069/iowa-caucuses-social-media-highlights", 
+    "attributes": {
+      "election_category": [
+        "Campaign/Election Events", 
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nd.gov/sos/electvote": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,nd,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,nd,www,)/sos/electvote", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "North Dakota Secretary of State: Elections and Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.tn.gov/sos/election": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,tn,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,tn,www,)/sos/election", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Tennessee Department of State: Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.boston.com/news/politics": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,boston,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,boston,www,)/news/politics", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pewsocialtrends.org/2012/11/07/a-milestone-en-route-to-a-majority-minority-nation": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,pewsocialtrends,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,pewsocialtrends,www,)/2012/11/07/a-milestone-en-route-to-a-majority-minority-nation", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://followthemoney.org": {
+    "nominators": [
+      "Staff - HKS"
+    ], 
+    "domain_surt": "http://(org,followthemoney,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,followthemoney,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ], 
+      "Title": [
+        "Follow the Money"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/United_States_presidential_election,_2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/united_states_presidential_election,_2012", 
+    "attributes": {
+      "election_category": [
+        "Other", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.realclearpolitics.com/epolls/2012/president/2012_elections_electoral_college_map_no_toss_ups.html": {
+    "nominators": [
+      "Valerie Weis - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(com,realclearpolitics,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,realclearpolitics,www,)/epolls/2012/president/2012_elections_electoral_college_map_no_toss_ups.html", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ], 
+      "Description": [
+        "Provides, polls, calendar, electoral college map and information on the presidential, senate and house campaigns for 2012 elections."
+      ], 
+      "Title": [
+        "Real Clear Politics Election 2012"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.economist.com/world/us-elections-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,economist,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,economist,www,)/world/us-elections-2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.in.gov/sos/elections": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,in,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,in,www,)/sos/elections", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Indian Secretary of State: Election Division "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dcboee.org/home.asp": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,dcboee,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,dcboee,www,)/home.asp", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "District of Columbia Board of Elections and Ethics"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ncsbe.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,ncsbe,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,ncsbe,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "North Carolina State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bloomberg.com/news/2012-09-17/today-mitt-romney-lost-the-election.html": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,bloomberg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bloomberg,www,)/news/2012-09-17/today-mitt-romney-lost-the-election.html", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politicalirony.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,politicalirony,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,politicalirony,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.866ourvote.org": {
+    "nominators": [
+      "Abbie Grotke - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,866ourvote,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,866ourvote,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Description": [
+        "Voter rights site."
+      ], 
+      "Title": [
+        "Election Protection "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://kunm.org/post/voices-behind-vote-part-4-single-issue": {
+    "nominators": [
+      "Herbert Van de Sompel - Los Alamos National Laboratory"
+    ], 
+    "domain_surt": "http://(org,kunm,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,kunm,)/post/voices-behind-vote-part-4-single-issue", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Special Election Coverage"
+      ], 
+      "Description": [
+        "Interviews with New Mexicans about elections."
+      ], 
+      "Title": [
+        "Voices behind the vote, KUNM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/gop": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/gop", 
+    "attributes": {
+      "election_category": [
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bloomberg.com/presidential-election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,bloomberg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bloomberg,www,)/presidential-election-2012", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.indecisionforever.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,indecisionforever,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,indecisionforever,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/mentionmachine": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/mentionmachine", 
+    "attributes": {
+      "election_category": [
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.idaho.gov/elect/eleindex.htm": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,idaho,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,idaho,sos,www,)/elect/eleindex.htm", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Idaho Secretary of State: Elections, Campaign Disclosure and Lobbyists"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtonpost.com/blogs/fact-checker": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,washingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtonpost,www,)/blogs/fact-checker", 
+    "attributes": {
+      "election_category": [
+        "Fact Checking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://oregonvotes.org": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(org,oregonvotes,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,oregonvotes,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Oregon Secretary of State: Elections Division"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.iop.harvard.edu/Research-Publications/Survey/Spring-2012-Survey": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(edu,harvard,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,harvard,iop,www,)/research-publications/survey/spring-2012-survey", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.unionleader.com/section/news06": {
+    "nominators": [
+      "Christian Flynn - Institute of Politics"
+    ], 
+    "domain_surt": "http://(com,unionleader,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,unionleader,www,)/section/news06", 
+    "attributes": {
+      "Description": [
+        "Resource on New Hampshire Primary "
+      ], 
+      "Title": [
+        "Manchester Union Leader"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/RickSantorum": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/ricksantorum", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nationaljournal.com/2012-election": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,nationaljournal,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nationaljournal,www,)/2012-election", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "Commentary/Opinion", 
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.campaignmoney.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,campaignmoney,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,campaignmoney,www,)", 
+    "attributes": {
+      "election_category": [
+        "Influence Tracking"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/politifact": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/politifact", 
+    "attributes": {
+      "election_category": [
+        "Fact Checking", 
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://votamatic.org": {
+    "nominators": [
+      "Valerie Weis - Harvard University: John F. Kennedy School of Government"
+    ], 
+    "domain_surt": "http://(org,votamatic,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,votamatic,)", 
+    "attributes": {
+      "election_category": [
+        "Public Opinion/Polling"
+      ], 
+      "Description": [
+        "Forecasts and Polling Analysis for the 2012 Presidential Election by Emory University Professor"
+      ], 
+      "Title": [
+        "Votamatic"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://grist.org/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(org,grist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,grist,)/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.costoffreedom.info": {
+    "nominators": [
+      "Abbie Grotke - Library of Congress"
+    ], 
+    "domain_surt": "http://(info,costoffreedom,", 
+    "nomination_score": 1, 
+    "surt": "http://(info,costoffreedom,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Description": [
+        "Site to check your state for photo ID requirements. "
+      ], 
+      "Title": [
+        "Cost of Freedom Project"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/TheDemocrats": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/thedemocrats", 
+    "attributes": {
+      "election_category": [
+        "Other", 
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/thecaucus": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/thecaucus", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/President": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/president", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elections.state.md.us": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,md,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,md,state,elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Maryland State Board of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/#!/HuffPostPol": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/#!/huffpostpol", 
+    "attributes": {
+      "election_category": [
+        "News Coverage", 
+        "Other"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.elections.alaska.gov": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,alaska,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,alaska,elections,www,)", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "State of Alaska Division of Elections"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sos.state.oh.us/SOS/elections.aspx": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(us,oh,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,oh,state,sos,www,)/sos/elections.aspx", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Ohio Secretary of State: Elections and Voting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://hotair.com": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,hotair,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,hotair,)", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "Political Party"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://debate2012.du.edu": {
+    "nominators": [
+      "Leigh McWhite - Modern Political Archives, University of Mississippi"
+    ], 
+    "domain_surt": "http://(edu,du,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,du,debate2012,)", 
+    "attributes": {
+      "Comment": [
+        "Should do the same for the debates at Centre College, Hofstra University, and Lynn University."
+      ], 
+      "election_category": [
+        "Campaign/Election Events"
+      ], 
+      "Description": [
+        "official campus website for first of three presidential debates in 2012"
+      ], 
+      "Title": [
+        "University of Denver Presidential Debate 2012"
+      ], 
+      "Candidate_Name": [
+        "both"
+      ], 
+      "Party_Name": [
+        "both"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.realclearpolitics.com/?state=nwa": {
+    "nominators": [
+      "Mike Breedlove - Alabama Dept. of Archives and History"
+    ], 
+    "domain_surt": "http://(com,realclearpolitics,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,realclearpolitics,www,)/?state=nwa", 
+    "attributes": {
+      "Candidate_Name": [
+        "None"
+      ], 
+      "Party_Name": [
+        "None"
+      ], 
+      "Description": [
+        "U. S. national politics, including news, polling and more"
+      ], 
+      "election_category": [
+        "News Coverage"
+      ], 
+      "Title": [
+        "Real Clear Politics"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nvsos.gov/index.aspx?page=3": {
+    "nominators": [
+      "LCWA - Library of Congress"
+    ], 
+    "domain_surt": "http://(gov,nvsos,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,nvsos,)/index.aspx?page=3", 
+    "attributes": {
+      "election_category": [
+        "Other"
+      ], 
+      "Title": [
+        "Nevada Secretary of State: Election Center"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://thehill.com/conventions-2012": {
+    "nominators": [
+      "Jeremy Darrington - Princeton University Library"
+    ], 
+    "domain_surt": "http://(com,thehill,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thehill,)/conventions-2012", 
+    "attributes": {
+      "election_category": [
+        "Analysis", 
+        "News Coverage"
+      ], 
+      "Description": [
+        "News coverage and analysis of the 2012 Democratic and Republican conventions by the Hill news outlet."
+      ], 
+      "Title": [
+        "The Hill 2012 Convention Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://townhall.com/election-2012": {
+    "nominators": [
+      "Keely Wilczek - HKS"
+    ], 
+    "domain_surt": "http://(com,townhall,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,townhall,)/election-2012", 
+    "attributes": {
+      "election_category": [
+        "Commentary/Opinion", 
+        "News Coverage", 
+        "Special Election Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }
+}

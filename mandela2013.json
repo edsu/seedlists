@@ -1,0 +1,3930 @@
+{
+  "http://www.nelsonmandelakinderfonds.nl/apartheid": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,nelsonmandelakinderfonds,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,nelsonmandelakinderfonds,www,)/apartheid", 
+    "attributes": {
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Apartheid"
+      ], 
+      "Creator": [
+        "Nelson Mandela Kinderfonds"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-07-12"
+      ], 
+      "Subject": [
+        "Nelson Mandela and Apartheid"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dw.dk/dk/projekter/nelson-mandela-broen": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dw,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dw,www,)/dk/projekter/nelson-mandela-broen", 
+    "attributes": {
+      "Title": [
+        " Nelson Mandela-broen"
+      ], 
+      "Type_of_Site": [
+        "company"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.firstpost.com/world/freedom-fighter-president-legend-nelson-mandela-is-no-more-1269807.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,firstpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,firstpost,www,)/world/freedom-fighter-president-legend-nelson-mandela-is-no-more-1269807.html", 
+    "attributes": {
+      "Publisher": [
+        "Firstpost, India "
+      ], 
+      "Description": [
+        "Former South African President Nelson Mandela's death in Johannesburg on Thursday 5 Dec after a prolonged lung infection,"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Reuters/Firstpost "
+      ], 
+      "Title": [
+        "Anti-apartheid hero, legend: Nelson Mandela is no more"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela's death "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.theaustralian.com.au/in-depth/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(au,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(au,com,theaustralian,www,)/in-depth/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "The Australian, Sydney, NSW"
+      ], 
+      "Description": [
+        "Life and times of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "The Australian"
+      ], 
+      "Title": [
+        "Hero to a continent  "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-24"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pbs.org/wgbh/pages/frontline/shows/mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,pbs,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,pbs,www,)/wgbh/pages/frontline/shows/mandela", 
+    "attributes": {
+      "Publisher": [
+        "PBS' Frontline"
+      ], 
+      "Description": [
+        "An intimate portrait of one of the 20th century's greatest leaders"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "David Fanning"
+      ], 
+      "Title": [
+        "The Long Walk of Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://english.cntv.cn/special/mandela/home/index.shtml": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(cn,cntv,", 
+    "nomination_score": 1, 
+    "surt": "http://(cn,cntv,english,)/special/mandela/home/index.shtml", 
+    "attributes": {
+      "Publisher": [
+        "China Central Television"
+      ], 
+      "Description": [
+        "Nelson Mandela's passing."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "China Central Television"
+      ], 
+      "Title": [
+        "Nelson Mandela Has Died At Age 95 "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mg.co.za/report/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,mg,)/report/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Mail & Guardian, South Africa "
+      ], 
+      "Description": [
+        "Articles on Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Mail & Guardian, South Africa "
+      ], 
+      "Title": [
+        "Special Report: Nelson Mandela "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.anc.org.za/list_by.php?by=Nelson%20Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,org,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,org,anc,www,)/list_by.php?by=nelson%20mandela", 
+    "attributes": {
+      "Publisher": [
+        "African National Congress"
+      ], 
+      "Description": [
+        "Official web site of the African National Congress, the majority party in the South African ... With a Nelson Rolihlahla Mandela page"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "ANC President: Jacob Zuma"
+      ], 
+      "Title": [
+        "The Nelson Mandela page"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Political Party website"
+      ], 
+      "Date": [
+        "2013-07-03"
+      ], 
+      "Subject": [
+        "Personal page of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/NelsonMandela": {
+    "nominators": [
+      "Nicola Johnson - British Library ", 
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 2, 
+    "surt": "http://(com,twitter,)/nelsonmandela", 
+    "attributes": {
+      "Publisher": [
+        "The Nelson Mandela Foundation (Centre of Memory) "
+      ], 
+      "Description": [
+        "Twitter site contributes promoting the values, vision and work of the Founder; linked to nelsonmandela.org \r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "The Nelson Mandela Foundation (Centre of Memory) "
+      ], 
+      "Title": [
+        "Nelson Mandela Centre of Memory on Twitter ", 
+        "NelsonMandela@NelsonMandela"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Twitter", 
+        "social media "
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela Twitter account"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://www.moreorless.au.com/heroes/mandela.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,au,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,au,moreorless,www,)/heroes/mandela.html", 
+    "attributes": {
+      "Publisher": [
+        "Bruce Harris"
+      ], 
+      "Description": [
+        "Nelson Mandela as the most inspirational leader of the second half of the 20th Century and the most loved and admired world leader of his day. "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Bruce Harris"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-07-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.globaltimes.cn/SPECIALCOVERAGE/Mandela.aspx": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(cn,globaltimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(cn,globaltimes,www,)/specialcoverage/mandela.aspx", 
+    "attributes": {
+      "Publisher": [
+        "Global Times, Beijing, China"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "English-language Global Times, Beijing, China"
+      ], 
+      "Title": [
+        "Mandela dead at 95"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.xin.msn.com/en/nelson-mandela-funeral-in-pictures-7": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,xin,news,)/en/nelson-mandela-funeral-in-pictures-7", 
+    "attributes": {
+      "Publisher": [
+        "Microsoft & MediaCorp, Singapore "
+      ], 
+      "Description": [
+        "Funeral of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Ian Jones, Duncan Newton & Francis Whittaker"
+      ], 
+      "Title": [
+        "Nelson Mandela funeral: in pictures"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-15"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://zeenews.india.com/photogallery/nelson-mandela-memorial-service-3124": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,india,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,india,zeenews,)/photogallery/nelson-mandela-memorial-service-3124", 
+    "attributes": {
+      "Publisher": [
+        "Zee Media Corporation Ltd (ZMCL), India"
+      ], 
+      "Description": [
+        "Memorial service of Nelson Mandela in slides."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Zee News, India"
+      ], 
+      "Title": [
+        "Nelson Mandela Memorial Service"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-15"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.democratichub.com/nelson-mandela.aspx": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,democratichub,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,democratichub,www,)/nelson-mandela.aspx", 
+    "attributes": {
+      "Publisher": [
+        "The Democratic Hub, Texas, USA"
+      ], 
+      "Description": [
+        "Forum posts on Nelson Mandela, videos, articles."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Democratic Hub forum members"
+      ], 
+      "Title": [
+        "Nelson Mandela  "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Forum"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Life and death of Nelson Mandela  "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bbc.co.uk/news/world-africa-23116760": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,www,)/news/world-africa-23116760", 
+    "attributes": {
+      "Publisher": [
+        "BBC News online"
+      ], 
+      "Title": [
+        "BBC News: Obama 'humbled' to visit Nelson Mandela's Robben Island jail"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/2013/jun/30/battle-nelson-mandela-legacy-qunu": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/2013/jun/30/battle-nelson-mandela-legacy-qunu", 
+    "attributes": {
+      "Publisher": [
+        "Guardian online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Guardian, The: A bittersweet wedding in the village that shaped the early life of 'Tata'"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-06-30"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.1960erne.dk/vemandela.php": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,1960erne,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,1960erne,www,)/vemandela.php", 
+    "attributes": {
+      "Title": [
+        "Verden - Nelson Mandela"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.billedbladet.dk/kendte/danmark/politik/kendisser-beder-nelson-mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,billedbladet,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,billedbladet,www,)/kendte/danmark/politik/kendisser-beder-nelson-mandela", 
+    "attributes": {
+      "Title": [
+        "Kendisser beder for Nelson Mandela"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://madiba.mg.co.za": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,mg,madiba,)", 
+    "attributes": {
+      "Publisher": [
+        "Mail & Guardian Online"
+      ], 
+      "Description": [
+        "Tributes to Nelson Mandela, Life & Times, News, Multimedia etc"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Mail & Guardian"
+      ], 
+      "Title": [
+        "Nelson Mandela  Tribute to an Icon"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-03"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ascleiden.nl/?q=content/webdossiers/nelson-mandela": {
+    "nominators": [
+      "Anonymous - Anonymous", 
+      "Team Webarchiving - Koninklijke Bibliotheek \u2013 National Library of The Netherlands"
+    ], 
+    "domain_surt": "http://(nl,ascleiden,", 
+    "nomination_score": 2, 
+    "surt": "http://(nl,ascleiden,www,)/?q=content/webdossiers/nelson-mandela", 
+    "attributes": {
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Creator": [
+        "African Studies Centre, Leiden"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Academic"
+      ], 
+      "Date": [
+        "2013-07-08"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://www.guardian.co.uk/commentisfree/2013/jun/28/nelson-mandela-global-village-loses-elder": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/commentisfree/2013/jun/28/nelson-mandela-global-village-loses-elder", 
+    "attributes": {
+      "Publisher": [
+        "Guardian online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Guardian, The: When Nelson Mandela goes, the global village will lose its elder"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-06-28"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://abcnews.go.com/topics/news/history/nelson-mandela.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,go,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,go,abcnews,)/topics/news/history/nelson-mandela.htm", 
+    "attributes": {
+      "Publisher": [
+        "ABC News, NY, USA"
+      ], 
+      "Description": [
+        "Nelson Mandela News, photos and videos"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "ABC News, NY, USA"
+      ], 
+      "Title": [
+        "Nelson Mandela News"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/2013/jun/28/nelson-mandela-village-funeral": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/2013/jun/28/nelson-mandela-village-funeral", 
+    "attributes": {
+      "Publisher": [
+        "Guardian online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Guardian, The: Nelson Mandela's village braces for hero's funeral"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-06-28"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cbsnews.com/news/nelson-mandela-former-south-african-president-and-global-icon-dies-at-age-95": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,cbsnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cbsnews,www,)/news/nelson-mandela-former-south-african-president-and-global-icon-dies-at-age-95", 
+    "attributes": {
+      "Publisher": [
+        "CBS Interactive Inc"
+      ], 
+      "Description": [
+        "Articles, comments, photos, videos."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "CBS Interactive Inc"
+      ], 
+      "Title": [
+        "Nelson Mandela, former South African president and global icon, dies at age 95"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela's passing"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ekstrabladet.dk/nyheder/samfund/article2047547.ece": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,ekstrabladet,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,ekstrabladet,)/nyheder/samfund/article2047547.ece", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandelas helbred bliver stadigt bedre"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://rt.com/in-vision/mandela-dies-tribute": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,rt,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,rt,)/in-vision/mandela-dies-tribute", 
+    "attributes": {
+      "Publisher": [
+        "Russia Today (now RT)"
+      ], 
+      "Description": [
+        "Passing of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Russia Today (now RT)"
+      ], 
+      "Title": [
+        "Nelson Mandela as the world remembers him"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/List_of_dignitaries_at_the_state_funeral_of_Nelson_Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/list_of_dignitaries_at_the_state_funeral_of_nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Wikipedia"
+      ], 
+      "Description": [
+        "List of dignitaries attending the state funeral of Nelson Mandela in December 2013."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Various"
+      ], 
+      "Title": [
+        "List of dignitaries at the state funeral of Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Wiki"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "List of dignitaries attending the state funeral of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/2013/jun/29/nelson-mandela-barack-obama": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/2013/jun/29/nelson-mandela-barack-obama", 
+    "attributes": {
+      "Date": [
+        "2013-06-29"
+      ], 
+      "Title": [
+        "Guardian, The: Nelson Mandela's wife draws strength from Barack Obama's words of comfort"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.afrika.dk/hvem-er-nelson-mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,afrika,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,afrika,www,)/hvem-er-nelson-mandela", 
+    "attributes": {
+      "Title": [
+        "Hvem er Nelson Mandela?"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.usatoday.com/topic/9ff467e2-c6f8-4356-831a-f5372121ca97/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,usatoday,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,usatoday,www,)/topic/9ff467e2-c6f8-4356-831a-f5372121ca97/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "USA Today"
+      ], 
+      "Description": [
+        "The life and death of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "USA Today"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://williamnicholasgomes.com": {
+    "nominators": [
+      "Editor  - Editor "
+    ], 
+    "domain_surt": "http://(com,williamnicholasgomes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,williamnicholasgomes,)", 
+    "attributes": {
+      "Publisher": [
+        "William Nicholas Gomes"
+      ], 
+      "Description": [
+        "Please capture the site "
+      ], 
+      "Language": [
+        "Bengali"
+      ], 
+      "Creator": [
+        "William Nicholas Gomes"
+      ], 
+      "Title": [
+        "William Nicholas Gome"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-07-11"
+      ], 
+      "Subject": [
+        "Please capture the site "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mtholyoke.edu/~gardn20a/classweb": {
+    "nominators": [
+      "Cathy Hartman - UNT Libraries"
+    ], 
+    "domain_surt": "http://(edu,mtholyoke,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,mtholyoke,www,)/~gardn20a/classweb", 
+    "attributes": {
+      "Description": [
+        "Source bibliography provided"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Nelson Mandela and his life as a freedom fighter "
+      ], 
+      "Creator": [
+        "Students at Mt. Holyoke College"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Educational Institution"
+      ], 
+      "Subject": [
+        "Nelson Mandela facts"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.parismatch.com/People-A-Z/Nelson-Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,parismatch,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,parismatch,www,)/people-a-z/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Paris Match, France"
+      ], 
+      "Description": [
+        "Nelson Mandela - News, photos and videos   "
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Creator": [
+        "Paris Match, France"
+      ], 
+      "Title": [
+        "Nelson Mandela   "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://variety.com/2013/biz/news/nelson-mandela-weinstein-idris-elba-paul-simon-1200923444": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,variety,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,variety,)/2013/biz/news/nelson-mandela-weinstein-idris-elba-paul-simon-1200923444", 
+    "attributes": {
+      "Publisher": [
+        "Variety Media, LLC "
+      ], 
+      "Description": [
+        "Nelson Mandela\u2019s strong impact on Hollywood, with him depicted in films, his partnership with insiders on charity campaigns and how he is remembered by some who knew him:"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Variety staff"
+      ], 
+      "Title": [
+        "Nelson Mandela: Hollywood Remembers Its Fallen Friend"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Magazine"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Death of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://topics.bloomberg.com/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,bloomberg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bloomberg,topics,)/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Bloomberg L.P"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Bloomberg L.P"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.latimes.com/world/mandela/#axzz2mwTCSavb": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,latimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,latimes,www,)/world/mandela/#axzz2mwtcsavb", 
+    "attributes": {
+      "Publisher": [
+        "The Los Angeles Times"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "The Los Angeles Times, CA"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.historie-online.dk/nyt/bogfeature/fredsrebellen.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,historie-online,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,historie-online,www,)/nyt/bogfeature/fredsrebellen.htm", 
+    "attributes": {
+      "Title": [
+        "BogFeature Fredsrebellen"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.denstoredanske.dk/Geografi_og_historie/Afrika/Sydlige_Afrika/Nelson_Rolihlahla_Mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,denstoredanske,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,denstoredanske,www,)/geografi_og_historie/afrika/sydlige_afrika/nelson_rolihlahla_mandela", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Type_of_Site": [
+        "Encyclopedia"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/world/2013/jun/30/obama-family-visit-mandela-robben-island-prison": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/world/2013/jun/30/obama-family-visit-mandela-robben-island-prison", 
+    "attributes": {
+      "Publisher": [
+        "Guardian online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Guardian, The: Barack Obama sets out Africa vision after Mandela pilgrimage"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-06-30"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.bbc.co.uk/2/hi/7507802.stm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,news,)/2/hi/7507802.stm", 
+    "attributes": {
+      "Publisher": [
+        "BBC, UK"
+      ], 
+      "Description": [
+        "A look back at the extraordinary life and career of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Paul Kerley"
+      ], 
+      "Title": [
+        "Audio slideshow: Nelson Mandela at 90"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://world.time.com/2013/12/05/the-indispensable-man-nelson-mandela-1918-2013": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,time,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,time,world,)/2013/12/05/the-indispensable-man-nelson-mandela-1918-2013", 
+    "attributes": {
+      "Publisher": [
+        "Time Inc."
+      ], 
+      "Description": [
+        "Life and times of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Howard Chua-Eoan"
+      ], 
+      "Title": [
+        "The Indispensable Man: Nelson Mandela (1918\u20132013)"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lemonde.fr/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(fr,lemonde,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,lemonde,www,)/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Le Monde, France"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Creator": [
+        "Le Monde, France"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fansided.com/2013/12/05/nelson-mandelas-transcendence": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,fansided,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,fansided,)/2013/12/05/nelson-mandelas-transcendence", 
+    "attributes": {
+      "Publisher": [
+        "FanSided Network, USA"
+      ], 
+      "Description": [
+        "Nelson Mandela touched lives throughout the world, including people in the sports world.  He used sports to bring his country together. \r\nTweets from sports figures remembering him."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Bernie D'Amato"
+      ], 
+      "Title": [
+        "Nelson Mandela\u2019s transcendence"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Commercial"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://quefaire.paris.fr/Nelson_Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(fr,paris,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,paris,quefaire,)/nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Ville de Paris, France"
+      ], 
+      "Description": [
+        "Exhibition on Nelson Mandela featuring all aspects of his life."
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Creator": [
+        "Mayor of Paris, France"
+      ], 
+      "Title": [
+        "EXPOSITION NELSON MANDELA"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Website"
+      ], 
+      "Date": [
+        "2013-08-16"
+      ], 
+      "Subject": [
+        "Exhibition on Nelson Mandela in Paris from 30 May-27 July 2013"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/List_of_dignitaries_at_the_memorial_service_of_Nelson_Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/list_of_dignitaries_at_the_memorial_service_of_nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Wikipedia"
+      ], 
+      "Description": [
+        "List of dignitaries attending the memorial service of Nelson Mandela in December 2013."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Various"
+      ], 
+      "Title": [
+        "List of dignitaries at the memorial service of Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Wiki"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "List of dignitaries at the memorial service of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nelsonmandelaart.com": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,nelsonmandelaart,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nelsonmandelaart,www,)", 
+    "attributes": {
+      "Publisher": [
+        "Belgravia Gallery, London, UK"
+      ], 
+      "Description": [
+        "Mandela's sketches in Belgravia Gallery, UK, \"reflecting his long confinement, his yearning for freedom and his endless capacity for hope\"."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Anna Hunter, Belgravia Gallery"
+      ], 
+      "Title": [
+        "Nelson Mandela Art"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Website"
+      ], 
+      "Date": [
+        "2013-08-16"
+      ], 
+      "Subject": [
+        "Nelson Mandela's lithographs"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.people.com/people/news/category/0,,personsTax:NelsonMandela,00.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,people,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,people,www,)/people/news/category/0,,personstax:nelsonmandela,00.html", 
+    "attributes": {
+      "Publisher": [
+        "PEOPLE Magazine, USA"
+      ], 
+      "Description": [
+        "The passing of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "PEOPLE Magazine, USA"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-15"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.foxnews.com/travel/2013/12/05/top-nelson-mandela-historic-sites": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,foxnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foxnews,www,)/travel/2013/12/05/top-nelson-mandela-historic-sites", 
+    "attributes": {
+      "Publisher": [
+        "Fox News Network, LLC, NY"
+      ], 
+      "Description": [
+        "Fox News' list of Mandela's most historic sites that people from around the world might flock to now that he has passed."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "FoxNews.com"
+      ], 
+      "Title": [
+        "9 historic sites to visit and pay tribute to Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela's passing at age 95, his legacy as anti-apartheid leader and the first black president of South Africa."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/politics/conservative/10149497/Nelson-Mandela-taught-the-Tories-the-value-of-trust-in-politics.html": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/politics/conservative/10149497/nelson-mandela-taught-the-tories-the-value-of-trust-in-politics.html", 
+    "attributes": {
+      "Publisher": [
+        "Telegraph online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Telegraph, The: Nelson Mandela taught the Tories the value of trust in politics"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-01"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sg.news.yahoo.com/nelson-mandela-funeral-live-report-020758691.html": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,news,sg,)/nelson-mandela-funeral-live-report-020758691.html", 
+    "attributes": {
+      "Publisher": [
+        "AFP News"
+      ], 
+      "Description": [
+        "Nelson Mandela funeral: Live Report"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "AFP"
+      ], 
+      "Title": [
+        "Nelson Mandela funeral: Live Report"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-15"
+      ], 
+      "Subject": [
+        "Nelson Mandela funeral"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.news24.com/NelsonMandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,news24,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,news24,www,)/nelsonmandela", 
+    "attributes": {
+      "Publisher": [
+        "Geoff Cohen"
+      ], 
+      "Description": [
+        "Special Report on Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "News24, Cape Town, South Africa"
+      ], 
+      "Title": [
+        "Nelson Mandela Special Report   "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.information.dk/464535": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,information,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,information,www,)/464535", 
+    "attributes": {
+      "Title": [
+        "\u00bbVi har allerede gennemlevet Mandelas d\u00f8d\u00ab"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.leksikon.org/art.php?n=1650": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(org,leksikon,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,leksikon,www,)/art.php?n=1650", 
+    "attributes": {
+      "Title": [
+        "Mandela, Nelson"
+      ], 
+      "Type_of_Site": [
+        "Encyclopedia"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://nyhederne.tv2.dk/article.php/id-70044900:nelson-mandela-er-i-bedring.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2,nyhederne,)/article.php/id-70044900:nelson-mandela-er-i-bedring.html", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela er i bedring"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11168129": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(nz,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(nz,co,nzherald,www,)/world/news/article.cfm?c_id=2&objectid=11168129", 
+    "attributes": {
+      "Publisher": [
+        "APN Holdings New Zealand"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "APN Holdings New Zealand"
+      ], 
+      "Title": [
+        "Tributes to Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://jyllands-posten.dk/international/Afrika/ECE5742787/nelson-mandelas-helbred-bliver-stadigt-bedre?ref=lokalavisen": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,jyllands-posten,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,jyllands-posten,)/international/afrika/ece5742787/nelson-mandelas-helbred-bliver-stadigt-bedre?ref=lokalavisen", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandelas helbred bliver stadigt bedre"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristeligt-dagblad.dk/artikel/23052:Kultur--Kampen-om-et-eftermaele": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristeligt-dagblad,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristeligt-dagblad,www,)/artikel/23052:kultur--kampen-om-et-eftermaele", 
+    "attributes": {
+      "Title": [
+        "Kampen om et efterm\u00e6le"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.brunstad.org/dk/kristne-kommentarer/gjort-som-mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(org,brunstad,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,brunstad,www,)/dk/kristne-kommentarer/gjort-som-mandela", 
+    "attributes": {
+      "Title": [
+        "Gjort som Mandela?"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.teosofi-fyn.org/artikler_mandela.htmhttp:": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(org,teosofi-fyn,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,teosofi-fyn,www,)/artikler_mandela.htmhttp:", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandelas tale ved sin inds\u00e6ttelse som pr\u00e6sident i 1994"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.xinhuanet.com/english/special/2013-12/06/c_132946254.htm": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,xinhuanet,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,xinhuanet,news,)/english/special/2013-12/06/c_132946254.htm", 
+    "attributes": {
+      "Publisher": [
+        "Xinhuanet, China"
+      ], 
+      "Description": [
+        "Special:Farewell, Nelson Mandela  "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Xinhuanet, China"
+      ], 
+      "Title": [
+        "Farewell, Nelson Mandela  "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://dk.youthforhumanrights.org/voices-for-human-rights/champions/nelson-mandela.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(org,youthforhumanrights,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,youthforhumanrights,dk,)/voices-for-human-rights/champions/nelson-mandela.html", 
+    "attributes": {
+      "Title": [
+        "Fork\u00e6mpere for Menneskerettigheder"
+      ], 
+      "Type_of_Site": [
+        "NGO"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sabc.co.za/mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,sabc,www,)/mandela", 
+    "attributes": {
+      "Publisher": [
+        "SABC, South Africa"
+      ], 
+      "Description": [
+        "Obituary & tributes."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "SABC, South Africa"
+      ], 
+      "Title": [
+        "NELSON ROLIHLAHLA MANDELA 1918-2013"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Broadcasting"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela's death "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.rts.ch/archives/tv/information/3469079-visite-d-un-president.html": {
+    "nominators": [
+      "Barbara Signori - Swiss National Library"
+    ], 
+    "domain_surt": "http://(ch,rts,", 
+    "nomination_score": 1, 
+    "surt": "http://(ch,rts,www,)/archives/tv/information/3469079-visite-d-un-president.html", 
+    "attributes": {
+      "Date": [
+        "1997-09-05"
+      ], 
+      "Title": [
+        "Visite d'un pr\u00e9sident - rts.ch - archives - t\u00e9l\u00e9vision - information"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mandela.gov.za": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,gov,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,gov,mandela,www,)", 
+    "attributes": {
+      "Publisher": [
+        "South African Government"
+      ], 
+      "Description": [
+        "Government website set up after Nelson Mandela's passing to keep the public updated with news about his funeral, tributes etc"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Information Centre, South African Government"
+      ], 
+      "Title": [
+        "Nelson Mandela "
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Government"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/10150000/Barack-Obama-salutes-Nelson-Mandelas-moral-courage.html": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/worldnews/africaandindianocean/southafrica/10150000/barack-obama-salutes-nelson-mandelas-moral-courage.html", 
+    "attributes": {
+      "Publisher": [
+        "Telegraph online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Telegraph, The: Barack Obama salutes Nelson Mandela's 'moral courage'"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-01"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.france24.com/en/20131214-nelson-mandela-photos-quru-memorial": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,france24,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,france24,www,)/en/20131214-nelson-mandela-photos-quru-memorial", 
+    "attributes": {
+      "Publisher": [
+        "France 24"
+      ], 
+      "Description": [
+        "Articles on Nelson Mandela after his death."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Sarah LEDUC"
+      ], 
+      "Title": [
+        "SPECIAL REPORT: Nelson Mandela returns home to Qunu"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-15"
+      ], 
+      "Subject": [
+        "The passing of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.straitstimes.com/the-big-story/asia-report/singapore/story/mandelas-legacy-continues-bloom-singapore-20131206": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,straitstimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,straitstimes,www,)/the-big-story/asia-report/singapore/story/mandelas-legacy-continues-bloom-singapore-20131206", 
+    "attributes": {
+      "Publisher": [
+        "Singapore Press Holdings "
+      ], 
+      "Description": [
+        "Nelson Mandela\u2019s legacy and his state visit to Singapore"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Esther Teo"
+      ], 
+      "Title": [
+        "Mandela's legacy continues to bloom in Singapore"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela\u2019s legacy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mandeladay.com": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,mandeladay,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,mandeladay,www,)", 
+    "attributes": {
+      "Publisher": [
+        "Nelson Mandela Foundation"
+      ], 
+      "Description": [
+        "The Mandela Day campaign calls for everyone to give their time to support any charity or serve one's local community.\r\nA call to action for people everywhere to take responsibility for changing the world into a better place, one small step at a time, just as Mr Mandela did.\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Sello Hatang"
+      ], 
+      "Title": [
+        "Nelson Mandela International Day"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Website"
+      ], 
+      "Date": [
+        "2013-07-03"
+      ], 
+      "Subject": [
+        "Activities on Mandela Day "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://bibliotek.kk.dk/blog/nelson-mandela-sydafrikas-foerste-sorte-praesident-fylder-95-aar": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kk,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kk,bibliotek,)/blog/nelson-mandela-sydafrikas-foerste-sorte-praesident-fylder-95-aar", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela, Sydafrikas f\u00f8rste sorte pr\u00e6sident, fylder 95 \u00e5r."
+      ], 
+      "Type_of_Site": [
+        "Library"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nelsonmandela.org": {
+    "nominators": [
+      "Nicola Johnson - British Library ", 
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,nelsonmandela,", 
+    "nomination_score": 2, 
+    "surt": "http://(org,nelsonmandela,www,)", 
+    "attributes": {
+      "Publisher": [
+        "Nelson Mandela Foundation (the \u201cNMF\u201d) "
+      ], 
+      "Description": [
+        "The Nelson Mandela Foundation (the \u201cNMF\u201d) provides this website, both produced and/or compiled by the Foundation to provide the public with information regarding the work of the NMF and Nelson Mandela\u2019s legacy. "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Mr Sello Hatang (Chief Executive)"
+      ], 
+      "Title": [
+        "Nelson Mandela Centre of Memory", 
+        "Nelson Mandela Centre of Memory "
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Organisation website", 
+        "not for profit"
+      ], 
+      "Date": [
+        "2013-07-03"
+      ], 
+      "Subject": [
+        "Nelson Mandela\u2019s legacy"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://www.u-web.dk/nelson-mandela-og-kampen-mod-apartheid": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,u-web,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,u-web,www,)/nelson-mandela-og-kampen-mod-apartheid", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela og kampen mod apartheid"
+      ], 
+      "Type_of_Site": [
+        "Blog", 
+        "Government"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://uk.reuters.com/people/nelson-mandela": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(com,reuters,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,reuters,uk,)/people/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Reuters.co.uk"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Reuters.co.uk : Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-01"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.humanrights.com/da/voices-for-human-rights/nelson-mandela.html": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(com,humanrights,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,humanrights,www,)/da/voices-for-human-rights/nelson-mandela.html", 
+    "attributes": {
+      "Title": [
+        "\t\t Forrige 1 2 3 4 5 6 7 8 9 10 11 N\u00e6ste DEL DENNE HJEMMESIDE Share to Facebook Share to Twitter Stumble It Email This More... Fork\u00e6mpere for menneskerettigheder      Fork\u00e6mpere for menneskerettigheder         Mahatma Gandhi         Eleanor Roosevelt         C\u00e9sar Ch\u00e1vez         Nelson Mandela         Martin Luther King, Jr.         Desmond Tutu         Oscar Arias S\u00e1nchez         Muhammad Yunus         Daw Aung San Suu Kyi         Jos\u00e9 Ramos-Horta     Unge for Menneskerettigheder     Menneskerettigheds-organisationer     Menneskerettigheds-udfordringer     Rapporter om menneskerettighederne  GRATIS INFORMATIONSPAKKE OG DVD Hj\u00e6lp med at g\u00f8re menneskerettighederne til en del af hverdagen med disse undervisningsredskaber, der levendeg\u00f8r dem. Bestil en GRATIS UNITED for Menneskerettigheder-informationspakke FIND UD AF MERE >> \t Fork\u00e6mpere for menneskerettigheder Nelson Mandela (f\u00f8dt 1918)"
+      ], 
+      "Type_of_Site": [
+        "organization"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/nyheder/htm/baggrund/tema1999/Mandela%20i%20Danmark/32.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/htm/baggrund/tema1999/mandela%20i%20danmark/32.htm", 
+    "attributes": {
+      "Title": [
+        "TV- og radioklip om Mandela og Sydafrika (Mandela i Danmark)"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Death_and_state_funeral_of_Nelson_Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/death_and_state_funeral_of_nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Wikipedia"
+      ], 
+      "Description": [
+        "Death and state funeral of Nelson Mandela in December 2013."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Various"
+      ], 
+      "Title": [
+        "Death and state funeral of Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Wiki"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Death and state funeral of Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.aljazeera.com/indepth/spotlight/mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,aljazeera,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,aljazeera,www,)/indepth/spotlight/mandela", 
+    "attributes": {
+      "Publisher": [
+        "Al Jazeera English, Doha, Qatar."
+      ], 
+      "Description": [
+        "The legacy of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Al Jazeera English, Doha, Qatar."
+      ], 
+      "Title": [
+        "Nelson Mandela 1918-2013  "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-24"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.asiaone.com/news/asian-opinions/mandelas-legacy-reconciliation": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,asiaone,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,asiaone,news,)/news/asian-opinions/mandelas-legacy-reconciliation", 
+    "attributes": {
+      "Publisher": [
+        "Singapore Press Holdings "
+      ], 
+      "Description": [
+        "The passing of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Editor, The Straits Times, Singapore"
+      ], 
+      "Title": [
+        "Mandela's legacy of reconciliation"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-09"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://opencanada.org/features/blogs/roundtable/nelson-mandela-a-hero-for-our-time": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,opencanada,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,opencanada,)/features/blogs/roundtable/nelson-mandela-a-hero-for-our-time", 
+    "attributes": {
+      "Publisher": [
+        "Canadian International Council (CIC) "
+      ], 
+      "Description": [
+        "Nelson Mandela as a leader."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "John Hancock"
+      ], 
+      "Title": [
+        "Nelson Mandela: A Hero For Our Time"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-07-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.todayonline.com/#topics/mandela-0": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,todayonline,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,todayonline,www,)/#topics/mandela-0", 
+    "attributes": {
+      "Publisher": [
+        "TODAY, MediaCorp Singapore"
+      ], 
+      "Description": [
+        "Nelson Mandela's passing."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "MediaCorp Singapore"
+      ], 
+      "Title": [
+        "Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.iol.co.za/news/special-features/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,iol,www,)/news/special-features/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Independent Newspapers (Pty) Limited, South Africa"
+      ], 
+      "Description": [
+        "Tributes, legacy, photos."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Independent Online (IOL), South Africa"
+      ], 
+      "Title": [
+        "Nelson Mandela  (Special Features)"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://da.wikipedia.org/wiki/Nelson_Mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,da,)/wiki/nelson_mandela", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Type_of_Site": [
+        "Encyclopedia"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.hellomagazine.com/tags/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,hellomagazine,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,hellomagazine,www,)/tags/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "HELLO Ltd, London, UK "
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "HELLO! Magazine UK"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/emne/nelson-mandela": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/emne/nelson-mandela", 
+    "attributes": {
+      "Title": [
+        "Nyhedsoverblik - Nelson Mandela"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mandelahistory.org": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,mandelahistory,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,mandelahistory,)", 
+    "attributes": {
+      "Publisher": [
+        "Radio Diaries Inc"
+      ], 
+      "Description": [
+        "Award-winning radio series documenting the struggle against apartheid through intimate first-person accounts of Nelson Mandela himself, as well as those who fought with him, and against him."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Joe Richman"
+      ], 
+      "Title": [
+        "Mandela: An Audio History "
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Website"
+      ], 
+      "Date": [
+        "2013-07-05"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sahistory.org.za/people/nelson-rolihlahla-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,org,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,org,sahistory,www,)/people/nelson-rolihlahla-mandela", 
+    "attributes": {
+      "Publisher": [
+        "South African History Online (SAHO),Cape Town, SA"
+      ], 
+      "Description": [
+        "Nelson Rolihlahla Mandela's biography."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "South African History Online"
+      ], 
+      "Title": [
+        "Nelson Rolihlahla Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Organisation"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Rolihlahla Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.tv2nord.dk/artikel/266668:Udland--Nelson-Mandelas-helbred-bliver-stadigt-bedre": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,tv2nord,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,tv2nord,www,)/artikel/266668:udland--nelson-mandelas-helbred-bliver-stadigt-bedre", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandelas helbred bliver stadigt bedre"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bbc.co.uk/news/world-africa-23043987": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,www,)/news/world-africa-23043987", 
+    "attributes": {
+      "Publisher": [
+        "BBC news, UK "
+      ], 
+      "Description": [
+        "Passing of South Africa's first black President Nelson Mandela dies, tributes, background, milestones. "
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "BBC news "
+      ], 
+      "Title": [
+        "NELSON MANDELA 1918-2013"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "South Africa's Nelson Mandela dies "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.channelnewsasia.com/news/specialreports/nelsonmandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,channelnewsasia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,channelnewsasia,www,)/news/specialreports/nelsonmandela", 
+    "attributes": {
+      "Publisher": [
+        "Channel NewsAsia, Singapore"
+      ], 
+      "Description": [
+        "Channel NewsAsia Special Report on Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "MediaCorp Singapore"
+      ], 
+      "Title": [
+        "Remembering Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kaapstadmagazine.nl/nelson-mandela": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,kaapstadmagazine,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,kaapstadmagazine,www,)/nelson-mandela", 
+    "attributes": {
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Het veelbewogen leven van Nelson Mandela"
+      ], 
+      "Creator": [
+        "Cape Town Magazine"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-12"
+      ], 
+      "Subject": [
+        "Nelson Mandela biography"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.xin.msn.com/en/in-pictures-nelson-mandela-memorial-service-9": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,xin,news,)/en/in-pictures-nelson-mandela-memorial-service-9", 
+    "attributes": {
+      "Publisher": [
+        "Microsoft & MediaCorp, Singapore "
+      ], 
+      "Description": [
+        "Nelson Mandela memorial service; Mandela through the years"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "MSN News"
+      ], 
+      "Title": [
+        ". In pictures: Nelson Mandela memorial service    Mandela through the years   "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-10"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://maruah.org/2013/12/08/to-mandela-with-love-respect-light-a-candle-in-his-honour": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,maruah,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,maruah,)/2013/12/08/to-mandela-with-love-respect-light-a-candle-in-his-honour", 
+    "attributes": {
+      "Publisher": [
+        "MARUAH Singapore"
+      ], 
+      "Description": [
+        "Gathering to pay tribute to Nelson Mandela.."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "MARUAH Working Group for an ASEAN Human Rights Mechanism, Singapore "
+      ], 
+      "Title": [
+        "To Mandela With Love & Respect \u2013 Light A Candle In His Honour"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-12-08"
+      ], 
+      "Subject": [
+        "Nelson Mandela tribute"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.reuters.com/people/nelson_mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,reuters,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,reuters,www,)/people/nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Reuters"
+      ], 
+      "Description": [
+        "Nelson Mandela's life and death"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Reuters"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lemauricien.com/topics/Nelson%20Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,lemauricien,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,lemauricien,www,)/topics/nelson%20mandela", 
+    "attributes": {
+      "Publisher": [
+        "Le Mauricien Ltd, Mauritius"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "Multiple languages"
+      ], 
+      "Creator": [
+        "Le Mauricien Ltd, Mauritius"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thepetitionsite.com/takeaction/902/069/598/?z00m=20681501": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,thepetitionsite,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thepetitionsite,www,)/takeaction/902/069/598/?z00m=20681501", 
+    "attributes": {
+      "Publisher": [
+        "Care2.com, Inc.CA, USA"
+      ], 
+      "Description": [
+        "Petition to honor the memory of Nelson Mandela and his life's work by pledging to do everything one can in one's own life to advance equality and justice."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Sharon Gelman"
+      ], 
+      "Title": [
+        "Honor Nelson Mandela for His Incredible Work for Justice"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Commercial"
+      ], 
+      "Date": [
+        "2013-12-06"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mandelastichting.nl": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,mandelastichting,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,mandelastichting,)", 
+    "attributes": {
+      "Language": [
+        "Dutch"
+      ], 
+      "Title": [
+        "Mandela Stichting"
+      ], 
+      "Creator": [
+        "Stichting Standbeeld voor Nelson Mandela Den Haag"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Date": [
+        "2013-07-12"
+      ], 
+      "Subject": [
+        "Nelson Mandela Statue in The Hague"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ewn.co.za/InFocusItems/Nelson-Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,ewn,)/infocusitems/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Eyewitness News, South Africa"
+      ], 
+      "Description": [
+        "InFocus news: Nelson-Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Eyewitness News, South Africa"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.kristeligt-dagblad.dk/artikel/23052:Kultur--Kampen-om-et-eftermaelehttp:": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kristeligt-dagblad,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kristeligt-dagblad,www,)/artikel/23052:kultur--kampen-om-et-eftermaelehttp:", 
+    "attributes": {
+      "Title": [
+        "Kampen om et efterm\u00e6le"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.independent.co.uk/news/world/africa/barack-obama-hails-nelson-mandela-as-an-inspiration-during-a-speech-in-south-africas-capital-8679622.html": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,independent,www,)/news/world/africa/barack-obama-hails-nelson-mandela-as-an-inspiration-during-a-speech-in-south-africas-capital-8679622.html", 
+    "attributes": {
+      "Publisher": [
+        "Independent online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Independent, The: Barack Obama hails Nelson Mandela as an 'inspiration' during a speech in South Africa's capital"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-01"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Nelson_Mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore", 
+      "Cathy Hartman - UNT Libraries"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 2, 
+    "surt": "http://(org,wikipedia,en,)/wiki/nelson_mandela", 
+    "attributes": {
+      "Publisher": [
+        "Wikipedia"
+      ], 
+      "Description": [
+        "Nelson Mandela Wiki"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Wikipedia"
+      ], 
+      "Title": [
+        "Nelson Mandela", 
+        "Nelson Mandela - Wikipedia"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Online Encyclopedia", 
+        "Wiki"
+      ], 
+      "Date": [
+        "2013-07-03"
+      ], 
+      "Subject": [
+        "Nelson Mandela", 
+        "Nelson Mandela biography"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://mashable.com/2013/12/06/world-leaders-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,mashable,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,mashable,)/2013/12/06/world-leaders-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Mashable, NY"
+      ], 
+      "Description": [
+        "Life & Death of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Mashable, NY"
+      ], 
+      "Title": [
+        "Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/worldnews/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/worldnews/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Telegraph Media Group "
+      ], 
+      "Description": [
+        "Life & Death of Nelson Mandela"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Telegraph Media Group "
+      ], 
+      "Title": [
+        "Nelson Mandela  "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.xin.msn.com/en/tribute-to-nelson-mandela.aspx": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,xin,news,)/en/tribute-to-nelson-mandela.aspx", 
+    "attributes": {
+      "Publisher": [
+        "Microsoft & MediaCorp "
+      ], 
+      "Description": [
+        "A Special Tribute to Nelson Mandela on his passing."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Microsoft & MediaCorp, Singapore"
+      ], 
+      "Title": [
+        "A Special Tribute to Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-23"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thetimes.co.uk/tto/news/world/africa/mandela/article3943425.ece": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,thetimes,www,)/tto/news/world/africa/mandela/article3943425.ece", 
+    "attributes": {
+      "Publisher": [
+        "Times Newspapers, UK"
+      ], 
+      "Description": [
+        "Article is part of a section on Nelson Mandela (which can only be accessed by login)"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Lucy Bannerman and Ruth Maclean, Johannesburg, SA"
+      ], 
+      "Title": [
+        "A nation unites in prayer for Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-09"
+      ], 
+      "Subject": [
+        "Nelson Mandela's passing & his legacy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/news/worldnews/nelson-mandela/10151078/Nelson-Mandelas-grandson-burial-row-is-baffling-and-a-deep-disappointment.html": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/news/worldnews/nelson-mandela/10151078/nelson-mandelas-grandson-burial-row-is-baffling-and-a-deep-disappointment.html", 
+    "attributes": {
+      "Publisher": [
+        "Telegraph online"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Telegraph, The: Nelson Mandela's grandson: burial row is 'baffling' and 'a deep disappointment'"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-06-30"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://bibliotek.kk.dk/biblioteker/hovedbiblioteket/blog/tillykke-nelson-mandela-93-aar": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,kk,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,kk,bibliotek,)/biblioteker/hovedbiblioteket/blog/tillykke-nelson-mandela-93-aar", 
+    "attributes": {
+      "Title": [
+        "Tillykke til Nelson Mandela med de 93 \u00e5r"
+      ], 
+      "Type_of_Site": [
+        "Library"
+      ], 
+      "Language": [
+        "Danish"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://larryferlazzo.edublogs.org/2009/07/20/the-best-sites-for-learning-about-nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(org,edublogs,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,edublogs,larryferlazzo,)/2009/07/20/the-best-sites-for-learning-about-nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Larry Ferlazzo "
+      ], 
+      "Description": [
+        "Educationnal sites on Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Larry Ferlazzo "
+      ], 
+      "Title": [
+        "The Best Sites For Learning About Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Blog"
+      ], 
+      "Date": [
+        "2009-07-20"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thecapturesite.co.za": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,thecapturesite,www,)", 
+    "attributes": {
+      "Publisher": [
+        "Christopher Till ,Culture Mechanics, South Africa"
+      ], 
+      "Description": [
+        "The temporary exhibition, hosted in the converted shed, tells a story of Nelson Mandela\u2019s journey through life and how he built a new nation from within a conflicted South Africa.\r\n\r\n\r\n\r\n"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Christopher Till "
+      ], 
+      "Title": [
+        "The Capture Site"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ], 
+      "Type_of_Site": [
+        "Blog", 
+        "Government"
+      ], 
+      "Date": [
+        "2013-08-16"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://allafrica.com/specials/Nelson_Mandela_Life_And_Times": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,allafrica,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,allafrica,)/specials/nelson_mandela_life_and_times", 
+    "attributes": {
+      "Publisher": [
+        "All Africa, Cape Town, South Africa"
+      ], 
+      "Description": [
+        "Nelson Mandela: Life And Times"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "All Africa, Cape Town, South Africa"
+      ], 
+      "Title": [
+        "Nelson Mandela: Life And Times"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-24"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bbc.co.uk/news/world-africa-12305154": {
+    "nominators": [
+      "Nicola Johnson - British Library ", 
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 2, 
+    "surt": "http://(uk,co,bbc,www,)/news/world-africa-12305154", 
+    "attributes": {
+      "Publisher": [
+        "BBC News online", 
+        "BBC News, UK"
+      ], 
+      "Description": [
+        "Nelson Mandela's history in brief"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "BBC UK (Director Editorial Policy and Standards:David Jordan)"
+      ], 
+      "Title": [
+        "BBC News: Nelson Mandela's life and times", 
+        "Nelson Mandela's life and times"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-07-01", 
+        "2013-08-16"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://www.lemonde.fr/mort-de-nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(fr,lemonde,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,lemonde,www,)/mort-de-nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Le Monde, Francer"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Creator": [
+        "Le Monde France"
+      ], 
+      "Title": [
+        "Mort de Nelson Mandela"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://politiken.dk/udland/ECE2026259/hele-verden-fejrer-nelson-mandelas-foedselsdag": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,politiken,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,politiken,)/udland/ece2026259/hele-verden-fejrer-nelson-mandelas-foedselsdag", 
+    "attributes": {
+      "Title": [
+        "Hele verden fejrer Nelson Mandelas f\u00f8dselsdag"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.southafrica.nl/nelson-mandela": {
+    "nominators": [
+      "Team Webarchiving - Koninklijke Bibliotheek - National Library of the Netherlands"
+    ], 
+    "domain_surt": "http://(nl,southafrica,", 
+    "nomination_score": 1, 
+    "surt": "http://(nl,southafrica,www,)/nelson-mandela", 
+    "attributes": {
+      "Language": [
+        "English"
+      ], 
+      "Title": [
+        "Nelson Mandela International Day"
+      ], 
+      "Creator": [
+        "South African Embassy in the Netherlands"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Government"
+      ], 
+      "Date": [
+        "2013-07-12"
+      ], 
+      "Subject": [
+        "Nelson Mandela Day"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.b.dk/globalt/nelson-mandela-har-faaet-det-bedre": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,b,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,b,www,)/globalt/nelson-mandela-har-faaet-det-bedre", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela har f\u00e5et det bedre"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.crisismagazine.com/2013/nelson-mandela-a-candid-assessment": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(com,crisismagazine,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,crisismagazine,www,)/2013/nelson-mandela-a-candid-assessment", 
+    "attributes": {
+      "Publisher": [
+        "Crisis Magazine, USA"
+      ], 
+      "Description": [
+        "Remembering who Mandela was and who he wasn\u2019t."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Timothy J. Williams "
+      ], 
+      "Title": [
+        "Nelson Mandela: A Candid Assessment"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Catholic Magazine"
+      ], 
+      "Date": [
+        "2013-12-10"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sbs.com.au/news/article/2013/12/09/covering-death-mandela-brian-thomson-reports": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(au,com,", 
+    "nomination_score": 1, 
+    "surt": "http://(au,com,sbs,www,)/news/article/2013/12/09/covering-death-mandela-brian-thomson-reports", 
+    "attributes": {
+      "Publisher": [
+        "Special Broadcasting Service (SBS) Corporation, Australia"
+      ], 
+      "Description": [
+        "Life and legacy of Nelson Mandela."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Brian Thomson"
+      ], 
+      "Title": [
+        "Remembering Nelson Mandela: Brian Thomson reports"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-09"
+      ], 
+      "Subject": [
+        "Nelson Mandela"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sowetanlive.co.za/news/mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(za,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(za,co,sowetanlive,www,)/news/mandela", 
+    "attributes": {
+      "Publisher": [
+        "Avusa Media Limited, South Africa"
+      ], 
+      "Description": [
+        "Articles, tributes, photos."
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Creator": [
+        "Sowetan LIVE, South Africa"
+      ], 
+      "Title": [
+        "MANDELA"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-05"
+      ], 
+      "Subject": [
+        "Section on Mandela on Sowetan Live"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mandela-children.org.uk": {
+    "nominators": [
+      "Nicola Johnson - British Library "
+    ], 
+    "domain_surt": "http://(uk,org,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,org,mandela-children,www,)", 
+    "attributes": {
+      "Title": [
+        "Nelson Mandela Children's Fund (UK)"
+      ], 
+      "Type_of_Site": [
+        "charity"
+      ], 
+      "Language": [
+        "English"
+      ], 
+      "Page_or_Site": [
+        "Entire site"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dr.dk/Nyheder/Udland/2013/07/22/0722134410.htm": {
+    "nominators": [
+      "Sabine Schostag - Statsbiblioteket"
+    ], 
+    "domain_surt": "http://(dk,dr,", 
+    "nomination_score": 1, 
+    "surt": "http://(dk,dr,www,)/nyheder/udland/2013/07/22/0722134410.htm", 
+    "attributes": {
+      "Title": [
+        "Barnebarn: Nelson Mandela f\u00e5r det bedre", 
+        "Nelson mandela har f\u00e5et det bedre"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://plus.lefigaro.fr/tag/nelson-mandela": {
+    "nominators": [
+      "Nazeerah Gopaul - National Library of Singapore"
+    ], 
+    "domain_surt": "http://(fr,lefigaro,", 
+    "nomination_score": 1, 
+    "surt": "http://(fr,lefigaro,plus,)/tag/nelson-mandela", 
+    "attributes": {
+      "Publisher": [
+        "Le Figaro, France"
+      ], 
+      "Description": [
+        "Life and death of Nelson Mandela"
+      ], 
+      "Language": [
+        "French"
+      ], 
+      "Creator": [
+        "Le Figaro, France"
+      ], 
+      "Title": [
+        "Nelson Mandela "
+      ], 
+      "Page_or_Site": [
+        "Page only"
+      ], 
+      "Type_of_Site": [
+        "Press"
+      ], 
+      "Date": [
+        "2013-12-17"
+      ], 
+      "Subject": [
+        "Nelson Mandela "
+      ]
+    }, 
+    "nomination_count": 1
+  }
+}

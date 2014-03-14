@@ -1,0 +1,4207 @@
+{
+  "http://www.whitehouse.gov/search/site/oil%20spill?filters=tid%3A191": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,whitehouse,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,whitehouse,www,)/search/site/oil%20spill?filters=tid%3a191", 
+    "attributes": {
+      "Site_Name": [
+        "The White House : Issue Deepwater Horizon"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sis.nlm.nih.gov/dimrc/oilspills.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,nih,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,nih,nlm,sis,)/dimrc/oilspills.html", 
+    "attributes": {
+      "Site_Name": [
+        "Disaster Information Management Research Center (NIH)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://blumenauer.house.gov/index.php?option=com_content&task=view&id=1629&Itemid=175": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,blumenauer,)/index.php?option=com_content&task=view&id=1629&itemid=175", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://action.sierraclub.org/site/PageNavigator/adv_oilspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,sierraclub,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,sierraclub,action,)/site/pagenavigator/adv_oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "Sierra Club: Gulf Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://2theadvocate.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,2theadvocate,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,2theadvocate,)", 
+    "attributes": {
+      "Site_Name": [
+        "2theadvocate.com | Powered by The Advocate and WBRZ News 2 Louisiana \u00e2\u20ac\u201d Baton Rouge, LA"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.eia.doe.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,doe,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,doe,eia,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Department of Energy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.api.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,api,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,api,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "American Petroleum Institute"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://republicans.resourcescommittee.house.gov/Issues/Issue/?IssueID=13373": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,resourcescommittee,republicans,)/issues/issue/?issueid=13373", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.daily-report.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,daily-report,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,daily-report,www,)", 
+    "attributes": {
+      "Site_Name": [
+        ":: Baton Rouge Business Report :: Daily Report AM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://beta.lpb.org/index.php/news/news_crisis_in_the_gulf": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,lpb,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,lpb,beta,)/index.php/news/news_crisis_in_the_gulf", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana Public Broadcasting : Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.defense.gov/home/features/2010/0510_gulfspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,defense,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,defense,www,)/home/features/2010/0510_gulfspill", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Department of Defense : Oil Spill Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://abcnews.go.com/WN/gulf-mexico-oil-spill-professor-satish-nagarajaiah-blame/story?id=10626334": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,go,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,go,abcnews,)/wn/gulf-mexico-oil-spill-professor-satish-nagarajaiah-blame/story?id=10626334", 
+    "attributes": {
+      "Site_Name": [
+        "ABC News: The Conversation: Oil Spill Blame Game"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/sierra_club": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/sierra_club", 
+    "attributes": {
+      "Site_Name": [
+        "Sierra Club Twitter Feed"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://websearch.ucop.edu:8765/custom/uc/query.html?col=ucal&qp=&qs=&qc=&pw=100%25&ws=0&qm=0&nh=10&lk=1&rf=1&rq=0&qt=oil+spill&st=1&seek1.x=15&seek1.y=7": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,ucop,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,ucop,websearch,:8765)/custom/uc/query.html?col=ucal&qp=&qs=&qc=&pw=100%25&ws=0&qm=0&nh=10&lk=1&rf=1&rq=0&qt=oil+spill&st=1&seek1.x=15&seek1.y=7", 
+    "attributes": {
+      "Site_Name": [
+        "University of California : Oil Spill Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mariodiazbalart.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,mariodiazbalart,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Mario Diaz-Balart : Florida 25th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sci.tamucc.edu/nscs": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,tamucc,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,tamucc,sci,www,)/nscs", 
+    "attributes": {
+      "Site_Name": [
+        "National Spill Control School : Texas A & M "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.greenpeace.org/usa": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,greenpeace,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,greenpeace,www,)/usa", 
+    "attributes": {
+      "Site_Name": [
+        "Greenpeace"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://pensacola.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,pensacola,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.flickr.com/photos/greenpeaceusa09/sets/72157623829446075": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,flickr,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,flickr,www,)/photos/greenpeaceusa09/sets/72157623829446075", 
+    "attributes": {
+      "Site_Name": [
+        "Flickr Deepwater Horizon Images"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://newsroom.eworldwire.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library", 
+      "Mark Phillips - UNT Libraries"
+    ], 
+    "domain_surt": "http://(com,eworldwire,", 
+    "nomination_score": 2, 
+    "surt": "http://(com,eworldwire,newsroom,)", 
+    "attributes": {
+      "Site_Name": [
+        "EWORLDWIRE PRESS RELEASE LIST, and SEARCH"
+      ]
+    }, 
+    "nomination_count": 2
+  }, 
+  "http://donyoung.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,donyoung,)", 
+    "attributes": {
+      "Site_Name": [
+        "Rep. Don Young - Alaska"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mrc.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,mrc,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,mrc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Media Research Center"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.louisianashrimp.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,louisianashrimp,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,louisianashrimp,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana Shrimp Association "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mbari.org/news/news_releases/2010/auv-gulf/auv-gulf-release.html": {
+    "nominators": [
+      "Heather Christenson - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,mbari,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,mbari,www,)/news/news_releases/2010/auv-gulf/auv-gulf-release.html", 
+    "attributes": {
+      "Site_Name": [
+        "Monterey Bay Aquarium Research Institute: MBARI sends underwater robot to study Deepwater Horizon spill"
+      ], 
+      "Description": [
+        "MBARI's Division of Marine Operations, under an agreement with the National Oceanic and Atmospheric Administration (NOAA), sent a high-tech robotic submersible to the oily waters of the Gulf of Mexico. The goal is to collect information about the oil plum"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://tampabaywatch.org/index.cfm?fuseaction=content.home&pageID=1": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,tampabaywatch,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,tampabaywatch,)/index.cfm?fuseaction=content.home&pageid=1", 
+    "attributes": {
+      "Site_Name": [
+        "Tampa Bay Watch"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moneycentral.msn.com/detail/stock_quote?Symbol=BP": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,moneycentral,)/detail/stock_quote?symbol=bp", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.whoi.edu/page.do?pid=42815": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,whoi,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,whoi,www,)/page.do?pid=42815", 
+    "attributes": {
+      "Site_Name": [
+        "Woods Hole Oceanography Institution: Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sba.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,sba,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,sba,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Small Business Administration"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://search.ahp.us.army.mil/search/index.php?search=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,army,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,army,us,ahp,search,)/search/index.php?search=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "The United States Army: Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sce.lsu.edu/oilspill.shtm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,sce,www,)/oilspill.shtm", 
+    "attributes": {
+      "Site_Name": [
+        "LSU School of the Coast and Envrionment: Gulf Coast Oil Spill Links"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://money.cnn.com/quote/quote.html?symb=RIG": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,money,)/quote/quote.html?symb=rig", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://energycommerce.house.gov/index.php?option=com_content&view=article&id=2008:energy-and-commerce-subcommittee-briefing-on-qsizing-up-the-bp-oil-spill-science-and-engineering-measuring-methodsq&catid=122:media-advisories&Itemid=55": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,energycommerce,)/index.php?option=com_content&view=article&id=2008:energy-and-commerce-subcommittee-briefing-on-qsizing-up-the-bp-oil-spill-science-and-engineering-measuring-methodsq&catid=122:media-advisories&itemid=55", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.npr.org/templates/player/mediaPlayer.html?action=2&t=1&islist=false&id=126883721&m=126883715": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,npr,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,npr,www,)/templates/player/mediaplayer.html?action=2&t=1&islist=false&id=126883721&m=126883715", 
+    "attributes": {
+      "Site_Name": [
+        "NPR Oil Spill Playlist"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://josephcao.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,josephcao,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Anh \"Joseph\" Cao"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.healthfinder.gov/news/newsstory.aspx?docID=638945": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,healthfinder,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,healthfinder,www,)/news/newsstory.aspx?docid=638945", 
+    "attributes": {
+      "Site_Name": [
+        "US HHS Gulf Oil Spill Could Threaten Human Health"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://emergency.cdc.gov/chemical/oil_spill_gm_2010.asp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,cdc,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,cdc,emergency,)/chemical/oil_spill_gm_2010.asp", 
+    "attributes": {
+      "Site_Name": [
+        "Centers for Disease Control and Prevention: Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.governorbarbour.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,governorbarbour,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,governorbarbour,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Mississippi Governor Haley Barbour"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://hutchison.senate.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,hutchison,)", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Kay Bailey Hutchison, Texas"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sptimes.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,sptimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,sptimes,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Tampa Bay / St. Petersburg Times"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/finance?client=ob&q=NYSE:NLC": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/finance?client=ob&q=nyse:nlc", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://topics.nytimes.com/top/reference/timestopics/subjects/o/oil_spills/gulf_of_mexico_2010/index.html?scp=1-spot&sq=oil%20spill&st=cse": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,nytimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nytimes,topics,)/top/reference/timestopics/subjects/o/oil_spills/gulf_of_mexico_2010/index.html?scp=1-spot&sq=oil%20spill&st=cse", 
+    "attributes": {
+      "Site_Name": [
+        "The New York Times - Times Topics Gulf Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://cornyn.senate.gov/public": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,cornyn,)/public", 
+    "attributes": {
+      "Site_Name": [
+        "Senator John Cornyn, Texas"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/group.php?gid=116228368408055&v=wall&viewas=0&ref=mf": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/group.php?gid=116228368408055&v=wall&viewas=0&ref=mf", 
+    "attributes": {
+      "Site_Name": [
+        "Facebook | SCHOLR (Student Coalition to Help the Oil Leak Relief) @ LSU"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.peer.org/news/news_id.php?row_id=1265": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,peer,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,peer,www,)/news/news_id.php?row_id=1265", 
+    "attributes": {
+      "Site_Name": [
+        "NOAA RAISES RED FLAGS ON AGGRESSIVE OFFSHORE DRILLING PLAN"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://lemieux.senate.gov/public/index.cfm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,lemieux,)/public/index.cfm", 
+    "attributes": {
+      "Site_Name": [
+        "Senator George LeMieux - Florida"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dallasnews.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dallasnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dallasnews,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Dallas News, Sports, Weather and Traffic from The Dallas Morning News"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.flickr.com/photos/cleanenergy/sets/72157623982665364": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,flickr,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,flickr,www,)/photos/cleanenergy/sets/72157623982665364", 
+    "attributes": {
+      "Site_Name": [
+        "Flickr Deepwater Horizon Images"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.plaqueminesparish.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,plaqueminesparish,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,plaqueminesparish,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Plaquemines Parish Government"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ifitwasmyhome.com": {
+    "nominators": [
+      "Jeff Kosokofff - Tufts University"
+    ], 
+    "domain_surt": "http://(com,ifitwasmyhome,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ifitwasmyhome,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "IfItWasMyHome.com"
+      ], 
+      "Description": [
+        "Mashup tool to help educate about the scope of the spill by allowing user to see the spills current size superimposed over a map of any location on the planet."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.humanesociety.org/news/gulf_oil_spill_response.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,humanesociety,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,humanesociety,www,)/news/gulf_oil_spill_response.html", 
+    "attributes": {
+      "Site_Name": [
+        "Humane Society - Gulf Coast Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.neworleanscvb.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,neworleanscvb,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,neworleanscvb,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Official Site of Greater New Orleans - New Orleans Convention & Visitors Bureau information including French Quarter, New Orleans Hotels, New Orleans Events and more."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gulfseagrant.tamu.edu/oilspill/index.htm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,tamu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,tamu,gulfseagrant,)/oilspill/index.htm", 
+    "attributes": {
+      "Site_Name": [
+        "Gulf of Mexico Sea Grant Programs: Oil Spill in the Gulf of Mexico"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sec.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,sec,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,sec,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Securities and Exchange Commission (Home Page)"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.breitbart.com/search.php?q=deepwater+horizon": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,breitbart,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,breitbart,www,)/search.php?q=deepwater+horizon", 
+    "attributes": {
+      "Site_Name": [
+        "Breitbart News Site: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.shreveporttimes.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,shreveporttimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,shreveporttimes,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "ShreveportTimes | The Times | Shreveport news, community, entertainment, yellow pages and classifieds. Serving Shreveport, Louisiana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nola.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,nola,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nola,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "New Orleans, LA Local News, Breaking News, Sports & Weather - NOLA.com"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.southeasttexaslive.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,southeasttexaslive,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,southeasttexaslive,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Beaumont Enterprise"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://landrieu.senate.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,landrieu,)", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Mary Landrieu - Louisiana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pg.com/en_US/index.shtml": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,pg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,pg,www,)/en_us/index.shtml", 
+    "attributes": {
+      "Site_Name": [
+        "Proctor and Gamble"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.leanweb.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,leanweb,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,leanweb,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana Environmental Action Network"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtontimes.com/news/energy": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,washingtontimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtontimes,www,)/news/energy", 
+    "attributes": {
+      "Site_Name": [
+        "The Washington Times : Energy and Environment"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.freerepublic.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,freerepublic,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,freerepublic,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Free Republic"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.healthygulf.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,healthygulf,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,healthygulf,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Gulf Restoration Network"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ccalouisiana.com/cca": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,ccalouisiana,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ccalouisiana,www,)/cca", 
+    "attributes": {
+      "Site_Name": [
+        "CCA Louisiana - Coastal Conservation Association"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.latimes.com/news/science/environment/oil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,latimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,latimes,www,)/news/science/environment/oil", 
+    "attributes": {
+      "Site_Name": [
+        "Los Angeles Times: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mediamatters.org/search/index?qstring=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,mediamatters,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,mediamatters,)/search/index?qstring=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "Media Matters: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/finance?client=ob&q=NYSE:HAL": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/finance?client=ob&q=nyse:hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.alabar.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,alabar,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,alabar,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Alabama State BarAlabama State Bar"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://neworleans.indymedia.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,indymedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,indymedia,neworleans,)", 
+    "attributes": {
+      "Site_Name": [
+        "New Orleans Independent Media Center"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moneycentral.msn.com/detail/stock_quote?Symbol=HAL": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,moneycentral,)/detail/stock_quote?symbol=hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://energycommerce.house.gov/Press_111/20100512/Transocean-Deepwater%20Horizon%20BOP%20Test.pdf": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,energycommerce,)/press_111/20100512/transocean-deepwater%20horizon%20bop%20test.pdf", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cnn.com/SPECIALS/2010/gulf.coast.oil.spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,www,)/specials/2010/gulf.coast.oil.spill", 
+    "attributes": {
+      "Site_Name": [
+        "CNN.com: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://boustany.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,boustany,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Charles Boustany"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cleanharbors.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cleanharbors,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cleanharbors,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Clean Harbors"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.macon.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,macon,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,macon,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Macon Homepage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.usace.army.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,army,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,army,usace,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Army Corps of Engineers - HQ"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://saveourgulf.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,saveourgulf,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,saveourgulf,)", 
+    "attributes": {
+      "Site_Name": [
+        "Save Our Gulf"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bp.com/bodycopyarticle.do?categoryId=1&contentId=7052055&nicam=USCSBaselineQ409&nisrc=Google&nigrp=Branded_Crisis_Management&niadv=General&nipkw=british_petroleum": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,bp,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bp,www,)/bodycopyarticle.do?categoryid=1&contentid=7052055&nicam=uscsbaselineq409&nisrc=google&nigrp=branded_crisis_management&niadv=general&nipkw=british_petroleum", 
+    "attributes": {
+      "Site_Name": [
+        "British Petroleum: Gulf of Mexico Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.disasternews.net": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(net,disasternews,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,disasternews,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Disaster News Network - Reporting disasters and response efforts"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://shelby.senate.gov/public": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,shelby,)/public", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Richard Shelby : Alabama"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://disasterhelp.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,disasterhelp,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,disasterhelp,)", 
+    "attributes": {
+      "Site_Name": [
+        "disasterhelp.gov"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ng.mil/features/oil_spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,ng,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,ng,www,)/features/oil_spill", 
+    "attributes": {
+      "Site_Name": [
+        "The National Guard - Oil Spill Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.globalsecurity.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,globalsecurity,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,globalsecurity,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "GlobalSecurity.org - Reliable Security Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.grist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,grist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,grist,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Grist"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nationalreview.com/search/?q=oil+spill&cx=partner-pub-7596656896688386%3Aktx6rmwscfs&cof=FORID%3A9&ie=ISO-8859-1#1041": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,nationalreview,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nationalreview,www,)/search/?q=oil+spill&cx=partner-pub-7596656896688386%3aktx6rmwscfs&cof=forid%3a9&ie=iso-8859-1#1041", 
+    "attributes": {
+      "Site_Name": [
+        "National Review Online: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.msema.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,msema,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,msema,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "MEMA - Mississippi Emergency Management Agency"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cbsnews.com/2718-201_162-558.html?tag=wc6448570": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cbsnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cbsnews,www,)/2718-201_162-558.html?tag=wc6448570", 
+    "attributes": {
+      "Site_Name": [
+        "CBS News: Disaster in the Gulf"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.klsu.fm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(fm,klsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(fm,klsu,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "KLSU 91.1 FM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nlmoc.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,nlmoc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.factcheck.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,factcheck,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,factcheck,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "FactCheck.org"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sarasota.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,sarasota,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.telegraph.co.uk/search/?queryText=oil+spill&Search=Search": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,telegraph,www,)/search/?querytext=oil+spill&search=search", 
+    "attributes": {
+      "Site_Name": [
+        "Telegraph.co.uk: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nps.gov/aboutus/oil-spill-response.htm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,nps,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,nps,www,)/aboutus/oil-spill-response.htm", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. National Park Service NPS Oil Spill Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://begich.senate.gov/public/index.cfm?p=DeepwaterHorizonResponse": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,begich,)/public/index.cfm?p=deepwaterhorizonresponse", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dailyfinance.com/quotes/nalco-holding-company/nlc/nys": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dailyfinance,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailyfinance,www,)/quotes/nalco-holding-company/nlc/nys", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.supship.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,supship,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.energyaction.net": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(net,energyaction,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,energyaction,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Energy Action Coalition"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sdmi.lsu.edu/news/spotlight/transoceanoilspill.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,sdmi,www,)/news/spotlight/transoceanoilspill.html", 
+    "attributes": {
+      "Site_Name": [
+        "LSU: Stephenson Disaster Management Insititute: Gulf of Mexico Oil Spill Resource Center"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://members.greenpeace.org/blog": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,greenpeace,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,greenpeace,members,)/blog", 
+    "attributes": {
+      "Site_Name": [
+        "Greenpeace Blogs"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.flickr.com/photos/deepwaterhorizonresponse": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,flickr,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,flickr,www,)/photos/deepwaterhorizonresponse", 
+    "attributes": {
+      "Site_Name": [
+        "Flickr Deepwater Horizon Images"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.breitbart.com/search.php?q=deepwater+horizon#q=gulf%20oil%20spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,breitbart,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,breitbart,www,)/search.php?q=deepwater+horizon#q=gulf%20oil%20spill", 
+    "attributes": {
+      "Site_Name": [
+        "Breitbart News Site: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sio.ucsd.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,ucsd,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,ucsd,sio,)", 
+    "attributes": {
+      "Site_Name": [
+        "Scripps Institution of Oceanography"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.heritage.org/Search.aspx?query=oil+spill&section=%7c": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,heritage,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,heritage,www,)/search.aspx?query=oil+spill&section=%7c", 
+    "attributes": {
+      "Site_Name": [
+        "The Heritage Foundation -Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dsm.lsu.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,dsm,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "LSU Disaster Science & Management"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ibrrc.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,ibrrc,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,ibrrc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "International Bird Rescue Research Center"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fair.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,fair,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,fair,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Fairness and Accuracy in Reporting"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.primezone.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,primezone,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,primezone,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "GlobeNewswire, Inc."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://jeffmiller.house.gov/deepwater": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,jeffmiller,)/deepwater", 
+    "attributes": {
+      "Site_Name": [
+        "Deepwater Horizon Hub: Representative Jeff Miller Florida 1st District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sunherald.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,sunherald,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,sunherald,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Biloxi-Gulfport SunHerald.com Homepage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://tampa.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,tampa,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.sierraclub.org/oilspill/map": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,sierraclub,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,sierraclub,www,)/oilspill/map", 
+    "attributes": {
+      "Site_Name": [
+        "Sierra Club: Gulf Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://oilspill.fsu.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,fsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,fsu,oilspill,)", 
+    "attributes": {
+      "Site_Name": [
+        "Oil Spill Academic Task Force"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://billnelson.senate.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,billnelson,)", 
+    "attributes": {
+      "Site_Name": [
+        "Bill Nelson, U.S. Senator from Florida: Home "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.deepwaterhorizonresponse.com/go/doc/2931/557731": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,deepwaterhorizonresponse,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,deepwaterhorizonresponse,www,)/go/doc/2931/557731", 
+    "attributes": {
+      "Site_Name": [
+        "Live Blogging - Wildlife Expert Conference Call"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dod.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,dod,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,dod,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Defenselink"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://topics.wsj.com/subject/D/deepwater-horizon-oil-spill/6051?mod=quicklinks_oilspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,wsj,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wsj,topics,)/subject/d/deepwater-horizon-oil-spill/6051?mod=quicklinks_oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "The Wall Street Journal: Topics : Gulf Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www..lib.lsu.edu/ref/oilspill": {
+    "nominators": [
+      "Jorie Porter - Louisiana State University"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,lib,,www,)/ref/oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "LSU Libraries Oil Spill Information Service Subject Guide"
+      ], 
+      "Description": [
+        "This site is a service of LLOSIS at LSU.  It is a subject guide of resources related to the BP Horizon Deepwater Oil Spill including faculty research, news, volunteer sites, government resources, and variety of other resources.  "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.uscg.mil/ccs/npfc/Claims/default.asp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,uscg,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,uscg,www,)/ccs/npfc/claims/default.asp", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Coast Guard: Oil Spill Claims"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mds.mennonite.net": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(net,mennonite,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,mennonite,mds,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "A Mennonite Disaster Service"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dhs.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,dhs,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,dhs,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Department of Homeland Security | Preserving our Freedoms, Protecting America"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dailyworld.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dailyworld,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailyworld,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "dailyworld.com - Serving Opelousas, LA"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moneycentral.msn.com/detail/stock_quote?Symbol=RIG": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,moneycentral,)/detail/stock_quote?symbol=rig", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://neworleans.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,neworleans,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.taylor.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,taylor,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Gene Taylor : Mississippi 4th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://wavcis.csi.lsu.edu/index.asp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,csi,wavcis,)/index.asp", 
+    "attributes": {
+      "Site_Name": [
+        "WAVCIS, Coastal Studies Institue, LSU"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://keys.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,keys,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://sessions.senate.gov/public": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,sessions,)/public", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Jeff Sessions, Alabama "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://quote.morningstar.com/stock/s.aspx?t=nlc": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,morningstar,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,morningstar,quote,)/stock/s.aspx?t=nlc", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.doi.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,doi,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,doi,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Department of Energy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://wicker.senate.gov/public/index.cfm?FuseAction=NewsRoom.PressReleases&ContentRecord_id=938cb564-0748-3981-f7d0-8bd321e3954a&IsTextOnly=False": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,wicker,)/public/index.cfm?fuseaction=newsroom.pressreleases&contentrecord_id=938cb564-0748-3981-f7d0-8bd321e3954a&istextonly=false", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dailyfinance.com/quotes/halliburton-company/hal/nys": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dailyfinance,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailyfinance,www,)/quotes/halliburton-company/hal/nys", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://moneycentral.msn.com/detail/stock_quote?Symbol=NLC": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,moneycentral,)/detail/stock_quote?symbol=nlc", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.legis.state.la.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,la,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,la,state,legis,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State Legislature"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.tahc.state.tx.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,tx,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,tx,state,tahc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Texas Animal Health Commission"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ros-lehtinen.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,ros-lehtinen,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congresswoman Ileana Ros-Lehtinen : Florida 18th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://southernstudies.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,southernstudies,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,southernstudies,)", 
+    "attributes": {
+      "Site_Name": [
+        "ISS - Institute of Southern Studies"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lsba.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,lsba,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,lsba,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State Bar Association"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wpmi.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,wpmi,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wpmi,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "NBC 15 Online"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://murkowski.senate.gov/public/index.cfm?p=PressReleases&ContentRecord_id=7d2b2e4a-039b-4301-b401-7f172334b0cb": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,murkowski,)/public/index.cfm?p=pressreleases&contentrecord_id=7d2b2e4a-039b-4301-b401-7f172334b0cb", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.huffingtonpost.com/news/bp-oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,huffingtonpost,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,huffingtonpost,www,)/news/bp-oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "Huffington Post: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.melancon.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,melancon,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "\u2022Melancon, Charlie, Louisiana, 3rd"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.search.yahoo.com/search?&p=gulf+oil+spill&rs=0&fr2=rs-top": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,search,news,)/search?&p=gulf+oil+spill&rs=0&fr2=rs-top", 
+    "attributes": {
+      "Site_Name": [
+        "Yahoo! News : Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://energycommerce.house.gov/index.php?option=com_content&view=article&id=1997:hearing-on-inquiry-into-the-deepwater-horizon-gulf-coast-oil-spill&catid=133:subcommittee-on-oversight-and-investigations&Itemid=73": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,energycommerce,)/index.php?option=com_content&view=article&id=1997:hearing-on-inquiry-into-the-deepwater-horizon-gulf-coast-oil-spill&catid=133:subcommittee-on-oversight-and-investigations&itemid=73", 
+    "attributes": {
+      "Site_Name": [
+        "House Hearing: Inquiry into the Deepwater Horizon Gulf Coast Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.olemiss.edu/index.php?/niustblog": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,olemiss,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,olemiss,news,)/index.php?/niustblog", 
+    "attributes": {
+      "Site_Name": [
+        "National Institute for Undersea Science and Technology: Blog"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.governor.alabama.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,alabama,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,alabama,governor,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "KLSU 91.1 FM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lbl.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,lbl,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,lbl,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Lawrence Berkeley National Laboratory"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cjrdaily.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,cjrdaily,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cjrdaily,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Columbia Journalism Review"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://vitter.senate.gov/public": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,vitter,)/public", 
+    "attributes": {
+      "Site_Name": [
+        "Senator David Vitter - Louisiana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.marketwatch.com/investing/stock/BP": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,marketwatch,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,marketwatch,www,)/investing/stock/bp", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www2.tbo.com/news/reports/special/oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,tbo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,tbo,www2,)/news/reports/special/oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "Tampa Bay Online (Tampa Tribune): Gulf Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.secureenergy.org/site/page.php?index": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,secureenergy,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,secureenergy,www,)/site/page.php?index", 
+    "attributes": {
+      "Site_Name": [
+        "SAFE : Securing America's Future Energy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cityofno.com/pg-162-35.aspx": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cityofno,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cityofno,www,)/pg-162-35.aspx", 
+    "attributes": {
+      "Site_Name": [
+        "City of New Orleans Oil Spill Information"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://oversight.house.gov/index.php?option=com_content&task=view&id=4926&Itemid=49": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,oversight,)/index.php?option=com_content&task=view&id=4926&itemid=49", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://metoc.npmoc.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,npmoc,metoc,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://search.salon.com/salonsearch.php?breadth=salon&search=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,salon,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,salon,search,)/salonsearch.php?breadth=salon&search=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "Salon.com - Breaking news, opinion, politics, entertainment, sports and culture."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.house.gov/young": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,www,)/young", 
+    "attributes": {
+      "Site_Name": [
+        "Representative C.W. Bill Young : Florida 10th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://simulator.investopedia.com/stocks/hal": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,investopedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,investopedia,simulator,)/stocks/hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://buchanan.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,buchanan,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Vern Buchanan "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/pages/Alabama-Coastal-Foundation/144073012011?ref=ts": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/pages/alabama-coastal-foundation/144073012011?ref=ts", 
+    "attributes": {
+      "Site_Name": [
+        "Alabama Coastal Foundation Facebook Page"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.epa.gov/bpspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,epa,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,epa,www,)/bpspill", 
+    "attributes": {
+      "Site_Name": [
+        "Environmental Protection Agency : Deepwater Horizon Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://transportation.house.gov/hearings/hearingDetail.aspx?NewsID=1193": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,transportation,)/hearings/hearingdetail.aspx?newsid=1193", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.katc.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,katc,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,katc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "KATC.com - Acadiana News, Acadiana Weather, Acadiana Sports | Lafayette Weather, Lafayette News, Lafayette SportsHub City Ford"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/oil_spill_2010": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/oil_spill_2010", 
+    "attributes": {
+      "Site_Name": [
+        "DeepwaterHorizon JIC (Oil_Spill_2010) on Twitter"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://boyd.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,boyd,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Allen Boyd : Florida 2nd District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lib.lsu.edu/ref/oilspill": {
+    "nominators": [
+      "michael sholinbeck - UC Berkeley Public Health Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,lib,www,)/ref/oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "LSU Libraries Oil Spill Information Service"
+      ], 
+      "Description": [
+        "LLOSIS is a service of LSU Libraries, provided by a team of liaison librarians who specialize in a variety of disciplines. This subject guide addresses the Deepwater Horizon oil spill. To request other resources or topics please contact either Jorie Porte"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://cassidy.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,cassidy,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Bill Cassidy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.timesonline.co.uk/tol/sitesearch.do?query=oil+spill&turnOffGoogleAds=false&submitStatus=searchFormSubmitted&mode=simple&sectionId=682": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,timesonline,www,)/tol/sitesearch.do?query=oil+spill&turnoffgoogleads=false&submitstatus=searchformsubmitted&mode=simple&sectionid=682", 
+    "attributes": {
+      "Site_Name": [
+        "Times Online | News and Views from The Times and Sunday Times"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cnmoc.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,cnmoc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fishlcba.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,fishlcba,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,fishlcba,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Fish LCBA - Louisiana Charter Boat Association "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/finance?client=ob&q=NYSE:RIG": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/finance?client=ob&q=nyse:rig", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.exxonmobil.com/corporate": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,exxonmobil,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,exxonmobil,www,)/corporate", 
+    "attributes": {
+      "Site_Name": [
+        "ExxonMobil"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://library.beau.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,beau,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,beau,library,)", 
+    "attributes": {
+      "Site_Name": [
+        "Beauregard Parish (Public) Library Civic Net"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.hhs.gov/gulfoilspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,hhs,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,hhs,www,)/gulfoilspill", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Department of Health and Human Services : Gulf Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mobile.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,mobile,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.deepwater.com/fw/main/Home-1.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,deepwater,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,deepwater,www,)/fw/main/home-1.html", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.floods.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,floods,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,floods,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Association of State Floodplain Managers, Inc. - Home Page"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.logomyway.com/contestView.php?contestId=1746": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,logomyway,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,logomyway,www,)/contestview.php?contestid=1746", 
+    "attributes": {
+      "Site_Name": [
+        "BP Logo Redesign Contest"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.livinggreensa.com/Gulf_Coast_oil_spill.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,livinggreensa,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,livinggreensa,www,)/gulf_coast_oil_spill.html", 
+    "attributes": {
+      "Site_Name": [
+        "Living Green San Antonio: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.noaawatch.gov/headlines/oilspill.php": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,noaawatch,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,noaawatch,www,)/headlines/oilspill.php", 
+    "attributes": {
+      "Site_Name": [
+        "NOAAWatch Oil Spill Headlines"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.foxnews.com/topics/politics/gulf-oil-spill.htm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,foxnews,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,foxnews,www,)/topics/politics/gulf-oil-spill.htm", 
+    "attributes": {
+      "Site_Name": [
+        "Fox News: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.gnof.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,gnof,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,gnof,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Greater New Orleans Foundation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bingaman.senate.gov/search/index.cfm?num=10&q=Deepwater": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,bingaman,www,)/search/index.cfm?num=10&q=deepwater", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://jeffmiller.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,jeffmiller,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Congressman Jeff Miller of Florida's 1st District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.pbs.org/search/search_results.html?q=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,pbs,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,pbs,www,)/search/search_results.html?q=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "PBS"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://finance.yahoo.com/q?d=t&s=HAL": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,finance,)/q?d=t&s=hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://content.usatoday.com/topics/topic/Oil%20Spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,usatoday,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,usatoday,content,)/topics/topic/oil%20spill", 
+    "attributes": {
+      "Site_Name": [
+        "USA Today:Topics : Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://emergency.louisiana.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,louisiana,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,louisiana,emergency,)", 
+    "attributes": {
+      "Site_Name": [
+        "Emergency Loisiana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cleanenergy.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,cleanenergy,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cleanenergy,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Southern Alliance for Clean Energy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.evostc.state.ak.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,ak,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,ak,state,evostc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Exxon Valdez Oil Spill Trustee Council"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://hnn.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,hnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,hnn,)", 
+    "attributes": {
+      "Site_Name": [
+        "History News Network"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.thenation.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,thenation,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,thenation,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "The Nation | Unconventional Wisdom Since 1865"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://finance.yahoo.com/q?d=t&s=BP": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,finance,)/q?d=t&s=bp", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://alexander.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,alexander,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Rodney Alexander : Home"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.washingtontimes.com/news/environment": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,washingtontimes,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,washingtontimes,www,)/news/environment", 
+    "attributes": {
+      "Site_Name": [
+        "The Washington Times : Energy and Environment"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lrl.usace.army.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,army,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,army,usace,lrl,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Army Corps of Engineers - HQ"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://mack.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,mack,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Connie Mack "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wkrg.com/gulf_oil_spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,wkrg,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wkrg,www,)/gulf_oil_spill", 
+    "attributes": {
+      "Site_Name": [
+        "News Mobile Alabama - Pensacola Florida FL News - WKRG.com"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.guardian.co.uk/environment/deepwater-horizon-oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,guardian,www,)/environment/deepwater-horizon-oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "Guardian UK: Oil Spill Page"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/LSUDisasterSci": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/lsudisastersci", 
+    "attributes": {
+      "Site_Name": [
+        "LSU Disaster Science Twitter Feed"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cic.lsu.edu/OilSpill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,cic,www,)/oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "LSU Cartographic Information Center: Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fws.gov/home/dhoilspill/index.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,fws,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,fws,www,)/home/dhoilspill/index.html", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Fish and Wildlife Service: Horizon Oil Spill Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://owcnblog.wordpress.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,wordpress,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wordpress,owcnblog,)", 
+    "attributes": {
+      "Site_Name": [
+        "Oiled Wildlife Care Network Blog "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://quote.morningstar.com/Stock/s.aspx?t=RIG": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,morningstar,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,morningstar,quote,)/stock/s.aspx?t=rig", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.npmoc.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,npmoc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.esl.lsu.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,esl,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "HOME - Earth Scan Laboratory, LSU"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gulfblog.uga.edu": {
+    "nominators": [
+      "Heather Christenson - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,uga,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,uga,gulfblog,)", 
+    "attributes": {
+      "Site_Name": [
+        "Gulf Oil Blog, UGA Department of Marine Sciences"
+      ], 
+      "Description": [
+        "A team of University of Georgia marine scientists is conducting research on the huge underwater oil plume that was discovered in the aftermath of the Deepwater Horizon oil rig explosion.  Throughout a two-week cruise in the Gulf of Mexico, they are postin"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.serve.gov/oilspill.asp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,serve,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,serve,www,)/oilspill.asp", 
+    "attributes": {
+      "Site_Name": [
+        "Serve.gov: Oil Spill Cleanup"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://money.cnn.com/quote/quote.html?symb=NLC": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,money,)/quote/quote.html?symb=nlc", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ortiz.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,ortiz,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Solomon P. Ortiz - Texas 27th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wlf.louisiana.gov/oilspill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,louisiana,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,louisiana,wlf,www,)/oilspill", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana Department of Wildlife and Fisheries"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.fema.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,fema,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,fema,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Federal Emergency Management Agency"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://wicker.senate.gov/public": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,wicker,)/public", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Roger Wicker, Mississippi"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nationalcenter.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,nationalcenter,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,nationalcenter,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "National Center for Public Policy Research "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.osha.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,osha,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,osha,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Occupational Safety and Health Administration - OSHA HOME PAGE"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.vetmed.lsu.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,vetmed,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State University School of Veterinary Medicine"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://eogtmp.sto.fl.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,fl,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,fl,sto,eogtmp,)", 
+    "attributes": {
+      "Site_Name": [
+        "Florida Governor Charlie Crist | Executive Office of the Governor"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ogj.pennnet.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,pennnet,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,pennnet,ogj,)", 
+    "attributes": {
+      "Site_Name": [
+        "Oil & Gas Journal Online"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://bilirakis.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,bilirakis,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Gus Bilirakis - Home "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.alabama.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,alabama,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,alabama,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "KLSU 91.1 FM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://billnelson.senate.gov/news/Oil%20Spill%20Response%20Numbers.pdf": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,billnelson,)/news/oil%20spill%20response%20numbers.pdf", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://money.cnn.com/quote/quote.html?symb=HAL": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,money,)/quote/quote.html?symb=hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://media.primezone.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,primezone,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,primezone,media,)", 
+    "attributes": {
+      "Site_Name": [
+        "GlobeNewswire, Inc."
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lsp.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,lsp,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,lsp,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State Police"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ammpa.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,ammpa,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,ammpa,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Alliance of Marine Mammal Parks and Aquariums"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.noaa.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,noaa,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,noaa,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "National Oceanic and Atmospheric Administration"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dep.state.fl.us/deepwaterhorizon/default.htm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,fl,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,fl,state,dep,www,)/deepwaterhorizon/default.htm", 
+    "attributes": {
+      "Site_Name": [
+        "Florida Dept. of Environmental Protection: Deepwater Horizon Response"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://finance.yahoo.com/q?d=t&s=RIG": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,finance,)/q?d=t&s=rig", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.archdiocese-no.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,archdiocese-no,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,archdiocese-no,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Archdiocese of New Orleans"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.democraticunderground.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,democraticunderground,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,democraticunderground,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Democratic Underground"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.floridadisaster.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,floridadisaster,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,floridadisaster,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Welcome to FloridaDisaster.org"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.wwltv.com/results?search=site&keywords=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,wwltv,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,wwltv,www,)/results?search=site&keywords=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "WWLTV: News - Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://gallup.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,gallup,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,gallup,)", 
+    "attributes": {
+      "Site_Name": [
+        "Gallup.Com - Polls, Daily Tracking, Public Opinion on News, Politics, Economics, Management"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.scalise.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,scalise,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Steve Scalise"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dot.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,dot,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,dot,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Department of Transportation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://quote.morningstar.com/stock/s.aspx?t=hal": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,morningstar,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,morningstar,quote,)/stock/s.aspx?t=hal", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton Stock Quotes"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lsu.edu/pa/mediacenter/tipsheets/oilspill.shtml": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,www,)/pa/mediacenter/tipsheets/oilspill.shtml", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State University: Oil Spill Resources"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.gov.state.la.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,la,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,la,state,gov,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Governor Bobby Jindal | State of Louisiana"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.cdlib.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,cdlib,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,cdlib,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "site"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.mms.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,mms,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,mms,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Minerals Management Service"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fossil.energy.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,energy,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,energy,fossil,)", 
+    "attributes": {
+      "Site_Name": [
+        "DOE - Fossil Energy: Office of Fossil Energy Home Page"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ireport.com/ir-topic-stories.jspa?topicId=437986": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,ireport,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ireport,www,)/ir-topic-stories.jspa?topicid=437986", 
+    "attributes": {
+      "Site_Name": [
+        "CNN.com: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.usgs.gov/deepwater_horizon": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,usgs,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,usgs,www,)/deepwater_horizon", 
+    "attributes": {
+      "Site_Name": [
+        "US Geological Survey - Deepwater Horizon"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://info.publicintelligence.net/BPGoMspillresponseplan.pdf": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(net,publicintelligence,", 
+    "nomination_score": 1, 
+    "surt": "http://(net,publicintelligence,info,)/bpgomspillresponseplan.pdf", 
+    "attributes": {
+      "Site_Name": [
+        "BP Regional Oil Spill Response Plan - Gulf of Mexico "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nathanielturner.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,nathanielturner,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nathanielturner,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Chickenbones Literary Journal"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dailyfinance.com/quotes/transocean-ltd-switzerland-common-stock/rig/nys": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dailyfinance,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailyfinance,www,)/quotes/transocean-ltd-switzerland-common-stock/rig/nys", 
+    "attributes": {
+      "Site_Name": [
+        "Transocean Stock"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://bonner.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,bonner,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Jo Bonner : Alabama 1st District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nrlmry.navy.mil": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(mil,navy,", 
+    "nomination_score": 1, 
+    "surt": "http://(mil,navy,nrlmry,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "US Navy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://finance.yahoo.com/q?d=t&s=NLC": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,yahoo,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,yahoo,finance,)/q?d=t&s=nlc", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.deepwaterhorizonresponse.com/go/site/2931": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,deepwaterhorizonresponse,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,deepwaterhorizonresponse,www,)/go/site/2931", 
+    "attributes": {
+      "Site_Name": [
+        "Deepwater Horizon Unified Command"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://cochran.senate.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,cochran,)", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Thad Cochran of Mississippi"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://quote.morningstar.com/stock/s.aspx?t=bp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,morningstar,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,morningstar,quote,)/stock/s.aspx?t=bp", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://brown-waite.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,brown-waite,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congresswoman Ginny Brown-Waite : Florida 5th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://ac360.blogs.cnn.com/category/gulf-oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,cnn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,cnn,blogs,ac360,)/category/gulf-oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "Anderson Cooper 360 Blog: Oil Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.house.gov/paul": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,www,)/paul", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Ron Paul : Texas 14th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.met.fsu.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,fsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,fsu,met,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "FSU Meteorology Home Page - Florida State University Meteorology Department"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://climateprogress.org/category/bp-oil-disaster": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,climateprogress,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,climateprogress,)/category/bp-oil-disaster", 
+    "attributes": {
+      "Site_Name": [
+        "Climate Progress"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.lib.lsu.edu/ref/oilspill/index.php": {
+    "nominators": [
+      "michael sholinbeck - UC Berkeley Public Health Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,lib,www,)/ref/oilspill/index.php", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana State Uinveristy Libraries Oil Spill Information Service"
+      ], 
+      "Description": [
+        "LLOSIS is a service of LSU Libraries, provided by a team of liaison librarians who specialize in a variety of disciplines. This subject guide addresses the Deepwater Horizon oil spill. LLOSIS professionals are available to assist members of the LSU commun"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.spr.doe.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,doe,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,doe,spr,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Department of Energy"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.louisianasportsman.com/communities/oil_spill/index.php": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,louisianasportsman,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,louisianasportsman,www,)/communities/oil_spill/index.php", 
+    "attributes": {
+      "Site_Name": [
+        "BP Gulf Oil Spill Louisiana news - Louisiana Sportsman"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.tristatebird.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,tristatebird,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,tristatebird,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Tri-State Bird Rescue & Research"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ajc.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,ajc,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ajc,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Atlanta News, Sports, Atlanta Weather, Business News | ajc.com"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://response.restoration.noaa.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,noaa,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,noaa,restoration,response,)", 
+    "attributes": {
+      "Site_Name": [
+        "NOAA Office of Response and Restoration"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.bradenton.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,bradenton,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,bradenton,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Bradenton Herald"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nalco.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,nalco,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,nalco,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Nalco"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.dailyfinance.com/quotes/bp-p-l-c/bp/nys": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,dailyfinance,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,dailyfinance,www,)/quotes/bp-p-l-c/bp/nys", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.disastersiteworker.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,disastersiteworker,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,disastersiteworker,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Certified Disaster Site Worker Training and HAZWOPER"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.roffs.com/deepwaterhorizon.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,roffs,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,roffs,www,)/deepwaterhorizon.html", 
+    "attributes": {
+      "Site_Name": [
+        "Roffs Co. Deepwater Horizon Monitoring"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.nvoad.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,nvoad,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,nvoad,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "National Voluntary Organizations Active in Disaster (NVOAD) > Home"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.propublica.org/series/gulf-oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,propublica,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,propublica,www,)/series/gulf-oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "ProPublica: Gulf Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.csmonitor.com/content/search?SearchText=oil+spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,csmonitor,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,csmonitor,www,)/content/search?searchtext=oil+spill", 
+    "attributes": {
+      "Site_Name": [
+        "The Christian Science Monitor | Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://poe.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,poe,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman Ted Poe, Serving the 2nd District of Texas "
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Deepwater_Horizon": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/deepwater_horizon", 
+    "attributes": {
+      "Site_Name": [
+        "Wikipedia : Deepwater Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.facebook.com/DeepwaterHorizonResponse": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,facebook,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,facebook,www,)/deepwaterhorizonresponse", 
+    "attributes": {
+      "Site_Name": [
+        "Deepwater Horizon Response on Facebook"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ledger-enquirer.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,ledger-enquirer,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,ledger-enquirer,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Ledger-Enquirer.com | Homepage |"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://batonrouge.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,batonrouge,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://corpuschristi.craigslist.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,craigslist,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,craigslist,corpuschristi,)", 
+    "attributes": {
+      "Site_Name": [
+        "Craigslist sites for gulf coast cities"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.esa.org/esablog/tag/gulf-oil-spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,esa,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,esa,www,)/esablog/tag/gulf-oil-spill", 
+    "attributes": {
+      "Site_Name": [
+        "Ecological Society of America - Ecotone Blog - Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://globalwarming.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,globalwarming,)", 
+    "attributes": {
+      "Site_Name": [
+        "House Select Committee on Energy Independence and Global Warming"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.americanprogress.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,americanprogress,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,americanprogress,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Center for American Progress"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.tulane.edu": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,tulane,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,tulane,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Tulane University"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.house.gov/list/speech/mi01_stupak/morenews/20100512bpopening.html": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,www,)/list/speech/mi01_stupak/morenews/20100512bpopening.html", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. House Documents on Deepwater Horizon Spill"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.klsu.fm:16080": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(fm,klsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(fm,klsu,www,:16080)", 
+    "attributes": {
+      "Site_Name": [
+        "KLSU 91.1 FM"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.senate.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.msnbc.msn.com/id/36947751": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,msn,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,msn,msnbc,www,)/id/36947751", 
+    "attributes": {
+      "Site_Name": [
+        "MSNBC: Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.research.lsu.edu/Oil%20Spill.shtml": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,research,www,)/oil%20spill.shtml", 
+    "attributes": {
+      "Site_Name": [
+        "LSU: Office of Research & Economic Development: Horizon Oil Spill Resources"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://news.bbc.co.uk/2/hi/americas/8679090.stm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(uk,co,", 
+    "nomination_score": 1, 
+    "surt": "http://(uk,co,bbc,news,)/2/hi/americas/8679090.stm", 
+    "attributes": {
+      "Site_Name": [
+        "BBC - Oil Spill Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.google.com/finance?client=ob&q=NYSE:BP": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,google,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,google,www,)/finance?client=ob&q=nyse:bp", 
+    "attributes": {
+      "Site_Name": [
+        "BP Stock Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.epw.senate.gov/public/index.cfm?FuseAction=PressRoom.PressReleases&ContentRecord_id=a8ba0b2c-802a-23ad-4f67-0b41fd7e38a9&Designation=Majority": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,epw,www,)/public/index.cfm?fuseaction=pressroom.pressreleases&contentrecord_id=a8ba0b2c-802a-23ad-4f67-0b41fd7e38a9&designation=majority", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.governor.state.tx.us": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(us,tx,", 
+    "nomination_score": 1, 
+    "surt": "http://(us,tx,state,governor,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Texas Office of the Governor - Rick Perry"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.ohsep.louisiana.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,louisiana,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,louisiana,ohsep,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Louisiana Governor's Office of Homeland Security & Emergency Preparedness Home"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.esl.lsu.edu/home": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(edu,lsu,", 
+    "nomination_score": 1, 
+    "surt": "http://(edu,lsu,esl,www,)/home", 
+    "attributes": {
+      "Site_Name": [
+        "LSU: Earth Scan Laboratory"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://fleming.house.gov": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,house,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,house,fleming,)", 
+    "attributes": {
+      "Site_Name": [
+        "Congressman John Fleming : Louisiana 4th District"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.unitedhoumanation.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,unitedhoumanation,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,unitedhoumanation,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "United Houma Nation"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.halliburton.com": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,halliburton,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,halliburton,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "Haliburton"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,wikipedia,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,wikipedia,en,)/wiki/deepwater_horizon_oil_spill", 
+    "attributes": {
+      "Site_Name": [
+        "Wikipedia : Deepwater Pages"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://motherjones.com/category/primary-tags/bp": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,motherjones,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,motherjones,)/category/primary-tags/bp", 
+    "attributes": {
+      "Site_Name": [
+        "Mother Jones BP Coverage"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://www.niust.org": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(org,niust,", 
+    "nomination_score": 1, 
+    "surt": "http://(org,niust,www,)", 
+    "attributes": {
+      "Site_Name": [
+        "National Institute for Undersea Science and Technology"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://twitter.com/SenBillNelson": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(com,twitter,", 
+    "nomination_score": 1, 
+    "surt": "http://(com,twitter,)/senbillnelson", 
+    "attributes": {
+      "Site_Name": [
+        "Senator Bill Nelson Florida - Twitter"
+      ]
+    }, 
+    "nomination_count": 1
+  }, 
+  "http://landrieu.senate.gov/mediacenter/pressreleases/05-11-2010-3.cfm": {
+    "nominators": [
+      "Tracy Seneca - California Digital Library"
+    ], 
+    "domain_surt": "http://(gov,senate,", 
+    "nomination_score": 1, 
+    "surt": "http://(gov,senate,landrieu,)/mediacenter/pressreleases/05-11-2010-3.cfm", 
+    "attributes": {
+      "Site_Name": [
+        "U.S. Senate Oil Spill Documents"
+      ]
+    }, 
+    "nomination_count": 1
+  }
+}
